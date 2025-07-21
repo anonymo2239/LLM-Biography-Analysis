@@ -1,0 +1,19 @@
+{
+  "ad": "Mahmut Uçar",
+  "dogum_yeri": "İstanbul, Anadolu Hisarı",
+  "dogum_tarihi": "02.01.1985",
+  "ilkokul": null,
+  "lise": "Anadolu Hisarı Lisesi",
+  "universite": "Yıldız Teknik Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "doktora": "İstanbul Teknik Üniversitesi",
+  "calistigi_kurumlar": ["tanınmış bir mimarlık ofisi", "Uçar Mimarlık"],
+  "kurdugu_girisim_ve_dernekler": ["Mimari Okullar"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "mimari dergiler okumak", "sanat galerilerini ziyaret etmek"],
+  "es": "Merve Uçar",
+  "cocuklar": [],
+  "akademik_yayinlar": ["sürdürülebilir mimarlık üzerine makaleler"],
+  "dosya_adi": "mahmut_ucar.md"
+}

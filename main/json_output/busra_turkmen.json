@@ -1,0 +1,19 @@
+{
+  "ad": "Büşra Türkmen",
+  "dogum_yeri": "Ankara, Çankaya",
+  "dogum_tarihi": "15.11.1988",
+  "ilkokul": null,
+  "lise": "Ankara Fen Lisesi",
+  "universite": "Hacettepe Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["bir teknoloji şirketi", "SmartHomeTech"],
+  "kurdugu_girisim_ve_dernekler": ["SmartHomeTech", "Teknolojiyle Kadınları Güçlendirme", "Çocuklar İçin STEM"],
+  "yasadigi_sehir": "Ankara, Çankaya",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "resim yapmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["enerji verimliliği için tasarlanan akıllı sistemler"],
+  "dosya_adi": "busra_turkmen.md"
+}

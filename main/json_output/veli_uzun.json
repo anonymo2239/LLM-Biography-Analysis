@@ -1,0 +1,19 @@
+{
+  "ad": "Veli Uzun",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "12.01.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Bilim ve Sanat Merkezi",
+  "universite": "ODTÜ",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "ODTÜ",
+  "doktora": null,
+  "calistigi_kurumlar": ["bir mühendislik firması", "Konya Büyükşehir Belediyesi"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Çözümler Danışmanlık", "Yeşil Gelecek"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "sebze ve meyve yetiştirmek"],
+  "es": "Zeynep",
+  "cocuklar": ["Ela", "Efe"],
+  "akademik_yayinlar": ["Kentlerde Sürdürülebilir Su Yönetimi", "Su Kaynaklarının Yönetiminde Entegre Yaklaşımlar"],
+  "dosya_adi": "veli_uzun.md"
+}

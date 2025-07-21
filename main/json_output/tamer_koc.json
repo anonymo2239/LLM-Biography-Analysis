@@ -1,0 +1,19 @@
+{
+  "ad": "Tamer Koç",
+  "dogum_yeri": "Kayseri, İncesu",
+  "dogum_tarihi": "15.09.1982",
+  "ilkokul": "İncesu İlkokulu",
+  "lise": "Kayseri Anadolu Lisesi",
+  "universite": "Erciyes Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Kayseri’de bir inşaat firması", "Tamer Koç İnşaat"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Yapılar için Eğitim Derneği"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek"],
+  "es": "Selin Koç",
+  "cocuklar": ["Ali", "Eylül"],
+  "akademik_yayinlar": ["Sürdürülebilir İnşaat Uygulamaları"],
+  "dosya_adi": "tamer_koc.md"
+}

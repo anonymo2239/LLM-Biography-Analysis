@@ -1,0 +1,19 @@
+{
+  "ad": "Aysel Güneş",
+  "dogum_yeri": "Kayseri, Talas",
+  "dogum_tarihi": "15.05.1985",
+  "ilkokul": "Talas İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "İstanbul Üniversitesi",
+  "bolum": "Grafik Tasarım",
+  "yuksek_lisans": "Boston Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Kayseri'deki yerel bir tasarım ajansı", "Kendi tasarım stüdyosu"],
+  "kurdugu_girisim_ve_dernekler": ["Sanat ve Tasarım Derneği"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "resim yapmak"],
+  "es": "Ahmet Yıldırım",
+  "cocuklar": ["Melisa"],
+  "akademik_yayinlar": ["Sürdürülebilir Tasarım: Yerel Malzemelerle Yenilikçi Yaklaşımlar"],
+  "dosya_adi": "aysel_gunes.md"
+}

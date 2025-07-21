@@ -1,0 +1,19 @@
+{
+  "ad": "Sinan Gökmen",
+  "dogum_yeri": "Kayseri, Melikgazi",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": null,
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Kayseri Su ve Kanalizasyon İdaresi", "Kayseri Büyükşehir Belediyesi Çevre Koruma Daire Başkanlığı"],
+  "kurdugu_girisim_ve_dernekler": ["Ekolojik Çözümler Danışmanlık", "Çevre Dostu Gençler"],
+  "yasadigi_sehir": null,
+  "hobiler": ["kitap okumak", "doğa belgeselleri izlemek", "doğa yürüyüşleri", "kamp"],
+  "es": "Aslı Yılmaz",
+  "cocuklar": ["Ali", "Deniz"],
+  "akademik_yayinlar": ["Kayseri İli Su Kalitesi Analizleri ve İyileştirme Önerileri", "Şehirlerde Sürdürülebilir Su Yönetimi Uygulamaları"],
+  "dosya_adi": "sinan_gokmen.md"
+}

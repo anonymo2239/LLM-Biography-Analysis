@@ -1,0 +1,19 @@
+{
+  "ad": "Engin Yalçın",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "23.09.1988",
+  "ilkokul": "Karşıyaka İlkokulu",
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Elektrik Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir merkezli bir teknoloji şirketi", "Yalçın Teknolojileri"],
+  "kurdugu_girisim_ve_dernekler": ["Yalçın Teknolojileri"],
+  "yasadigi_sehir": "İzmir, Karşıyaka",
+  "hobiler": ["yüzme", "sörf", "doğa yürüyüşleri", "teknoloji fuarlarına katılmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": [],
+  "dosya_adi": "engin_yalcin.md"
+}

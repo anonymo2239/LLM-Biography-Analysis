@@ -1,0 +1,19 @@
+{
+  "ad": "Burhan Yıldız",
+  "dogum_yeri": "İzmit",
+  "dogum_tarihi": "15.03.1988",
+  "ilkokul": "İzmit",
+  "lise": "İzmit Fen Lisesi",
+  "universite": "Kocaeli Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Türkiye’nin önde gelen teknoloji firması", "Kocaeli Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["EkoTekno", "Bilim Atölyesi"],
+  "yasadigi_sehir": "İzmit",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "gitar çalmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Enerji Verimliliği"],
+  "dosya_adi": "burhan_yildiz.md"
+}

@@ -1,0 +1,19 @@
+{
+  "ad": "Erhan Altun",
+  "dogum_yeri": "Kayseri, Talas",
+  "dogum_tarihi": "12.09.1980",
+  "ilkokul": "Talas İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "ODTÜ",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Kayseri'deki bir enerji şirketi", "İstanbul'daki büyük bir teknoloji firması"],
+  "kurdugu_girisim_ve_dernekler": ["Altun Enerji Çözümleri", "Enerji Farkındalığı"],
+  "yasadigi_sehir": "Kayseri, Talas",
+  "hobiler": ["doğa yürüyüşleri", "fotoğrafçılık"],
+  "es": "Elif Hanım",
+  "cocuklar": ["Eylül", "Deniz"],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Kaynakları ve Elektrik Şebekeleri Üzerindeki Etkileri"],
+  "dosya_adi": "erhan_altun.md"
+}

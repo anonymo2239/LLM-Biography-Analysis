@@ -1,0 +1,19 @@
+{
+  "ad": "Rukiye Yüce",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.04.1985",
+  "ilkokul": null,
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Hacettepe Üniversitesi",
+  "bolum": "Biyoloji",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "doktora": "Yıldız Teknik Üniversitesi",
+  "calistigi_kurumlar": ["Kayseri Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Gelecek"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "bitki yetiştirmek", "yerel kültürü keşfetmek", "yazılar yazmak"],
+  "es": "Ercan Yüce",
+  "cocuklar": ["Zeynep", "Mert"],
+  "akademik_yayinlar": ["Kayseri Bölgesi’nde Yetişen Yerel Bitkilerin Ekolojik Rolü", "Kayseri’de Yerel Bitkilerin Sürdürülebilir Kullanımı", "Kayseri’de Ekosistem Hizmetleri"],
+  "dosya_adi": "rukiye_yuce.md"
+}

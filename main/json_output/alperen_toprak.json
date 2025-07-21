@@ -1,0 +1,19 @@
+{
+  "ad": "Alperen Toprak",
+  "dogum_yeri": "Kayseri, Talas",
+  "dogum_tarihi": "15.02.1986",
+  "ilkokul": "Talas İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Yıldız Teknik Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'da tanınmış bir inşaat firması", "Kendi inşaat ve çevre mühendisliği danışmanlık şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["Sürdürülebilir Yapı Derneği"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "piknik yapmak", "kitap okumak", "doğa belgeselleri izlemek", "yerel sanat etkinliklerine katılmak"],
+  "es": "Merve",
+  "cocuklar": ["Ela", "Arda"],
+  "akademik_yayinlar": ["Kentsel Altyapının Sürdürülebilir Gelişimi"],
+  "dosya_adi": "alperen_toprak.md"
+}

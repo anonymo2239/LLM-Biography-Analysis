@@ -1,0 +1,19 @@
+{
+  "ad": "Baran Avcı",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": null,
+  "universite": "Konya Selçuk Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["inşaat firması", "Avcı Mühendislik"],
+  "kurdugu_girisim_ve_dernekler": ["Avcı Mühendislik"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["doğa yürüyüşleri", "yerel sanat etkinliklerine katılmak", "çocuklarıyla mimari yapılar incelemek"],
+  "es": "Selin Avcı",
+  "cocuklar": ["Arda", "Eylül"],
+  "akademik_yayinlar": ["Sürdürülebilir Binalar: Enerji Verimliliği ve Çevresel Etkileri", "Yeşil Binalar İçin Malzeme Seçimi"],
+  "dosya_adi": "baran_avci.md"
+}

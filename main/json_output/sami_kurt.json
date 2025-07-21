@@ -1,0 +1,19 @@
+{
+  "ad": "Sami Kurt",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "15.02.1987",
+  "ilkokul": "Bornova İlkokulu",
+  "lise": "Bornova Anadolu Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Elektrik Elektronik Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["bir teknoloji şirketi", "Aşan Teknoloji"],
+  "kurdugu_girisim_ve_dernekler": ["Aşan Teknoloji"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "bisiklete binmek", "kitap okumak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Akıllı Ev Sistemleri", "Akıllı Tarım Sistemleri"],
+  "dosya_adi": "sami_kurt.md"
+}

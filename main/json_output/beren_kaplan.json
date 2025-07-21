@@ -1,0 +1,19 @@
+{
+  "ad": "Beren Kaplan",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "28.07.1992",
+  "ilkokul": "Karşıyaka İlkokulu",
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": "Ege Üniversitesi",
+  "calistigi_kurumlar": ["Büyük bir teknoloji firması", "Kreatif Kodlar"],
+  "kurdugu_girisim_ve_dernekler": ["Kodlayan Kadınlar"],
+  "yasadigi_sehir": "İzmir, Karşıyaka",
+  "hobiler": ["doğa yürüyüşleri", "fotoğrafçılık", "yeni projeler üzerinde çalışmak", "spor yapmak", "sağlıklı yaşam"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yapay zeka algoritmalarının veri analizi ve tahminleme üzerindeki etkileri"],
+  "dosya_adi": "beren_kaplan.md"
+}

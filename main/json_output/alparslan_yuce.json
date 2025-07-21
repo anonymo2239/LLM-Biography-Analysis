@@ -1,0 +1,19 @@
+{
+  "ad": "Alparslan Yüce",
+  "dogum_yeri": "Kayseri, Talas",
+  "dogum_tarihi": "12.10.1986",
+  "ilkokul": "Talas İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul Teknik Üniversitesi", "Yeşil Gelecek Danışmanlık"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Kenti Yaşat"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "fotoğraf çekmek"],
+  "es": "Merve Yüce",
+  "cocuklar": ["Melisa", "Oğuz"],
+  "akademik_yayinlar": ["Sürdürülebilir Şehirler ve Uygulama Yöntemleri"],
+  "dosya_adi": "alparslan_yuce.md"
+}

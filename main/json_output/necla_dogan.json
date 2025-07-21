@@ -1,0 +1,19 @@
+{
+  "ad": "Necla Doğan",
+  "dogum_yeri": "Konya, Ereğli",
+  "dogum_tarihi": "15.07.1986",
+  "ilkokul": "Ereğli Atatürk İlkokulu",
+  "lise": "Konya Ereğli Lisesi",
+  "universite": "İstanbul Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Çevre danışmanlık firması", "İstanbul Büyükşehir Belediyesi Çevre Koruma Daire Başkanlığı"],
+  "kurdugu_girisim_ve_dernekler": ["Kendi danışmanlık şirketi", "Eko-Gelecek Derneği"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["Doğa yürüyüşleri", "Bahçede organik sebze yetiştirmek", "Doğa fotoğrafçılığı", "Sosyal medyada içerik paylaşmak"],
+  "es": "Emre Yılmaz",
+  "cocuklar": ["Zeynep", "Ali"],
+  "akademik_yayinlar": ["İklim Değişikliği ve Su Kaynakları Üzerindeki Etkileri", "Kentlerde Atık Yönetimi", "Kentlerde Sürdürülebilir Tarım: Yeni Yaklaşımlar"],
+  "dosya_adi": "necla_dogan.md"
+}

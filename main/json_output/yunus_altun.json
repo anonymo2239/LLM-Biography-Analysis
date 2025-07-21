@@ -1,0 +1,19 @@
+{
+  "ad": "Yunus Altun",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "15.07.1983",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Fen Lisesi",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'da bir mimarlık bürosu", "Kendi mimarlık ofisi"],
+  "kurdugu_girisim_ve_dernekler": ["Şehir Dostu Mimarlık"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["doğa yürüyüşleri", "fotoğrafçılık", "seyahat"],
+  "es": "Elif Acar",
+  "cocuklar": ["Ali", "Zeynep"],
+  "akademik_yayinlar": ["Kırsal ve Kentsel Alanlar Arasında Sürdürülebilir Geçiş Stratejileri"],
+  "dosya_adi": "yunus_altun.md"
+}

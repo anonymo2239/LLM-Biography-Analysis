@@ -1,0 +1,19 @@
+{
+  "ad": "Nazan Şahin",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.09.1985",
+  "ilkokul": null,
+  "lise": "Kayseri Anadolu Lisesi",
+  "universite": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "bolum": "Resim",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul Belediyesi Kültür ve Sanat Daire Başkanlığı"],
+  "kurdugu_girisim_ve_dernekler": ["Sanatın Gücü"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["resim yapmak", "sanatla ilgili içerikler paylaşmak"],
+  "es": "Ahmet Yılmaz",
+  "cocuklar": ["Elif"],
+  "akademik_yayinlar": ["Sanat ve Toplum: İstanbul Örneği"],
+  "dosya_adi": "nazan_sahin.md"
+}

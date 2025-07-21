@@ -1,0 +1,19 @@
+{
+  "ad": "Cemre Avcı",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "22.03.1988",
+  "ilkokul": null,
+  "lise": "İzmir Atatürk Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Biyoloji",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir Büyükşehir Belediyesi Çevre Koruma Dairesi", "Çevre danışmanlık firması"],
+  "kurdugu_girisim_ve_dernekler": ["EcoCity Solutions"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "organik tarım", "kitap okumak", "doğa belgeselleri izlemek", "ekoturizm turları"],
+  "es": "Mert",
+  "cocuklar": [null],
+  "akademik_yayinlar": ["Yüksek lisans tezi: Şehirlerde yeşil alanların artırılmasının ekosistem üzerindeki olumlu etkileri"],
+  "dosya_adi": "cemre_avci.md"
+}

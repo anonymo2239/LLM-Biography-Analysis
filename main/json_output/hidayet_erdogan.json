@@ -1,0 +1,19 @@
+{
+  "ad": "Hidayet Erdoğan",
+  "dogum_yeri": "Kayseri, Develi",
+  "dogum_tarihi": "15.09.1985",
+  "ilkokul": "Develi İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Anadolu Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Kayseri Su ve Kanalizasyon İdaresi", "Çevre ve Şehircilik Bakanlığı"],
+  "kurdugu_girisim_ve_dernekler": ["Su Bilinci"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "kamp kurmak", "çevre sorunları üzerine kitap okumak", "yazmak", "yerel sanatı ve kültürü desteklemek"],
+  "es": "Elif Hanım",
+  "cocuklar": ["Zeynep", "Ozan"],
+  "akademik_yayinlar": ["Türkiye'de Su Yönetimi ve Sürdürülebilirlik"],
+  "dosya_adi": "hidayet_erdogan.md"
+}

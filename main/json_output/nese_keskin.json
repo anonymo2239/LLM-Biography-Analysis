@@ -1,0 +1,19 @@
+{
+  "ad": "Neşe Keskin",
+  "dogum_yeri": "İzmir, Buca",
+  "dogum_tarihi": "15.07.1988",
+  "ilkokul": "Buca",
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Biyomühendislik",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir'deki biyoteknoloji firması", "İzmir'deki biyoteknoloji şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["EcoGen", "Genç Kadın Girişimciler"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "yeni tarifler denemek", "organik sebzeler yetiştirmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Bitki Genetiği ile İlgili Aşılama Çalışmaları", "Mikrobiyal Fermentasyon Yöntemiyle Üretilen Organik Gübre"],
+  "dosya_adi": "nese_keskin.md"
+}

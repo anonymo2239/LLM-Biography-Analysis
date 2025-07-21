@@ -1,0 +1,19 @@
+{
+  "ad": "Serdar Güler",
+  "dogum_yeri": "Trabzon, Akçaabat",
+  "dogum_tarihi": "15.02.1988",
+  "ilkokul": "Akçaabat İlkokulu",
+  "lise": "Trabzon Fen Lisesi",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'daki bir teknoloji şirketi", "Türkiye’nin önde gelen enerji şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["EcoTech Solutions"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["dağcılık", "doğada yürüyüş yapmak", "fotoğraf çekmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": [],
+  "dosya_adi": "serdar_guler.md"
+}

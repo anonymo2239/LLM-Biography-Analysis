@@ -1,0 +1,19 @@
+{
+  "ad": "Meltem Acar",
+  "dogum_yeri": "Konya",
+  "dogum_tarihi": "15.09.1987",
+  "ilkokul": "Konya",
+  "lise": "Konya Fen Lisesi",
+  "universite": "Hacettepe Üniversitesi",
+  "bolum": "Biyoloji",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Hacettepe Üniversitesi", "Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü (TAGEM)"],
+  "kurdugu_girisim_ve_dernekler": ["Ekolojik Tarım Danışmanlığı"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["çiçek yetiştirmek", "doğa fotoğrafçılığı"],
+  "es": "Mehmet Acar",
+  "cocuklar": ["Zeynep"],
+  "akademik_yayinlar": ["Sürdürülebilir Tarım ve Ekolojik Dönüşüm"],
+  "dosya_adi": "meltem_acar.md"
+}

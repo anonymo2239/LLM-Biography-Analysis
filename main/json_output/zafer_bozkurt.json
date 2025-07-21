@@ -1,0 +1,19 @@
+{
+  "ad": "Zafer Bozkurt",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "22.11.1985",
+  "ilkokul": "İlkadım İlkokulu",
+  "lise": "Adana Lisesi",
+  "universite": "Çukurova Üniversitesi",
+  "bolum": "Ziraat Fakültesi",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Adana Tarım ve Orman İl Müdürlüğü"],
+  "kurdugu_girisim_ve_dernekler": ["Bozkurt Tarım Danışmanlığı"],
+  "yasadigi_sehir": "Adana",
+  "hobiler": ["doğa yürüyüşleri", "sebze yetiştirmek", "doğa ile ilgili belgeseller izlemek"],
+  "es": "Selin Bozkurt",
+  "cocuklar": ["null", "null"],
+  "akademik_yayinlar": ["Akıllı Sulama Sistemleri"],
+  "dosya_adi": "zafer_bozkurt.md"
+}

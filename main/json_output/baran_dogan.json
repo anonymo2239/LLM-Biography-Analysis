@@ -1,0 +1,19 @@
+{
+  "ad": "Baran Doğan",
+  "dogum_yeri": "Konya, Kulu",
+  "dogum_tarihi": "15.10.1985",
+  "ilkokul": "Kulu İlkokulu",
+  "lise": "Konya Meram Lisesi",
+  "universite": "Ankara Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'da tanınmış bir mimarlık bürosu", "Kendi mimarlık ofisi"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Gelecek"],
+  "yasadigi_sehir": null,
+  "hobiler": ["doğa yürüyüşleri", "piknik", "doğa fotoğrafçılığı"],
+  "es": "Zeynep Aydın",
+  "cocuklar": ["Berk", "Elif"],
+  "akademik_yayinlar": ["Sürdürülebilir Şehirlerde Mimarlık"],
+  "dosya_adi": "baran_dogan.md"
+}

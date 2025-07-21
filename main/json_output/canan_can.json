@@ -1,0 +1,19 @@
+{
+  "ad": "Canan Can",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "24.09.1988",
+  "ilkokul": null,
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Elektrik Elektronik Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir'deki bir start-up şirketi", "Enerji Fikirleri"],
+  "kurdugu_girisim_ve_dernekler": ["Enerji Fikirleri", "Kadın Mühendisler Ağı"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "yeni teknolojileri takip etmek", "sanat etkinliklerine katılmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Sistemlerinin Geleceği"],
+  "dosya_adi": "canan_can.md"
+}

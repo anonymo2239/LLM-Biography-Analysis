@@ -1,0 +1,19 @@
+{
+  "ad": "Selin Demir",
+  "dogum_yeri": "Konya, Meram",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": "Meram İlkokulu",
+  "lise": "Konya Meram Fen Lisesi",
+  "universite": "ODTÜ",
+  "bolum": "Elektrik Mühendisliği",
+  "yuksek_lisans": "ODTÜ",
+  "doktora": "ODTÜ",
+  "calistigi_kurumlar": ["ODTÜ", "SolarTech"],
+  "kurdugu_girisim_ve_dernekler": ["SolarTech"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["kitap okumak", "resim yapmak"],
+  "es": "Ahmet Kaya",
+  "cocuklar": ["Elif"],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Kaynakları ve Uygulamaları", "Güneş Enerjisi Uygulamaları ve Ekonomik Etkileri"],
+  "dosya_adi": "selin_demir.md"
+}

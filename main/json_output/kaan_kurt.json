@@ -1,0 +1,19 @@
+{
+  "ad": "Kaan Kurt",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "12.09.1986",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Atatürk Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik-Elektronik Fakültesi",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Enerji Bakanlığı'na bağlı bir araştırma enstitüsü", "Türkiye'nin önde gelen enerji firması", "İstanbul Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Kendi danışmanlık şirketi"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "piknik yapmak", "kitap okumak", "gezmek", "yeni teknolojik gelişmeleri takip etmek"],
+  "es": "Selin Yılmaz",
+  "cocuklar": ["Efe"],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Sistemleri ve Uygulamaları", "Yenilenebilir Enerji ve Sürdürülebilir Gelecek"],
+  "dosya_adi": "kaan_kurt.md"
+}

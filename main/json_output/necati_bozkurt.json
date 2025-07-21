@@ -1,0 +1,19 @@
+{
+  "ad": "Necati Bozkurt",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "22.09.1988",
+  "ilkokul": "Yıldırım İlkokulu",
+  "lise": "Bursa Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Büyük bir inşaat şirketi", "Bozkurt Yapı Danışmanlık"],
+  "kurdugu_girisim_ve_dernekler": ["Sosyal Mühendislik Projesi"],
+  "yasadigi_sehir": "Bursa",
+  "hobiler": ["doğa yürüyüşleri", "kamp", "fotoğrafçılık", "seyahat"],
+  "es": "Elif",
+  "cocuklar": [],
+  "akademik_yayinlar": ["Sürdürülebilir İnşaat Teknikleri"],
+  "dosya_adi": "necati_bozkurt.md"
+}

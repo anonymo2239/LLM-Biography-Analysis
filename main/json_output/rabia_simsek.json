@@ -1,0 +1,19 @@
+{
+  "ad": "Rabia Şimşek",
+  "dogum_yeri": "İzmir, Buca",
+  "dogum_tarihi": "15.07.1988",
+  "ilkokul": "Buca İlkokulu",
+  "lise": "Buca Anadolu Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Elektrik Elektronik Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir'deki bir enerji şirketi", "Enerji Vizyonu"],
+  "kurdugu_girisim_ve_dernekler": ["Enerji Vizyonu", "Kadın Mühendisler Derneği"],
+  "yasadigi_sehir": "İzmir Buca",
+  "hobiler": ["doğa yürüyüşleri", "yoga", "kitap okumak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Enerji verimliliği üzerine makaleler"],
+  "dosya_adi": "rabia_simsek.md"
+}

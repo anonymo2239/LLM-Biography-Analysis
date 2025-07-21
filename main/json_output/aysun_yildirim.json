@@ -1,0 +1,19 @@
+{
+  "ad": "Aysun Yıldırım",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.05.1985",
+  "ilkokul": "Mudanya ilçesindeki bir devlet okulu",
+  "lise": "Bursa Kız Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Bursa'nın yerel yönetimi", "Dünya Bankası", "kendi kurduğu danışmanlık firması"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Gelecek"],
+  "yasadigi_sehir": "Bursa",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "arkadaşlarıyla vakit geçirmek"],
+  "es": "Ahmet Yıldırım",
+  "cocuklar": ["Elif", "Emre"],
+  "akademik_yayinlar": ["Bursa İçin Sürdürülebilir Çevre Politikaları"],
+  "dosya_adi": "aysun_yildirim.md"
+}

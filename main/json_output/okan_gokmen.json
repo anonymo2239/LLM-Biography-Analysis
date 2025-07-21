@@ -1,0 +1,19 @@
+{
+  "ad": "Okan Gökmen",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "15.07.1986",
+  "ilkokul": "Bornova Atatürk İlkokulu",
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": "Ege Üniversitesi",
+  "calistigi_kurumlar": ["Ege Üniversitesi", "İzmir Büyükşehir Belediyesi"],
+  "kurdugu_girisim_ve_dernekler": ["Sürdürülebilir Çevre Teknolojileri", "İzmir Çevre Derneği"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okuma", "fotoğraf çekimi"],
+  "es": "Aylin Çelik",
+  "cocuklar": ["Mira", "Yiğit"],
+  "akademik_yayinlar": ["İzmir’deki Hava Kirliliği ve Çözüm Önerileri", "Kentsel Alanlarda Su Yönetimi ve Sürdürülebilir Çözüm Önerileri", "İzmir Bölgesi İçin Kırsal Alanlarda Suyun Sürdürülebilir Yönetimi"],
+  "dosya_adi": "okan_gokmen.md"
+}

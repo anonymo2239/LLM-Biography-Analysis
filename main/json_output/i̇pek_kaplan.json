@@ -1,0 +1,19 @@
+{
+  "ad": "İpek Kaplan",
+  "dogum_yeri": "İstanbul, Kadıköy",
+  "dogum_tarihi": "15.09.1991",
+  "ilkokul": "Kadıköy İlköğretim Okulu",
+  "lise": "Kadıköy Anadolu Lisesi",
+  "universite": "Boğaziçi Üniversitesi",
+  "bolum": "Elektrik Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Enerji danışmanlık firması", "EcoTech"],
+  "kurdugu_girisim_ve_dernekler": ["Kadın Mühendisler Ağı", "EcoTech"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "fotoğrafçılık", "resim yapma"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Kaynaklarının Sürdürülebilir Gelişimi"],
+  "dosya_adi": "ipek_kaplan.md"
+}
