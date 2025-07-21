@@ -12,7 +12,7 @@ model = ChatGoogleGenerativeAI(
 
 messages = [
     SystemMessage(content="Translate the following sentence to English and German:"),
-    HumanMessage(content="Benim adım Emirhan. Benimle tanışmak ister misin?")
+    HumanMessage(content="ilk defa tenis oynayan birine göre çok iyi oynuyor.")
 ]
 
 if __name__ == "__main__":
