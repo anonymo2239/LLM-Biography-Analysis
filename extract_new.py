@@ -8,16 +8,9 @@ from google import genai
 # .env dosyasını yükle
 load_dotenv()
 
-"""DATASET_PATH = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\dataset2"
-OUTPUT_JSON = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\structured_bios_dataset2.json"
-"""
 
-"""DATASET_PATH = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\dataset"
+DATASET_PATH = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\dataset"
 OUTPUT_JSON = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\structured_bios_dataset.json"
-"""
-
-DATASET_PATH = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\dataset3"
-OUTPUT_JSON = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\structured_bios_dataset3.json"
 
 # Google Gemini client'ı başlat (GEMINI_API_KEY ortam değişkenini otomatik alır)
 client = genai.Client()

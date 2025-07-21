@@ -2,42 +2,46 @@
 
 ## Kişisel Biyografi
 
-### Erken Yaşam ve Aile
+### Erken Yaşam ve Kökler
 
-Ferhat Altun, 15 Temmuz 1985 tarihinde Türkiye’nin İç Anadolu Bölgesi'nde bulunan Kayseri ilinde dünyaya geldi. Babası Mustafa Altun, inşaat sektöründe çalışan bir mühendisken, annesi Zeynep Altun, ev hanımı olarak aile bütçesine katkıda bulunuyordu. Ailenin tek çocuğu olan Ferhat, küçük yaşlardan itibaren öğrenmeye meraklı bir çocuk olarak dikkat çekti. Özellikle natüralist bir aile ortamında büyüdüğü için doğaya olan sevgisi, ona çevre bilincini kazandırdı.
+Ferhat Altun, 25 Eylül 1985 tarihinde Bursa'nın Osmangazi ilçesinde dünyaya geldi. Babası Hasan Altun, yerel bir tekstil fabrikasında çalışıyordu ve annesi Emine Altun ise ev hanımıydı. Aile, dört çocuklu bir evde büyüdü ve Ferhat, ailenin en büyük çocuğu olması dolayısıyla sorumlulukları ve liderlik yetenekleriyle erken yaşta tanıştı. Çocukluğu, Bursa'nın renkli sokaklarında arkadaşlarıyla oyun oynarken, ailesinin ekonomik zorluklarıyla başa çıkmaya çalışarak geçti.
 
-Kayseri’deki ilkokul yılları, akademik başarıları ile şekillendi. Özellikle doğa bilimlerine olan ilgisi, öğretmeni Halit Bey tarafından fark edildi ve bu destekle ilkokulda çeşitli bilim projelerine katıldı. Ortaokul yıllarında çevre sorunlarına olan ilgisi arttı ve “Kayseri’deki Su Kirliliği” üzerine bir proje geliştirerek il genelinde ödül kazandı.
+Küçük yaşta bilgisayara olan ilgisi, Ferhat’ın hayatındaki dönüm noktalarından biri oldu. İlk bilgisayarını 10 yaşında aldı ve o zamandan itibaren yazılım geliştirme ve bilgisayar programlama konularında kendi kendine öğrenmeye başladı. İlkokul eğitimini Osmangazi İlkokulu’nda tamamladıktan sonra, ortaokul yıllarında bilgisayar kulübüne katıldı. Burada, yazılım dillerine olan tutkusu daha da derinleşti.
 
-### Eğitim Hayatı
+### Eğitim Yılları
 
-Lise eğitimini Kayseri Fen Lisesi’nde tamamlayan Ferhat, 2003 yılında üniversite sınavında gösterdiği başarıyla İstanbul Teknik Üniversitesi Çevre Mühendisliği bölümüne yerleşti. Üniversite yıllarında, çevre mühendisliği alanındaki teorik bilgilerini pekiştirmek için çeşitli stajlar yaptı. Özellikle yaz stajlarını sanayi bölgelerinde geçirdi, burada atık yönetimi ve su arıtma sistemleri üzerinde çalışma fırsatı buldu.
+Ferhat, Bursa Fen Lisesi'ne devam ederek akademik kariyerini sağlam bir temel üzerine inşa etti. Okulda matematik ve fen bilimlerinde gösterdiği üstün başarı, onu üniversite sınavına girdiğinde mühendislik alanında düşünmeye yönlendirdi. 2003 yılında, Uludağ Üniversitesi Elektrik Mühendisliği bölümüne kabul edildi.
 
-2007 yılında lisans eğitimini tamamladıktan sonra, yüksek lisans için aynı üniversitede devam etmeye karar verdi. Yüksek lisans tezi, “Biyoçeşitlilik Koruma Stratejileri ve Su Havzalarında Uygulamaları” üzerineydi. Bu tez, çevre mühendisliği alanında önemli bir kaynak haline geldi ve çeşitli konferanslarda sunuldu.
+Üniversite yıllarında çeşitli projelerde yer aldı ve birçok takım çalışmasına katıldı. Bu süreçte, elektrik devreleri ve yazılım entegrasyonu üzerine çalışarak hem teorik hem pratik bilgi edindi. 2006 yılında, üniversitede düzenlenen bir yarışmada “Akıllı Ev Projesi” ile birincilik kazandı. Bu proje, otomasyon sistemleri üzerine olan ilgisini pekiştirdi ve Ferhat, mühendislik alanında yenilikçi çözümler üretme arzusu geliştirdi.
 
 ### Profesyonel Kariyer
 
-2009 yılında İstanbul Büyükşehir Belediyesi'nde Çevre Koruma Departmanı’nda işe başladı. Burada, kentsel su yönetimi ve atık su arıtma projelerinde yer aldı. Özellikle “İstanbul Su Yönetimi Projesi”nde aktif rol alarak, kentin su kaynaklarının sürdürülebilir kullanımı üzerine stratejiler geliştirdi.
+Üniversiteden mezun olduktan sonra, Ferhat Altun, Bursa’daki bir teknoloji şirketinde mühendis olarak göreve başladı. Burada, akıllı ev sistemleri üzerine çalışarak, sektördeki yenilikçi uygulamaların geliştirilmesine katkıda bulundu. İlk iş deneyiminde, yazılım ve donanım entegrasyonlarında deneyim kazanarak, profesyonel yaşamına yön verdi.
 
-2013 yılında, Türkiye’deki su yönetimi ve çevre politikaları üzerine bir araştırma için Avrupa Birliği'nden burs kazandı ve bu kapsamda Belçika'daki Brüksel Üniversitesi’nde akademik çalışmalarına devam etti. Ferhat, burada yürütülen projelerde Türkiye’nin su kaynakları yönetimi ile ilgili veri analizi ve raporlamalar yaptı.
+2010 yılında, Ferhat, kendi girişimini kurmaya karar verdi. "SmartHome Tech" adını verdiği şirket, akıllı ev sistemleri üzerine odaklanarak sektörde hızla dikkat çekti. Ferhat, akıllı ışıklandırma, güvenlik sistemleri ve enerji verimliliği konularında inovatif ürünler geliştirdi. Şirket, kısa sürede sektörde önemli bir konum kazandı ve 2015 yılında Türkiye genelinde 100’den fazla projeye imza attı.
 
 ### Girişimcilik ve Akademik Çalışmalar
 
-2015 yılında, çevre teknolojileri alanında danışmanlık hizmetleri veren Altun Çevre Danışmanlığı’nı kurdu. Bu şirket, su arıtma sistemleri, atık yönetimi ve enerji verimliliği konularında hem kamu hem de özel sektöre danışmanlık hizmeti sunmaktadır. Ferhat, bu süreçte birçok yerel yönetimle işbirliği yaparak çevre dostu projelerin hayata geçirilmesine öncülük etti.
+Ferhat, teknoloji alanında topluma katkıda bulunmak amacıyla Bursa'daki üniversitelerle işbirliği yaparak staj programları ve seminerler düzenledi. Ayrıca, genç girişimcilere mentorluk yaparak, gençlerin teknoloji alanına olan ilgisini artırmak için çaba harcadı. Ferhat, Uludağ Üniversitesi'nde misafir öğretim görevlisi olarak da görev almış; öğrencilere akıllı ev teknolojileri üzerine dersler vermiştir.
 
-2017 yılında, İstanbul Teknik Üniversitesi’nde öğretim görevlisi olarak akademik hayatına geri döndü. Burada çevre mühendisliği ile ilgili dersler vermekte ve master öğrencileri için danışmanlık yapmaktadır. Ayrıca, çevre sorunları üzerine çeşitli ulusal ve uluslararası konferanslarda konuşmalar yapmaktadır.
+2018 yılında, akıllı şehir projeleri üzerine bir araştırma projesine katıldı ve yerel yönetimlerle işbirliği yaparak, Bursa’nın “Akıllı Şehir” dönüşümüne katkıda bulundu. Bu projede, şehirdeki enerji verimliliği ve sürdürülebilirlik konuları üzerine araştırmalar gerçekleştirdi.
 
 ### Sosyal Sorumluluk ve Etkiler
 
-Ferhat Altun, çevre bilincini artırmak amacıyla 2018 yılında “Su ve Gelecek” isimli bir sivil toplum kuruluşu kurdu. Bu kuruluş, su kaynaklarının korunması ve sürdürülebilir yönetimi konusunda eğitimler, seminerler ve proje çalışmaları yürütmektedir. Özellikle gençlerin çevre bilinci kazanması amacıyla okullarda çeşitli programlar düzenlemiştir.
+Ferhat, sosyal sorumluluk projelerine de önem vermektedir. 2019 yılında, "Teknoloji ile Geleceği Yarat" adı altında bir sosyal girişim başlattı. Bu girişim, dezavantajlı bölgelerde yaşayan çocuklara teknoloji eğitimi vermeyi hedefliyordu. Proje kapsamında, Bursa'nın çeşitli okullarında atölyeler düzenleyerek çocuklara temel programlama ve mühendislik becerilerini öğretme fırsatı sundu.
 
-2020 yılında, İstanbul’un çeşitli yerlerinde “Temiz Su İçin Bir Adım” kampanyası düzenleyerek yerel halkın su tasarrufu konusunda bilgilendirilmesini sağladı. Bu kampanya, sosyal medyada da büyük yankı uyandırarak birçok kişi tarafından desteklendi.
+Ayrıca, Ferhat, Bursa'daki kadın girişimcileri desteklemek amacıyla "Girişimci Kadınlar Derneği" ile işbirliği yaparak, kadınların teknoloji alanında yer almasını teşvik eden seminerler düzenledi. Bu projeler, toplumda cinsiyet eşitliği konusunu da gündeme getirdi ve Ferhat, bu alanda farkındalığı artırmayı başardı.
 
 ### Kişisel Yaşam
 
-Ferhat Altun, 2012 yılında İstanbul Üniversitesi'nden mezun olan Merve Hanım ile hayatını birleştirdi. Çiftin, Ali (2015) ve Elif (2018) adında iki çocuğu vardır. Aile, İstanbul’un Kadıköy ilçesinde yaşamaktadır. Boş zamanlarında doğa yürüyüşlerine çıkmayı, bisiklet sürmeyi ve ailecek piknik yapmayı sevmektedir. Ayrıca, çevre bilinci konularında yazılar yazmakta ve toplumsal medya platformlarında bu konularda içerikler paylaşmaktadır.
+Ferhat Altun, halen Bursa’da yaşamaktadır. Evli değildir ve çalışkan yapısıyla tanınır. Boş zamanlarında, doğa yürüyüşlerine çıkmayı, kitap okumayı ve yeni teknolojiler üzerine araştırmalar yapmayı seviyor. Ayrıca, yazılım geliştirme becerilerini daha da ilerletmek için sürekli yeni diller öğrenmeye çabalıyor.
+
+Arkadaşlarıyla birlikte hobi olarak çeşitli robotik projeler üzerinde çalışmakta ve zaman zaman teknoloji fuarlarına katılmaktadır. Ferhat, sosyal medyada aktif olarak kendi projelerini paylaşmakta ve genç girişimcilerin fikirlerini desteklemek amacıyla çevrimiçi platformlarda etkileşimde bulunmaktadır.
 
 ### Mevcut Çalışmalar ve Gelecek Hedefler
 
-2024 yılı itibarıyla, Ferhat Altun, İstanbul Teknik Üniversitesi’nde öğretim üyesi olarak görevine devam etmektedir. Aynı zamanda, “Suyun Geleceği” adlı yeni bir proje üzerinde çalışmakta ve bu proje ile su kaynaklarının yönetimi konusunda uluslararası işbirlikleri geliştirmeyi hedeflemektedir.
+Ferhat Altun, şu anda "SmartHome Tech" şirketinin CEO'su olarak görev yapmaya devam etmektedir. Şirket, yeni ürün serileri geliştirmeye ve uluslararası pazara açılmaya yönelik çalışmalar yürütmektedir. 2023 yılı itibariyle, Avrupa pazarına girmeyi hedeflemekte ve Ar-Ge çalışmalarını hızlandırmaktadır.
 
-Gelecek hedefleri arasında, su kaynaklarının sürdürülebilir yönetimi üzerine yenilikçi çözümler geliştiren bir start-up kurmak ve çevre mühendisliği alanında bir kitap yayımlamak bulunmaktadır. Ferhat Altun, çevre sorunlarına duyarlılığı ve bilimsel birikimi ile çevre mühendisliği alanında önemli katkılar sağlamayı amaçlayan bir uzman olarak kariyerine yön vermektedir.
+Gelecek hedefleri arasında, akıllı şehir projelerinde daha fazla yer almak ve Türkiye genelinde enerji verimliliği konusunda farkındalık yaratacak projeler geliştirmek yer almaktadır. Ayrıca, genç girişimcilerin desteklenmesi için yeni bir mentorship programı oluşturmayı planlamaktadır.
+
+Ferhat Altun, mühendislik ve teknoloji alanında yenilikçi çözümler geliştiren, topluma katkıda bulunmayı hedefleyen bir girişimci olarak, gelecekte de Bursa'nın ve Türkiye'nin teknoloji ekosistemine yön vermeye devam etmeyi planlamaktadır.
