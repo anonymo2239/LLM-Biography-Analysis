@@ -10,7 +10,9 @@ load_dotenv()
 
 
 DATASET_PATH = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\dataset"
-OUTPUT_JSON = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\structured_bios_dataset.json"
+#OUTPUT_JSON = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\structured_bios_dataset.json"
+
+OUTPUT_JSON = "C:\\Users\\emirhan.gul\\Desktop\\LLM_proje\\LLM-Biography-Analysis\\structured_bios_detailed.json"
 
 # Google Gemini client'ı başlat (GEMINI_API_KEY ortam değişkenini otomatik alır)
 client = genai.Client()
@@ -22,28 +24,39 @@ def extract_structured_data(md_text):
     KURALLARI:
     - Bilgi yoksa null değer kullan (tırnaksız)
     - Tarihler: "GG.MM.YYYY" formatında yaz (örn: "15.09.1988")
+    - Yıl aralıkları: "YYYY-YYYY" formatında (örn: "2006-2010")
     - Şehir isimleri: Sadece ana şehir adı (örn: "İzmir", "Bursa") 
     - Hobiler: Kısa ve sade ifadeler
     - Eş/çocuk yoksa null kullan
     - Boş listeler için boş array [] kullan
+    - Yaş hesapla: doğum tarihi varsa 2025'e göre yaş hesapla
 
     {{
         "ad": "string",
         "doğum_yeri": "string", 
         "doğum_tarihi": "string",
+        "yaş": "number",
         "ilkokul": "string",
-        "lise": "string", 
+        "ilkokul_yılları": "string",
+        "lise": "string",
+        "lise_yılları": "string",
         "üniversite": "string",
+        "üniversite_yılları": "string",
         "bölüm": "string",
         "yüksek_lisans": "string",
+        "yüksek_lisans_yılları": "string",
         "doktora": "string",
+        "doktora_yılları": "string",
         "çalıştığı_kurumlar": ["liste"],
+        "çalışma_başlangıç_yılları": ["liste - her kurum için başlangıç yılı"],
         "kurduğu_girişim_ve_dernekler": ["liste"],
+        "girişim_kuruluş_yılları": ["liste - her girişim için kuruluş yılı"],
         "yaşadığı_şehir": "string",
         "hobiler": ["liste"],
         "eş": "string",
         "çocuklar": ["liste"],
-        "akademik_yayınlar": ["liste"]
+        "akademik_yayınlar": ["liste"],
+        "yayın_yılları": ["liste - her yayın için yıl"]
     }}
 
     Biyografi:
@@ -75,9 +88,9 @@ def run():
     all_data = []
     files = [f for f in os.listdir(DATASET_PATH) if f.endswith(".md")]
     
-    # Tüm dosyaları işle (quota'ya dikkat ederek)
-    test_files = files  # Tüm dosyaları işle
-    print(f"Toplam {len(test_files)} dosya işlenecek...")
+    # Test için ilk 3 dosyayı işle
+    test_files = files[:3]  # Test için sınırlı
+    print(f"Test için {len(test_files)} dosya işlenecek...")
     
     for i, file in enumerate(test_files, 1):
         try:

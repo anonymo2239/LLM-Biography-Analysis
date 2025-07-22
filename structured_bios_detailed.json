@@ -1,0 +1,147 @@
+[
+  {
+    "ad": "Ahmet ERMİŞ",
+    "doğum_yeri": "Konya",
+    "doğum_tarihi": "12.02.1985",
+    "yaş": 40,
+    "ilkokul": "Karatay İlkokulu",
+    "ilkokul_yılları": null,
+    "lise": "Konya Fen Lisesi",
+    "lise_yılları": null,
+    "üniversite": "Orta Doğu Teknik Üniversitesi",
+    "üniversite_yılları": "2003-2008",
+    "bölüm": "Çevre Mühendisliği",
+    "yüksek_lisans": "Orta Doğu Teknik Üniversitesi",
+    "yüksek_lisans_yılları": "2008-2010",
+    "doktora": "Orta Doğu Teknik Üniversitesi",
+    "doktora_yılları": "2010-2013",
+    "çalıştığı_kurumlar": [
+      "Türkiye Su Enstitüsü"
+    ],
+    "çalışma_başlangıç_yılları": [
+      "2013"
+    ],
+    "kurduğu_girişim_ve_dernekler": [
+      "Su Bilinci Derneği"
+    ],
+    "girişim_kuruluş_yılları": [
+      "2014"
+    ],
+    "yaşadığı_şehir": "Konya",
+    "hobiler": [
+      "Doğa yürüyüşleri",
+      "Bisiklet sürmek",
+      "Kitap okumak"
+    ],
+    "eş": "Pelin Yılmaz",
+    "çocuklar": [
+      "Efe",
+      "Selin"
+    ],
+    "akademik_yayınlar": [],
+    "yayın_yılları": [],
+    "dosya_adı": "ahmet_ermis.md"
+  },
+  {
+    "ad": "Ahmet TAN",
+    "doğum_yeri": "Bursa",
+    "doğum_tarihi": "15.09.1988",
+    "yaş": 37,
+    "ilkokul": null,
+    "ilkokul_yılları": null,
+    "lise": "Bursa Fen Lisesi",
+    "lise_yılları": null,
+    "üniversite": "Uludağ Üniversitesi",
+    "üniversite_yılları": "2010-2014",
+    "bölüm": "Elektrik-Elektronik Mühendisliği",
+    "yüksek_lisans": null,
+    "yüksek_lisans_yılları": null,
+    "doktora": null,
+    "doktora_yılları": null,
+    "çalıştığı_kurumlar": [
+      "Büyük bir otomotiv firması",
+      "Yerel üniversiteler"
+    ],
+    "çalışma_başlangıç_yılları": [
+      "2014",
+      "2018"
+    ],
+    "kurduğu_girişim_ve_dernekler": [
+      "Enerji Dönüşüm Teknolojileri"
+    ],
+    "girişim_kuruluş_yılları": [
+      "2016"
+    ],
+    "yaşadığı_şehir": "Bursa",
+    "hobiler": [
+      "Doğa yürüyüşleri",
+      "Teknoloji geliştirme",
+      "Kitap okuma",
+      "Koşu"
+    ],
+    "eş": null,
+    "çocuklar": [],
+    "akademik_yayınlar": [],
+    "yayın_yılları": [],
+    "dosya_adı": "ahmet_tan.md"
+  },
+  {
+    "ad": "Ahmet YILDIZ",
+    "doğum_yeri": "Konya",
+    "doğum_tarihi": "12.07.1985",
+    "yaş": 40,
+    "ilkokul": "Selçuklu İlkokulu",
+    "ilkokul_yılları": null,
+    "lise": "Konya Lisesi",
+    "lise_yılları": null,
+    "üniversite": "Selçuk Üniversitesi",
+    "üniversite_yılları": "2003-2007",
+    "bölüm": "Ziraat Fakültesi Tarım Ekonomisi Bölümü",
+    "yüksek_lisans": "Selçuk Üniversitesi",
+    "yüksek_lisans_yılları": "2008-2010",
+    "doktora": "Selçuk Üniversitesi",
+    "doktora_yılları": "2011-2015",
+    "çalıştığı_kurumlar": [
+      "Selçuk Üniversitesi",
+      "Türkiye Ziraat Odası",
+      "Tarım ve Orman Bakanlığı"
+    ],
+    "çalışma_başlangıç_yılları": [
+      "2015",
+      "2015",
+      "2023"
+    ],
+    "kurduğu_girişim_ve_dernekler": [
+      "Tarımda Yenilikçi Çözümler",
+      "Konya Tarım Kooperatifleri ve Çiftçiler Derneği"
+    ],
+    "girişim_kuruluş_yılları": [
+      "2016",
+      "2018"
+    ],
+    "yaşadığı_şehir": "Konya",
+    "hobiler": [
+      "Bahçecilik",
+      "Tarım fuarı takibi",
+      "Doğa yürüyüşleri"
+    ],
+    "eş": "Şule Hanım",
+    "çocuklar": [
+      "Ali",
+      "Zeynep"
+    ],
+    "akademik_yayınlar": [
+      "Konya Ovası'nda Tarımsal Üretkenlik ve Ekonomik Sürdürülebilirlik",
+      "Türkiye'deki Tarım Kooperatiflerinin Ekonomik Etkileri",
+      "Sürdürülebilir Tarım ve Ekonomik Refah",
+      "Sürdürülebilir Tarım ve Çiftçi Refahı"
+    ],
+    "yayın_yılları": [
+      "2007",
+      "2010",
+      "2015",
+      "2021"
+    ],
+    "dosya_adı": "ahmet_yildiz.md"
+  }
+]
