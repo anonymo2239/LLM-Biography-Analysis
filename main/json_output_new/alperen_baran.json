@@ -1,0 +1,53 @@
+{
+  "ad": "Alperen Baran",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1996-2000",
+  "ilkokul": "Kayseri Osman Düşüngel İlköğretim Okulu",
+  "lise": "Kayseri Nuh Mehmet Baldöktü Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Ekonomi",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Finans Stratejisti",
+  "calistigi_kurumlar": [
+    "Yapı Kredi Bankası",
+    "Garanti BBVA"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2017",
+    "2017-2020"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Portföyüm.ai"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "koşu yapmak",
+    "doğa fotoğrafçılığı",
+    "finansal teknoloji trendlerini takip etmek"
+  ],
+  "es": "Elif Şahin",
+  "cocuklar": [
+    "Zeynep",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Bireysel Yatırımcı Tercihlerinde Dijital Aracılık Platformlarının Rolü",
+    "Algoritmik Ticaretin Türkiye Borsaları Üzerindeki Etkisi: Bir Vaka Analizi"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2019"
+  ],
+  "dosya_adi": "alperen_baran.md"
+}

@@ -1,0 +1,55 @@
+{
+  "ad": "Zeynep Çelik",
+  "dogum_yeri": "Hatay",
+  "dogum_tarihi": "05.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Nuriye Civelek İlkokulu",
+  "lise": "İskenderun Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Akdeniz Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Gastronomi ve Mutfak Sanatları",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Gıda mühendisi, şef, girişimci",
+  "calistigi_kurumlar": [
+    "Çırağan Palace Kempinski",
+    "ETİ Gıda"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2017"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Anadolu Lezzetleri Araştırma ve Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017"
+  ],
+  "memleket": "Hatay",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Doğa yürüyüşleri yapmak ve yeni bitkisel kaynakları keşfetmek",
+    "Yemek ve doğa fotoğrafçılığı",
+    "Yerel pazarları ve geleneksel mutfakları keşfetmek için Türkiye ve dünya genelinde seyahat etmek",
+    "Farklı kültürlerin mutfaklarını araştırmak ve yeni tarifler denemek",
+    "Müzik dinlemek ve eski filmler izlemek"
+  ],
+  "es": "Can Karaman",
+  "cocuklar": [
+    "Elif",
+    "Mert"
+  ],
+  "akademik_yayinlar": [
+    "Antakya Mutfağında Yenilikçi Tekniklerin Kullanımı",
+    "Coğrafi İşaretli Ürünlerin Sürdürülebilirliği ve Markalaşması: Gaziantep Örneği"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2019"
+  ],
+  "dosya_adi": "zeynep_celik_biyografisi.md"
+}

@@ -1,0 +1,56 @@
+{
+  "ad": "Necati Öztürk",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Ankara Çankaya İlkokulu",
+  "lise": "Ankara Atatürk Lisesi",
+  "lise_yılları": "1996-2000",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Ticari Bankacılık Direktörü",
+  "calistigi_kurumlar": [
+    "Yapı Kredi Bankası",
+    "Garanti BBVA",
+    "QNB Finansbank"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2009",
+    "2011-2017",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Finansal Okuryazarlık Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "satranç",
+    "dağcılık",
+    "klasik müzik dinlemek"
+  ],
+  "es": "Ayşe Öztürk",
+  "cocuklar": [
+    "Mert Öztürk",
+    "Elif Öztürk"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de KOBİ'lerin Finansmana Erişimi ve Yeni Modeller",
+    "Sürdürülebilir Finansman Uygulamalarının Kurumsal Risk Yönetimine Etkileri"
+  ],
+  "yayın_yılları": [
+    "2018",
+    "2022"
+  ],
+  "dosya_adi": "necati_ozturk.md"
+}

@@ -1,0 +1,64 @@
+{
+  "ad": "Tarık Aktaş",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.07.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2001",
+  "ilkokul": "Bahçelievler Deneme İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": "Bilkent Üniversitesi",
+  "doktora_yılları": "2014-2018",
+  "meslegi": "Yardımcı Doçent",
+  "calistigi_kurumlar": [
+    "ASELSAN",
+    "Bilkent Üniversitesi",
+    "Hacettepe Üniversitesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2014",
+    "2014-2018",
+    "2018-2022"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yapay Zeka ve Gelecek",
+    "Türkiye Bilişim Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    null,
+    null
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "kuş gözlemciliği",
+    "tarihi yerleri keşfetmek",
+    "bilgisayar oyunları",
+    "strateji oyunları",
+    "fotoğrafçılık"
+  ],
+  "es": "Elif Demir",
+  "cocuklar": [
+    "Aslı",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Gerçek Zamanlı Trafik Verileri Üzerine Derin Öğrenme Tabanlı Tahmin Modelleri",
+    "Otonom Sistemlerde Görüntü Tanıma İçin Yeni Nesil Evrişimli Ağlar",
+    "Açıklanabilir Yapay Zeka (XAI) için Yöntemler ve Uygulamaları",
+    "Büyük Ölçekli Metin Verilerinde Duygu Analizi İçin Hibrid Yaklaşımlar"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2015",
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "tarik_aktas.md"
+}

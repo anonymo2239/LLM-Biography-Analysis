@@ -1,0 +1,64 @@
+{
+  "ad": "İkra Demir",
+  "dogum_yeri": "Denizli",
+  "dogum_tarihi": "14.07.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Denizli Atatürk İlkokulu",
+  "lise": "Denizli Cumhuriyet Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Ankara Büyükşehir Belediyesi, İmar ve Şehircilik Daire Başkanlığı",
+    "Türk Telekom, Kentsel Dönüşüm Projeleri Birimi",
+    "ŞehirX Teknoloji A.Ş.",
+    "UrbanPulse Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2012",
+    "2015-2018",
+    "2018-2019",
+    "2019-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "UrbanPulse Danışmanlık",
+    "Genç Şehir Plancıları Derneği",
+    "Bisikletli Yaşam Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    "2016",
+    "2020"
+  ],
+  "memleket": "Denizli",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Şehirlerdeki mimari detayları fotoğraflamak",
+    "Uzun mesafeli bisiklet turlarına çıkmak",
+    "Bilim kurgu ve distopik romanlar okumak",
+    "Bahçecilikle ilgilenmek"
+  ],
+  "es": "Caner Demir",
+  "cocuklar": [
+    "Elif Demir",
+    "Kerem Demir"
+  ],
+  "akademik_yayinlar": [
+    "Kentsel Veri Analizi ile Sürdürülebilir Ulaşım Modelleri: İstanbul Örneği",
+    "Akıllı Şehirlerde Dijital Katılımın Rolü ve Yönetişime Etkileri",
+    "Sıfır Atık Hedefinde Akıllı Atık Yönetim Sistemlerinin Katkısı"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2018",
+    "2021"
+  ],
+  "dosya_adi": "ikra_demir.md"
+}

@@ -1,0 +1,60 @@
+{
+  "ad": "Aysun Uçar",
+  "dogum_yeri": "Eskişehir",
+  "dogum_tarihi": "05.07.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Eskişehir Zübeyde Hanım İlkokulu",
+  "lise": "Eskişehir Fatih Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Marmara Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Halkla İlişkiler ve Tanıtım",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kurumsal İletişim Uzmanı",
+  "calistigi_kurumlar": [
+    "PRNet İletişim Danışmanlığı",
+    "Koç Holding",
+    "Türk Telekom",
+    "Doğan Holding",
+    "Pera Müzesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Her Mahalleye Bir Sanat Atölyesi"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Eskişehir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "çağdaş sanat sergilerini gezmek",
+    "doğa fotoğrafçılığı",
+    "uzun mesafe koşuları",
+    "felsefe ve psikoloji üzerine kitaplar okumak"
+  ],
+  "es": "Emre Sayın",
+  "cocuklar": [
+    "Deniz",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Çağdaş Sanat Müzelerinin Kurumsal İletişim Stratejileri ve Kamuoyu Algısı Üzerine Bir Araştırma",
+    "Kentsel Dönüşüm Projelerinde Halkla İlişkiler Stratejilerinin Rolü: İstanbul Örneği"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2016"
+  ],
+  "dosya_adi": "aysun_ucar_biyografisi.md"
+}

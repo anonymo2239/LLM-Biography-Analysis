@@ -1,0 +1,59 @@
+{
+  "ad": "Harun Taş",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2001",
+  "ilkokul": "Karataş İlkokulu",
+  "lise": "İstanbul Fen Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama Uzmanı",
+  "calistigi_kurumlar": [
+    "Yaratıcı Köprü Reklam Ajansı",
+    "Garanti BBVA",
+    "Pixel & Strateji",
+    "Anadolu Markası"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2016",
+    "2017-2020",
+    "2020-2022",
+    "2022-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Anadolu Markası"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "Antalya",
+  "hobiler": [
+    "sokak ve doğa fotoğrafçılığı",
+    "vintage plak koleksiyonculuğu",
+    "doğa yürüyüşleri",
+    "kamp yapmak",
+    "eski Türk filmleri izlemek"
+  ],
+  "es": "Selin Uzun",
+  "cocuklar": [
+    "Ela Taş",
+    "Can Taş"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Tüketici Sadakatinin Yeniden Tanımlanması: Bankacılık Sektörü Üzerine Bir Vaka Analizi",
+    "KOBİ'ler İçin Sürdürülebilir Dijital Marka Stratejileri: Bir Uygulama Rehberi"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2021"
+  ],
+  "dosya_adi": "harun_tas.md"
+}

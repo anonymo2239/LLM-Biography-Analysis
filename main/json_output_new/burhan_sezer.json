@@ -1,0 +1,56 @@
+{
+  "ad": "Burhan Sezer",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "05.07.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1999",
+  "ilkokul": "Bursa Ahmet Vefik Paşa İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "Endüstri Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Danışmanlık",
+  "calistigi_kurumlar": [
+    "Vestel",
+    "Arçelik",
+    "Turkcell",
+    "TechSpark Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2012",
+    "2012-2016",
+    "2016-2022",
+    "2022-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "TechSpark Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "dağcılık",
+    "amatör fotoğrafçılık",
+    "bilim kurgu romanları okumak",
+    "yeni teknolojiler hakkında araştırmalar yapmak"
+  ],
+  "es": "Elif Sezer",
+  "cocuklar": [
+    "Defne Sezer",
+    "Can Sezer"
+  ],
+  "akademik_yayinlar": [
+    "Endüstri 4.0 Dönüşümünde Proje Yönetimi Stratejileri"
+  ],
+  "yayın_yılları": [
+    "2011"
+  ],
+  "dosya_adi": "burhan_sezer.md"
+}

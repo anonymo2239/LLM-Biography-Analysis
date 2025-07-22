@@ -1,0 +1,56 @@
+{
+  "ad": "Sinan Yalçın",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Bursa Ahmet Vefik Paşa İlköğretim Okulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Uludağ Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "İstatistik",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimci",
+  "calistigi_kurumlar": [
+    "Netcom Yazılım A.Ş.",
+    "Türk Telekom",
+    "Insider"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2015",
+    "2015-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Veri Bilimcileri Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "amatör drone fotoğrafçılığı",
+    "maket uçak yapımı",
+    "bilim kurgu romanları okumak"
+  ],
+  "es": "Elif Acar",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri Analizi ile Şehir İçi Ulaşım Optimizasyonu Üzerine Bir Çalışma",
+    "Derin Öğrenme Modelleriyle Müşteri Davranışı Tahmini ve Pazarlama Stratejileri"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2017"
+  ],
+  "dosya_adi": "sinan_yalcin.md"
+}

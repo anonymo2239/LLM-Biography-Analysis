@@ -1,0 +1,60 @@
+{
+  "ad": "Batuhan Uçar",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.08.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1990-1997",
+  "ilkokul": "İsmet İnönü İlkokulu",
+  "lise": "Antalya Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Akdeniz Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Halkla İlişkiler ve Tanıtım",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "yüksek_lisans_yılları": "2007-2009",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kurumsal İletişim Lideri",
+  "calistigi_kurumlar": [
+    "McCann Erickson İstanbul",
+    "Türk Hava Yolları",
+    "Vodafone Türkiye",
+    "Türk Telekom",
+    "Siemens Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2005-2007",
+    "2007-2010",
+    "2010-2014",
+    "2014-2018",
+    "2018-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Geleceğe Umut Ol Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "fotoğrafçılık",
+    "bisiklet turları",
+    "yemek kültürlerini deneyimleme",
+    "kısa film senaryoları yazmak"
+  ],
+  "es": "Elif Öztürk",
+  "cocuklar": [
+    "Zeynep",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Kriz İletişimi: Sosyal Medyanın Rolü",
+    "Marka Elçiliği ve Çalışan Bağlılığı İlişkisi Üzerine Bir Araştırma"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2015"
+  ],
+  "dosya_adi": "batuhan_uçar.md"
+}

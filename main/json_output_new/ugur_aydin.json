@@ -1,0 +1,58 @@
+{
+  "ad": "Uğur Aydın",
+  "dogum_yeri": "Samsun",
+  "dogum_tarihi": "10.03.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Gazi İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Hukuk",
+  "yuksek_lisans": "Bilkent Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Avukat",
+  "calistigi_kurumlar": [
+    "Demir & Partners Hukuk Bürosu",
+    "Erdoğan & Aydın Hukuk Bürosu",
+    "Garanti BBVA, Hukuk Müşavirliği",
+    "LexDigital Hukuk ve Danışmanlık A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2015",
+    "2015-2017",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "LexDigital Hukuk ve Danışmanlık A.Ş.",
+    "Türkiye Bilişim Hukukçuları Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020"
+  ],
+  "memleket": "Samsun",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Doğa yürüyüşleri",
+    "Drone ile fotoğrafçılık ve video çekimleri",
+    "Türk klasik sineması"
+  ],
+  "es": "Esra Aydın",
+  "cocuklar": [
+    "Ela",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Yapay Zeka Hukukunda Sorumluluk Kavramı: Güncel Yaklaşımlar ve Gelecek Projeksiyonları",
+    "Kişisel Verilerin Korunması Kanunu ve Startup Ekosistemi Üzerindeki Etkileri"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "ugur_aydin.md"
+}

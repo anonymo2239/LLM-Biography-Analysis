@@ -1,0 +1,57 @@
+{
+  "ad": "Ceren Yılmaz",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "05.09.1990",
+  "yaş": 33,
+  "ilkokul_yılları": "1996-2004",
+  "ilkokul": "İzmir Bornova İlköğretim Okulu",
+  "lise": "Bornova Anadolu Lisesi",
+  "lise_yılları": "2004-2008",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yazılım Mühendisi, Veri Bilimci, Yapay Zeka Etiği Lideri",
+  "calistigi_kurumlar": [
+    "Microsoft Türkiye",
+    "Garanti BBVA",
+    "EthiCon AI"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2016",
+    "2016-2019",
+    "2019-Şu an"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "EthiCon AI",
+    "Yapay Zeka Etiği Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    "2020"
+  ],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "yoga",
+    "doğa yürüyüşleri",
+    "modern sanat galerilerini gezmek",
+    "bilim kurgu romanları okumak"
+  ],
+  "es": "Emre Aksoy",
+  "cocuklar": [
+    "Ada"
+  ],
+  "akademik_yayinlar": [
+    "Algorithmic Bias in Predictive Policing Systems: A Turkish Context Analysis",
+    "The Ethical Implications of Generative AI in Creative Industries: Copyright and Attribution Challenges"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "ceren_yilmaz.md"
+}

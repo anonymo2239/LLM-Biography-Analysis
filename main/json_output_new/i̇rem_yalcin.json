@@ -1,0 +1,59 @@
+{
+  "ad": "İrem Yalçın",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "15.06.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "İzmir Karşıyaka Bilge İlkokulu",
+  "lise": "İzmir Atatürk Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Sürdürülebilirlik Danışmanı",
+  "calistigi_kurumlar": [
+    "Siemens Türkiye",
+    "TEMA Vakfı",
+    "Yeşil Adım Sürdürülebilirlik Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2013",
+    "2013-2017",
+    "2017-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yeşil Adım Sürdürülebilirlik Danışmanlık",
+    "Gelecek İçin Fidan Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017",
+    "2018"
+  ],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "kentsel bahçecilik",
+    "ebru sanatı"
+  ],
+  "es": "Can Kılıç",
+  "cocuklar": [
+    "Aslı",
+    "Deniz"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Küçük ve Orta Ölçekli İşletmeler İçin Sürdürülebilirlik Yol Haritası Geliştirilmesi",
+    "Döngüsel Ekonomi Prensiplerinin Kentsel Atık Yönetimine Entegrasyonu Üzerine Bir Çalışma",
+    "Yeşil Finansman ve Sürdürülebilir Projelerin Geleceği"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2015",
+    "2019"
+  ],
+  "dosya_adi": "irem_yalcin.md"
+}

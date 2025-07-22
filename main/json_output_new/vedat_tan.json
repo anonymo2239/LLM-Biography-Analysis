@@ -1,0 +1,62 @@
+{
+  "ad": "Vedat Tan",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "05.09.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1996-2003",
+  "ilkokul": "Karşıyaka Cumhuriyet İlköğretim Okulu",
+  "lise": "İzmir Atatürk Lisesi",
+  "lise_yılları": "2003-2007",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kentsel Tasarımcı",
+  "calistigi_kurumlar": [
+    "Ankara Büyükşehir Belediyesi",
+    "Esenler Belediyesi",
+    "Kentvizyon Mimarlık ve Şehircilik Ofisi",
+    "İstanbul Büyükşehir Belediyesi",
+    "EkoKent Proje Geliştirme Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2011",
+    "2011-2012",
+    "2014-2018",
+    "2018-2022",
+    "2022-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "EkoKent Proje Geliştirme Danışmanlık",
+    "Türkiye Kent Konseyi Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "bisiklet sürmek",
+    "doğa yürüyüşleri",
+    "fotoğraf çekmek",
+    "podcast dinlemek",
+    "kentsel gelişim kitaplarını takip etmek"
+  ],
+  "es": "Elif Tan",
+  "cocuklar": [
+    "Ada Tan",
+    "Can Tan"
+  ],
+  "akademik_yayinlar": [
+    "Lisans Tezi: Ankara'daki Metropoliten Büyümenin Çevre Üzerindeki Etkileri",
+    "Yüksek Lisans Tezi: Sürdürülebilir Kentsel Dönüşümde Yeşil Alan Entegrasyonu: İstanbul Örneği"
+  ],
+  "yayın_yılları": [
+    null,
+    null
+  ],
+  "dosya_adi": "vedat_tan.md"
+}

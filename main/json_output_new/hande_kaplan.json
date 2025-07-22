@@ -1,0 +1,53 @@
+{
+  "ad": "Hande Kaplan",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Tevfik Fikret İlkokulu",
+  "lise": "Ankara Atatürk Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "Gazi Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Halkla İlişkiler ve Tanıtım",
+  "yuksek_lisans": "Marmara Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Dijital Pazarlama ve Müşteri Deneyimi Uzmanı",
+  "calistigi_kurumlar": [
+    "Dijital Evrim Ajans",
+    "Garanti BBVA",
+    "Fikiristan Teknoloji A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2013",
+    "2015-2020",
+    "2020-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Geleceğin Dijital Liderleri"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "yoga",
+    "seyahat",
+    "caz müziği",
+    "vegan mutfak tarifleri denemek"
+  ],
+  "es": "Emre Kaplan",
+  "cocuklar": [
+    "Ada"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Kanallarda Müşteri Deneyimi Yönetimi: Bankacılık Sektörü Örneği"
+  ],
+  "yayın_yılları": [
+    "2015"
+  ],
+  "dosya_adi": "hande_kaplan.md"
+}

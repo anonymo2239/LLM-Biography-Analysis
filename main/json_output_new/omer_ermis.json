@@ -1,0 +1,33 @@
+{
+  "ad": "Ömer Ermiş",
+  "dogum_yeri": "Gaziantep",
+  "dogum_tarihi": "15.03.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Gaziantep Necatibey İlkokulu",
+  "lise": "Gaziantep Vehbi Dinçerler Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Marmara Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimci",
+  "calistigi_kurumlar": ["Aktif Bank", "Garanti BBVA", "Getir"],
+  "çalışma_başlangıç_yılları": ["2012-2016", "2017-2020", "2020-devam ediyor"],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Gaziantep",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["uzun mesafe koşuları", "vintage Türkiye haritaları toplamak", "satranç problemleri çözmek", "dijital fotoğrafçılık"],
+  "es": "Elif Demirel",
+  "cocuklar": ["Can Ermiş", "Ada Ermiş"],
+  "akademik_yayinlar": [
+    "Büyük Veri Analitiği ile Finansal Piyasa Anomalilerinin Tespiti",
+    "Makine Öğrenimi Algoritmaları ile Kredi Riski Değerlendirmesi: Türkiye Örneği"
+  ],
+  "yayın_yılları": ["2016", "2019"],
+  "dosya_adi": "omer_ermis.md"
+}

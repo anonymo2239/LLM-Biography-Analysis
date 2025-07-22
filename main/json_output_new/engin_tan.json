@@ -1,0 +1,56 @@
+{
+  "ad": "Engin Tan",
+  "dogum_yeri": "Balıkesir",
+  "dogum_tarihi": "05.09.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Balıkesir Sırrı Akın İlkokulu",
+  "lise": "İstanbul Fen Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yapay Zeka ve Veri Bilimi Direktörü",
+  "calistigi_kurumlar": [
+    "Getir",
+    "Türk Telekom",
+    "Microsoft Türkiye",
+    "Trendyol"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Balıkesir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "bağlama çalmak",
+    "satranç oynamak"
+  ],
+  "es": "Ayşe Demet",
+  "cocuklar": [
+    "Can",
+    "Elif"
+  ],
+  "akademik_yayinlar": [
+    "Yapay Zeka Destekli Kişiselleştirilmiş Pazarlama Algoritmaları",
+    "Derin Öğrenme ile Görüntü Tanıma Sistemlerinde Verimlilik Artışı: Bir Vaka Çalışması",
+    "Büyük Veride Anomali Tespiti için Gelişmiş Makine Öğrenmesi Yöntemleri"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "engin_tan.md"
+}

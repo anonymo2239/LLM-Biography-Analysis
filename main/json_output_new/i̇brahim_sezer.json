@@ -1,0 +1,59 @@
+{
+  "ad": "İbrahim Sezer",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1996-2003",
+  "ilkokul": "Adana Özel Bilfen İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "2003-2007",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Tarih",
+  "yuksek_lisans": "Bilkent Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": "Ege Üniversitesi",
+  "doktora_yılları": "2015-2019",
+  "meslegi": "Dijital Arşiv Geliştirme Uzmanı",
+  "calistigi_kurumlar": [
+    "İzmir Devlet Arşivleri Müdürlüğü",
+    "Ege Üniversitesi",
+    "T.C. Kültür ve Turizm Bakanlığı",
+    "Anadolu Ajansı"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2015",
+    "2015-2019",
+    "2019-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Her Köyün Bir Tarihi Var"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "Klasik gitar çalmak",
+    "Eski kitap ve haritaları toplamak",
+    "Amatör drone fotoğrafçılığı"
+  ],
+  "es": "Elif Yılmaz",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Osmanlı Arşivlerinin Dijitalleştirilmesinde Yapay Zeka Uygulamaları: Potansiyel ve Zorluklar",
+    "Türkiye'de Dijital Kültür Mirası Yönetiminde Yeni Yaklaşımlar: Blok Zinciri Teknolojisinin Rolü",
+    "Görsel Medyada Tarihsel Anlam Yaratımı: Anadolu Ajansı Fotoğraf Arşivinin Ontolojik Analizi"
+  ],
+  "yayın_yılları": [
+    "2017",
+    "2020",
+    "2023"
+  ],
+  "dosya_adi": "ibrahim_sezer_biyografisi.md"
+}

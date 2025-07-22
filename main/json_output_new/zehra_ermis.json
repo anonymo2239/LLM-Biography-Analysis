@@ -1,0 +1,33 @@
+{
+  "ad": "Zehra Ermiş",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "05.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2001",
+  "ilkokul": "Ankara Çayyolu İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yazılım Mühendisi, Kıdemli Veri Bilimci, Yapay Zeka Çözümleri Yöneticisi, Danışman",
+  "calistigi_kurumlar": ["ASELSAN", "Arçelik", "Garanti BBVA", "Veri Fısıltıları"],
+  "çalışma_başlangıç_yılları": ["2012-2014", "2015-2016", "2018-2020", "2021-"],
+  "kurdugu_girisim_ve_dernekler": ["Veri Fısıltıları"],
+  "girişim_kuruluş_yılları": ["2021"],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["kaligrafi", "dijital sanat", "klasik müzik dinlemek"],
+  "es": "Can Yılmaz",
+  "cocuklar": ["Ada Yılmaz", "Emre Yılmaz"],
+  "akademik_yayinlar": [
+    "Yapay Zeka Karar Mekanizmalarında Şeffaflık ve Hesap Verebilirlik: Bir Vaka Analizi",
+    "Algoritmik Önyargının Azaltılmasına Yönelik Metodolojiler ve Toplumsal Etkileri"
+  ],
+  "yayın_yılları": ["2014", "2019"],
+  "dosya_adi": "zehra_ermis.md"
+}

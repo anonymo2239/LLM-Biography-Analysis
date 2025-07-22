@@ -1,0 +1,55 @@
+{
+  "ad": "Ekin Kara",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.08.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2001",
+  "ilkokul": "Bursa Ulubatlı Hasan İlköğretim Okulu",
+  "lise": "Bursa Cumhuriyet Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar",
+  "calistigi_kurumlar": [
+    "Tabanlıoğlu Mimarlık",
+    "İstanbul Büyükşehir Belediyesi Kentsel Planlama Müdürlüğü",
+    "Yeşil Kent Tasarım Atölyesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2013",
+    "2013-2018",
+    "2018-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yeşil Kent Tasarım Atölyesi"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Seramik yapımı",
+    "Tarihi yapıları fotoğraflamak",
+    "Doğal ve tarihi güzellikleri keşfetmek"
+  ],
+  "es": "Levent Demir",
+  "cocuklar": [
+    "Elif",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Kentsel Dönüşümde Yeşil Alan Entegrasyonu",
+    "Tarihi Yarımada'da Sürdürülebilir Turizm ve Mekansal Planlama"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2016"
+  ],
+  "dosya_adi": "ekin_kara.md"
+}

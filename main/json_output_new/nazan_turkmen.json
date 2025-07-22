@@ -1,0 +1,53 @@
+{
+  "ad": "Nazan Türkmen",
+  "dogum_yeri": "İzmir, Türkiye",
+  "dogum_tarihi": "12.05.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2001",
+  "ilkokul": "İzmir Özel Türk İlköğretim Okulu",
+  "lise": "İzmir Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Ürün Direktörü",
+  "calistigi_kurumlar": [
+    "Pozitron",
+    "Garanti Teknoloji",
+    "Türk Telekom",
+    "Insider"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "dağcılık",
+    "uzun doğa yürüyüşleri",
+    "dijital fotoğrafçılık",
+    "seyahat",
+    "bilim kurgu ve fantezi romanları okumak",
+    "kişisel kodlama projeleri"
+  ],
+  "es": "Can Yılmaz",
+  "cocuklar": [
+    "Elif"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Cihazlarda Kullanıcı Deneyimi Optimizasyonu Üzerine Bir Araştırma: Sezgisel Arayüz Tasarımının Kullanıcı Adaptasyonuna Etkisi"
+  ],
+  "yayın_yılları": [
+    "2010"
+  ],
+  "dosya_adi": "nazan_turkmen.md"
+}

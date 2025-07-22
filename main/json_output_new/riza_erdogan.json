@@ -1,0 +1,61 @@
+{
+  "ad": "Rıza Erdoğan",
+  "dogum_yeri": "Diyarbakır",
+  "dogum_tarihi": "05.07.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2001",
+  "ilkokul": "Diyarbakır Cumhuriyet İlkokulu",
+  "lise": "Diyarbakır Fen Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "Koç Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": "Hacettepe Üniversitesi",
+  "doktora_yılları": "2011-2015",
+  "meslegi": "Yapay Zeka ve Robotik Araştırmacısı, Etik AI Uzmanı",
+  "calistigi_kurumlar": [
+    "Hacettepe Üniversitesi",
+    "Beko Global AR-GE Merkezi",
+    "Huawei Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2015",
+    "2015-2019",
+    "2019-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Türkiye Yapay Zeka Etik Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Diyarbakır",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "robotik kodlama projeleri geliştirmek",
+    "amatör astronomi",
+    "gökyüzü gözlemleri",
+    "doğa yürüyüşleri",
+    "eski Türk filmleri izlemek"
+  ],
+  "es": "Elif Erdoğan",
+  "cocuklar": [
+    "Ada Erdoğan",
+    "Can Erdoğan"
+  ],
+  "akademik_yayinlar": [
+    "Etik Yapay Zeka Sistemlerinde Önyargı Azaltma Yöntemleri: Sosyal Veri Setlerindeki Algoritmik Sapmaların İncelenmesi",
+    "Derin Öğrenme Modellerinde Şeffaflık ve Açıklanabilirlik İçin Yeni Yaklaşımlar",
+    "İnsansı Robotik Arayüzlerinde Duygusal Zeka Entegrasyonu: Etik Boyutlar ve Kullanıcı Deneyimi",
+    "Büyük Veri Analitiğinde Etik İlkelerin Uygulanması: Vaka Çalışmaları ve Öneriler"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2017",
+    "2020",
+    "2023"
+  ],
+  "dosya_adi": "riza_erdogan.md"
+}

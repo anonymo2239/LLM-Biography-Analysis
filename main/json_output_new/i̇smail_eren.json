@@ -1,0 +1,60 @@
+{
+  "ad": "İsmail Eren",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Ahmet Paşa İlköğretim Okulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Psikoloji",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "İnsan Kaynakları Uzmanı",
+  "calistigi_kurumlar": [
+    "Turkcell",
+    "Koç Holding",
+    "Emlakjet",
+    "İnsan Verisi Lab"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2017",
+    "2017-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "İnsan Verisi Lab"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "uzun mesafe koşu",
+    "doğa yürüyüşleri",
+    "fotoğrafçılık",
+    "klasik Türk müziği dinlemek"
+  ],
+  "es": "Elif Hanım",
+  "cocuklar": [
+    "Cem Eren",
+    "Defne Eren"
+  ],
+  "akademik_yayinlar": [
+    "Dijitalleşen İş Gücünde Çalışan Bağlılığı ve Teknolojinin Rolü",
+    "Veriye Dayalı Karar Alma Süreçlerinde Örgütsel Psikolojinin Etkisi",
+    "Yapay Zeka Destekli İnsan Kaynakları Sistemlerinde Etik Yaklaşımlar"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2018",
+    "2022"
+  ],
+  "dosya_adi": "ismail_eren.md"
+}

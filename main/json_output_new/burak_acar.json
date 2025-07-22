@@ -1,0 +1,59 @@
+{
+  "ad": "Burak Acar",
+  "dogum_yeri": "İzmir",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1992-2000",
+  "ilkokul": "Bornova Piri Reis İlkokulu",
+  "lise": "İzmir Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Makine Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Finansal Analist, Yatırım Bankacılığı Müdür Yardımcısı, CEO",
+  "calistigi_kurumlar": [
+    "ASELSAN",
+    "Arçelik",
+    "Türk Telekom",
+    "Garanti BBVA",
+    "PerformAI Analytics"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2014",
+    "2014-2016",
+    "2016-2018",
+    "2018-2021",
+    "2021-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "PerformAI Analytics",
+    "Türkiye Spor Yazarları Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021",
+    null
+  ],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "maraton koşusu",
+    "doğa yürüyüşleri",
+    "amatör fotoğrafçılık"
+  ],
+  "es": "Ayşe Yılmaz",
+  "cocuklar": [
+    "Deniz",
+    "Ege"
+  ],
+  "akademik_yayinlar": [
+    "Spor Endüstrisinde Büyük Veri Kullanımı ve Finansal Modelleme: Türk Kulüpleri Üzerine Bir Vaka Analizi"
+  ],
+  "yayın_yılları": [
+    "2022"
+  ],
+  "dosya_adi": "burak_acar.md"
+}

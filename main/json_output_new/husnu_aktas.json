@@ -1,0 +1,62 @@
+{
+  "ad": "Hüsnü Aktaş",
+  "dogum_yeri": "Diyarbakır",
+  "dogum_tarihi": "15.07.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1995",
+  "ilkokul": "Diyarbakır Gazi İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": "Orta Doğu Teknik Üniversitesi",
+  "doktora_yılları": "2010-2014",
+  "meslegi": "Doçent Doktor",
+  "calistigi_kurumlar": [
+    "Orta Doğu Teknik Üniversitesi",
+    "ASELSAN",
+    "Fraunhofer Enstitüsü",
+    "Hacettepe Üniversitesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2014",
+    "2010-2014",
+    "2014-2016",
+    "2016-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yapay Zeka Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Diyarbakır",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "amatör astronomi",
+    "koşu",
+    "blok zincir teknolojileri",
+    "klasik Türk müziği dinlemek",
+    "eski Diyarbakır fotoğraflarını incelemek"
+  ],
+  "es": "Dr. Elif Aktaş",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Derin Öğrenme Modellerinde Güvenlik Açıkları ve Korunma Yöntemleri",
+    "Büyük Veri Analitiğinde Yeni Yaklaşımlar: Sağlık Sektörü Uygulamaları",
+    "Doğal Dil İşlemede Çok Modlu Öğrenme Yöntemleri"
+  ],
+  "yayın_yılları": [
+    "2017",
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "husnu_aktas.md"
+}

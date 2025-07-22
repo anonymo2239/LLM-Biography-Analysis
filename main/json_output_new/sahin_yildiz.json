@@ -1,0 +1,62 @@
+{
+  "ad": "Şahin Yıldız",
+  "dogum_yeri": "İstanbul, Fatih",
+  "dogum_tarihi": "15.06.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1996-2004",
+  "ilkokul": "Vefa İlköğretim Okulu",
+  "lise": "Cağaloğlu Anadolu Lisesi",
+  "lise_yılları": "2004-2008",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Siyaset Bilimi ve Uluslararası İlişkiler",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kurumsal İletişim Uzmanı",
+  "calistigi_kurumlar": [
+    "CNN Türk",
+    "PRONEW İletişim Danışmanlığı",
+    "Garanti BBVA",
+    "Vodafone Türkiye",
+    "Anka İletişim Çözümleri"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2011",
+    "2012-2014",
+    "2017-2020",
+    "2020-2023",
+    "2023-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Anka İletişim Çözümleri",
+    "Çağdaş Yaşamı Destekleme Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2023",
+    null
+  ],
+  "memleket": "İstanbul",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "Uzak Doğu mutfaklarını keşfetmek",
+    "yeni tarifler denemek",
+    "yoga"
+  ],
+  "es": "Ayşe Aktaş",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Kurumsal İtibar Yönetimi: Türk Bankacılık Sektörü Örneği",
+    "Sürdürülebilirlik İletişiminde Yeni Yaklaşımlar: Türkiye'den Vakalar"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2019"
+  ],
+  "dosya_adi": "sahin_yildiz.md"
+}

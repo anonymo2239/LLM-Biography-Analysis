@@ -1,0 +1,58 @@
+{
+  "ad": "Necati Baran",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.06.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2003",
+  "ilkokul": "Adana Ahmet Karabucak İlköğretim Okulu",
+  "lise": "Adana Anadolu Lisesi",
+  "lise_yılları": "2003-2007",
+  "universite": "Gazi Üniversitesi",
+  "üniversite_yılları": "2007-2012",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Gazi Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar",
+  "calistigi_kurumlar": [
+    "EKA Mimarlık ve Danışmanlık A.Ş.",
+    "Emlak Konut GYO",
+    "Kentsel Vizyon Danışmanlık A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2017",
+    "2017-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kentsel Vizyon Danışmanlık A.Ş.",
+    "Genç Mimarlar Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021",
+    "2020"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "şehir ve sokak fotoğrafçılığı",
+    "uzun bisiklet turları",
+    "yerel pazarları gezmek",
+    "Türk kahvesi demleme sanatı"
+  ],
+  "es": "Ece Baran",
+  "cocuklar": [
+    "Ada Baran",
+    "Can Baran"
+  ],
+  "akademik_yayinlar": [
+    "Sürdürülebilir Kent Kimliği Oluşturmada Kültürel Mirasın Rolü: Adana Örneği",
+    "Katılımcı Kent Planlama Süreçlerinde Dijital Araçların Kullanımı"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2019"
+  ],
+  "dosya_adi": "necati_baran.md"
+}

@@ -1,0 +1,61 @@
+{
+  "ad": "Kaan Özdemir",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.03.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Anıttepe İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Siyaset Bilimi ve Kamu Yönetimi",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Dijital Pazarlama Direktörü",
+  "calistigi_kurumlar": [
+    "Migros Ticaret A.Ş.",
+    "Pegasus Hava Yolları",
+    "Türk Telekom",
+    "Yemeksepeti",
+    "Dijital Köprü Medya ve İletişim Ajansı"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-2023",
+    "2023-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Dijital Köprü Medya ve İletişim Ajansı",
+    "İstanbul Dijital İletişimciler Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2023"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Amatör Fotoğrafçılık",
+    "Podcast Dinleme ve Üretme",
+    "Doğa Yürüyüşleri",
+    "Kişisel Gelişim Kitapları Okumak"
+  ],
+  "es": "Elif Özdemir",
+  "cocuklar": [
+    "Ada Özdemir",
+    "Can Özdemir"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Kurumsal İletişimin Dijitalleşme Sürecine Adaptasyonu ve Karşılaşılan Zorluklar",
+    "Veri Odaklı Pazarlama Yaklaşımlarının Tüketici Davranışları Üzerindeki Etkisi"
+  ],
+  "yayın_yılları": [
+    "2017",
+    "2020"
+  ],
+  "dosya_adi": "kaan_ozdemir.md"
+}

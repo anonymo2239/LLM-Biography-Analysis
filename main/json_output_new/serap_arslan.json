@@ -1,0 +1,58 @@
+{
+  "ad": "Serap Arslan",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "05.07.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Hamitler İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "İstatistik",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimcisi",
+  "calistigi_kurumlar": [
+    "Arçelik A.Ş.",
+    "SAP Türkiye",
+    "Trendyol"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2013-2016",
+    "2016-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Women in Tech Türkiye",
+    "Veri Bilimi ile İyilik"
+  ],
+  "girişim_kuruluş_yılları": [
+    null,
+    null
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "yoga",
+    "strateji tabanlı masa oyunları",
+    "kitap okumak"
+  ],
+  "es": "Can Aydemir",
+  "cocuklar": [
+    "Elif Aydemir",
+    "Bora Aydemir"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri Analitiğinde Makine Öğrenmesi Yaklaşımları: Perakende Sektörü Uygulamaları",
+    "Müşteri Segmentasyonu için Gelişmiş Kümeleme Algoritmaları ve Uygulamaları"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2018"
+  ],
+  "dosya_adi": "serap_arslan_biyografisi.md"
+}

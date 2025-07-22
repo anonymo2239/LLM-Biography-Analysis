@@ -1,0 +1,60 @@
+{
+  "ad": "Reşat Şimşek",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Adana Borsa İlköğretim Okulu",
+  "lise": "Adana Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yazılım Mühendisi",
+  "calistigi_kurumlar": [
+    "Accenture Türkiye",
+    "Turkcell",
+    "Türk Telekom",
+    "Peak Games",
+    "PixelForge"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2012",
+    "2012-2015",
+    "2015-2018",
+    "2018-2021",
+    "2021-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "PixelForge",
+    "Türkiye Oyun Geliştiricileri Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Dijital İllüstrasyon",
+    "Masaüstü Rol Yapma Oyunları",
+    "Amatör Fotoğrafçılık"
+  ],
+  "es": "Elif Yılmaz",
+  "cocuklar": [
+    "Ada",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Optimizing Real-Time Game Engines in Distributed Systems",
+    "AI-Powered Adaptive Difficulty Scaling in Mobile Gaming"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2017"
+  ],
+  "dosya_adi": "resat_simsek_biyografi.md"
+}

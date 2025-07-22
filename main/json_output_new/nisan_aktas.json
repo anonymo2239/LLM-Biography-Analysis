@@ -1,0 +1,48 @@
+{
+  "ad": "Nisan Aktaş",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "05.09.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2003",
+  "ilkokul": "Antalya Barbaros İlkokulu",
+  "lise": "Antalya Anadolu Lisesi",
+  "lise_yılları": "2003-2007",
+  "universite": "Dokuz Eylül Üniversitesi",
+  "üniversite_yılları": "2007-2012",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "yüksek_lisans_yılları": "2014-2016",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar",
+  "calistigi_kurumlar": [
+    "Özkan Mimarlık",
+    "Anıt Yapı Restorasyon",
+    "Yeşil Kent Yapı A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2014",
+    "2016-2019",
+    "2019-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "fotoğrafçılık",
+    "yoga",
+    "bitki yetiştirmek"
+  ],
+  "es": "Can Yılmaz",
+  "cocuklar": [
+    "Ela"
+  ],
+  "akademik_yayinlar": [
+    "Tarihi Kent Dokularında Sürdürülebilir Dönüşüm Yaklaşımları: Beyoğlu Örneği"
+  ],
+  "yayın_yılları": [
+    "2017"
+  ],
+  "dosya_adi": "nisan_aktas.md"
+}

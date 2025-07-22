@@ -1,0 +1,63 @@
+{
+  "ad": "Necla Güneş",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Erciyes İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar ve Kentsel Tasarım Uzmanı",
+  "calistigi_kurumlar": [
+    "Proyap Mimarlık",
+    "Emlak Konut GYO",
+    "İstanbul Büyükşehir Belediyesi",
+    "UrbaniX Consult"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2008",
+    "2010-2015",
+    "2015-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "UrbaniX Consult",
+    "Kentsel Haklar Derneği",
+    "Sürdürülebilir Kentler Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020",
+    "2019",
+    "2021"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Tarihi yapıları gezmek ve fotoğraflamak",
+    "Bisiklet sürmek",
+    "Geleneksel Türk el sanatları ile ilgilenmek",
+    "Belgesel izlemek",
+    "Kentsel gelişim üzerine kitap okumak"
+  ],
+  "es": "Can Yılmaz",
+  "cocuklar": [
+    "Ela Yılmaz",
+    "Alp Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Kentsel Dönüşüm Projelerinde Katılımcılık Modelleri Üzerine Bir Araştırma",
+    "Sürdürülebilir Kentler İçin Yeşil Altyapı Çözümleri: İstanbul Örneği"
+  ],
+  "yayın_yılları": [
+    "2018",
+    "2022"
+  ],
+  "dosya_adi": "necla_gunes.md"
+}

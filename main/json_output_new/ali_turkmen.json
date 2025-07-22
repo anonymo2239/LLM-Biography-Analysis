@@ -1,0 +1,61 @@
+{
+  "ad": "Ali Türkmen",
+  "dogum_yeri": "Samsun",
+  "dogum_tarihi": "10.03.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1995-2002",
+  "ilkokul": "Samsun Atakum İlk Adım İlköğretim Okulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Çevre Uzmanı, Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Ankara Büyükşehir Belediyesi",
+    "ASELSAN",
+    "TEMA Vakfı",
+    "Birleşmiş Milletler Kalkınma Programı",
+    "Sürdürülebilir Kentler Araştırma ve Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2011",
+    "2011-2014",
+    "2014-2018",
+    "2018-2022",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Sürdürülebilir Kentler Araştırma ve Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Samsun",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "Doğa yürüyüşleri",
+    "Kuş gözlemciliği",
+    "Analog fotoğrafçılık",
+    "Tarih kitapları okumak",
+    "Farklı kültürleri araştırmak"
+  ],
+  "es": "Ayşe Türkmen",
+  "cocuklar": [
+    "Efe Türkmen",
+    "Zeynep Türkmen"
+  ],
+  "akademik_yayinlar": [
+    "Ankara'da Yeşil Altyapı Planlamasının Kentsel Dirençliliğe Etkileri",
+    "Türkiye'de Kentsel Dönüşüm Projelerinde Katılımcı Yaklaşımların Analizi"
+  ],
+  "yayın_yılları": [
+    "2017",
+    "2020"
+  ],
+  "dosya_adi": "ali_turkmen.md"
+}

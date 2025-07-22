@@ -1,0 +1,60 @@
+{
+  "ad": "Zeynep Avcı",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.07.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Yavuz Selim İlkokulu",
+  "lise": "Antalya Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Halkla İlişkiler ve Tanıtım",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama Stratejileri Direktörü",
+  "calistigi_kurumlar": [
+    "Siemens Türkiye",
+    "Coca-Cola İçecek",
+    "Garanti BBVA",
+    "Turkcell"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2010",
+    "2011-2017",
+    "2017-2020",
+    "2020-Devam"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Dijital Dönüşüm Arenası",
+    "TOBB Kadın Girişimciler Kurulu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "yoga yapmak",
+    "modern sanat galerilerini gezmek",
+    "dijital sanatla ilgilenmek",
+    "seyahat etmek",
+    "fotoğrafçılık"
+  ],
+  "es": "Emre Yılmaz",
+  "cocuklar": [
+    "Ela",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Pandemi Sonrası Tüketici Davranışlarında Dijital Pazarlamanın Rolü",
+    "Yapay Zeka Destekli Pazarlama Stratejilerinin Etkinliği ve Etik Boyutları"
+  ],
+  "yayın_yılları": [
+    "2021",
+    "2023"
+  ],
+  "dosya_adi": "zeynep_avci.md"
+}

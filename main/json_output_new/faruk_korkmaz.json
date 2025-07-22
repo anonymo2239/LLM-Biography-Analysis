@@ -1,0 +1,58 @@
+{
+  "ad": "Faruk Korkmaz",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.08.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Kayseri Melikgazi Mehmet Akif Ersoy İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Yıldız Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "İstanbul Büyükşehir Belediyesi",
+    "Kent Vizyon Planlama ve Danışmanlık A.Ş.",
+    "EKO Kent Tasarım Atölyesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2015",
+    "2015-2019",
+    "2019-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "EKO Kent Tasarım Atölyesi",
+    "Kent Araştırmaları Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    "2020"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "şehir fotoğrafçılığı",
+    "bisiklet turları",
+    "kitap okumak",
+    "dijital haritalama"
+  ],
+  "es": "Elif Korkmaz",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Megakentlerde Mikro Ölçekli Yeşil Alan Planlamasının Önemi: İstanbul Örneği",
+    "Akıllı Şehir Teknolojilerinin Kentsel Dirençliliğe Katkıları Üzerine Bir Değerlendirme"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2022"
+  ],
+  "dosya_adi": "faruk_korkmaz.md"
+}

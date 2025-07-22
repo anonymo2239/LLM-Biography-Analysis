@@ -1,0 +1,53 @@
+{
+  "ad": "İkra Şahin",
+  "dogum_yeri": "Malatya",
+  "dogum_tarihi": "12.07.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2001",
+  "ilkokul": "Malatya İsmet İnönü İlkokulu",
+  "lise": "Malatya Fen Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Portföy Yöneticisi",
+  "calistigi_kurumlar": [
+    "EY (Ernst & Young)",
+    "Garanti BBVA",
+    "Actus Portföy Yönetimi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2017",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kadınlar Finansta"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Malatya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "modern sanat koleksiyonculuğu",
+    "uzun mesafe koşuları",
+    "yoga"
+  ],
+  "es": "Emre Yılmaz",
+  "cocuklar": [
+    "Ada Yılmaz",
+    "Can Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Küresel Ekonomik Krizlerin Türkiye Bankacılık Sektörüne Etkileri Üzerine Bir Analiz"
+  ],
+  "yayın_yılları": [
+    "2014"
+  ],
+  "dosya_adi": "ikra_sahin.md"
+}

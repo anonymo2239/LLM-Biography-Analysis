@@ -1,0 +1,61 @@
+{
+  "ad": "Semra Eren",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.08.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1997",
+  "ilkokul": "Antalya Cumhuriyet İlkokulu",
+  "lise": "İzmir Bornova Anadolu Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Sanat Tarihi ve Arkeoloji",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2005-2007",
+  "doktora": "İstanbul Üniversitesi",
+  "doktora_yılları": "2008-2012",
+  "meslegi": "Müzeci, Kültür Yöneticisi ve Danışmanı",
+  "calistigi_kurumlar": [
+    "İstanbul Üniversitesi Edebiyat Fakültesi",
+    "Pera Müzesi",
+    "T.C. Kültür ve Turizm Bakanlığı Kültürel Miras Genel Müdürlüğü",
+    "Adana Arkeoloji Müzesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2012",
+    "2012-2015",
+    "2015-2019",
+    "2019-2023"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Türkiye Müzeciler Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "tarihi yapıların fotoğraflarını çekmek",
+    "yöresel yemek tarifleri denemek"
+  ],
+  "es": "Efe Demir",
+  "cocuklar": [
+    "Ada Demir",
+    "Can Demir"
+  ],
+  "akademik_yayinlar": [
+    "Anadolu'daki Roma Dönemi Mozaik Sanatının Korunması Üzerine Bir Araştırma",
+    "Kent Müzeleşmesi ve Katılımcı Yönetim Modelleri: İstanbul Örneği",
+    "Türkiye'de Dijital Müze Deneyimleri: Potansiyel ve Engeller",
+    "Geçmişin Koruyucusu, Geleceğin Yorumlayıcısı: Müzeciliğin Sosyal Rolü"
+  ],
+  "yayın_yılları": [
+    "2007",
+    "2012",
+    "2016",
+    "2019"
+  ],
+  "dosya_adi": "semra_eren_biyografisi.md"
+}

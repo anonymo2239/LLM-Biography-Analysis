@@ -1,0 +1,59 @@
+{
+  "ad": "Ferhat Kurt",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Atatürk İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2015-2017",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Finans Lideri ve Girişim Destekçisi",
+  "calistigi_kurumlar": [
+    "Yatırım Finans",
+    "Akbank",
+    "Türkiye İş Bankası",
+    "Capital Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2009",
+    "2009-2013",
+    "2013-2018",
+    "2018-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Girişimci Destek Platformu",
+    "ODTÜ Mezunları Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Uzun mesafe koşu",
+    "Amatör fotoğrafçılık",
+    "E-spor müsabakalarını takip etmek",
+    "Yeni teknolojik gelişmeleri araştırmak"
+  ],
+  "es": "Zeynep Kurt",
+  "cocuklar": [
+    "Elif Kurt",
+    "Can Kurt"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Fintech Girişimlerinin Yükselişi ve Potansiyeli",
+    "Yapay Zeka ve Makine Öğrenmesinin Finans Sektörüne Etkileri"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "ferhat_kurt.md"
+}

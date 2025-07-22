@@ -1,0 +1,59 @@
+{
+  "ad": "Ozan Aslan",
+  "dogum_yeri": "Balıkesir",
+  "dogum_tarihi": "15.08.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "Balıkesir Sakarya İlkokulu",
+  "lise": "Balıkesir Sırrı Yırcalı Anadolu Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yazılım Geliştirme Uzmanı, Oyun Geliştiricisi",
+  "calistigi_kurumlar": [
+    "Microsoft Türkiye",
+    "Unity Technologies",
+    "Freelance Oyun Danışmanı",
+    "PixelForge Studios"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2012",
+    "2012-2015",
+    "2015-2016",
+    "2016-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "PixelForge Studios",
+    "Game Developers Türkiye Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2016",
+    "2019"
+  ],
+  "memleket": "Balıkesir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri yapmak",
+    "amatör astronomi ile ilgilenmek",
+    "eski bilgisayar oyunları ve konsolları koleksiyonu yapmak"
+  ],
+  "es": "Zeynep Aslan",
+  "cocuklar": [
+    "Deniz",
+    "Emir"
+  ],
+  "akademik_yayinlar": [
+    "Yapay Zeka Destekli Prosedürel İçerik Üretiminde Yeni Yaklaşımlar",
+    "Sanal Gerçeklik Oyunlarında Gelişmiş Haptik Geri Bildirim Sistemleri Üzerine Bir İnceleme"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "ozan_aslan.md"
+}

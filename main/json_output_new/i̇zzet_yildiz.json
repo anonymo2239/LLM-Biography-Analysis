@@ -1,0 +1,60 @@
+{
+  "ad": "İzzet Yıldız",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1999",
+  "ilkokul": "Kayseri Atatürk İlköğretim Okulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "Endüstri Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Finansal Teknolojiler Girişimcisi (FinTech CEO)",
+  "calistigi_kurumlar": [
+    "Koç Holding",
+    "Vestel",
+    "Migros",
+    "ParaYol"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2010",
+    "2010-2013",
+    "2013-2017",
+    "2017-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "ParaYol",
+    "Dijital Gelecek Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Dağ yürüyüşü",
+    "satranç",
+    "klasik müzik dinlemek",
+    "finansal teknolojiler üzerine blog yazıları yazmak",
+    "yeni çıkan teknolojik ürünleri takip etmek"
+  ],
+  "es": "Elif Yıldız",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Blokzincir Teknolojisinin Geleneksel Bankacılığa Etkileri",
+    "Türkiye'de Dijital Bankacılık ve Kapsayıcılık: ParaYol Vakası"
+  ],
+  "yayın_yılları": [
+    "2018",
+    "2021"
+  ],
+  "dosya_adi": "izzet_yildiz.md"
+}

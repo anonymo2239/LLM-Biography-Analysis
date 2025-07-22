@@ -1,0 +1,61 @@
+{
+  "ad": "Cem Şimşek",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.03.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Adana Atatürk İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Bilkent Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": "Bilkent Üniversitesi",
+  "doktora_yılları": "2013-2017",
+  "meslegi": "Yapay Zeka Araştırmacısı",
+  "calistigi_kurumlar": [
+    "Bilkent Üniversitesi",
+    "Türk Telekom",
+    "KoçSistem",
+    "Özyeğin Üniversitesi",
+    "EthicAI Consulting"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2013",
+    "2015-2018",
+    "2018-2022",
+    "2023-günümüz",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "EthicAI Consulting"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "amatör fotoğrafçılık",
+    "felsefe kitapları okumak",
+    "bilim kurgu kitapları okumak",
+    "satranç oynamak"
+  ],
+  "es": "Ayşe Şimşek",
+  "cocuklar": [
+    "Deniz",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Explainable AI for Fair Decision Making in Financial Systems",
+    "Bias Detection and Mitigation in Large Language Models"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2017"
+  ],
+  "dosya_adi": "cem_simsek.md"
+}

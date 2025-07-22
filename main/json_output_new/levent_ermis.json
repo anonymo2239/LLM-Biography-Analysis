@@ -1,0 +1,59 @@
+{
+  "ad": "Levent Ermiş",
+  "dogum_yeri": "Denizli",
+  "dogum_tarihi": "14.09.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1992-1997",
+  "ilkokul": "Denizli Hürriyet İlkokulu",
+  "lise": "Denizli Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Ankara Büyükşehir Belediyesi",
+    "Ege Bölgesi Sanayi Odası (EBSO) Danışmanlık A.Ş.",
+    "KentVizyon Araştırma ve Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2017",
+    "2017-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "KentVizyon Araştırma ve Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017"
+  ],
+  "memleket": "Denizli",
+  "yasadigi_sehir": "İzmir",
+  "hobiler": [
+    "bisikletle şehir keşfi",
+    "kentsel peyzaj fotoğrafçılığı",
+    "bağcılık",
+    "şarapçılık",
+    "doğa yürüyüşleri"
+  ],
+  "es": "Elif",
+  "cocuklar": [
+    "Can",
+    "Defne"
+  ],
+  "akademik_yayinlar": [
+    "Sürdürülebilir Kentleşmede Toplu Taşıma Entegrasyonunun Rolü: İzmir Örneği",
+    "Yeşil Altyapı Planlamasında Katılımcı Yaklaşımların Etkinliği",
+    "Akıllı Kent Teknolojilerinin Kentsel Dirençliliğe Katkıları"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2017",
+    "2021"
+  ],
+  "dosya_adi": "levent_ermis.md"
+}

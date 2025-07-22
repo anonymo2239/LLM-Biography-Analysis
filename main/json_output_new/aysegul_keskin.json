@@ -1,0 +1,61 @@
+{
+  "ad": "Ayşegül Keskin",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Adana Merkez İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Kimya Mühendisliği",
+  "yuksek_lisans": "Gazi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Ar-Ge Mühendisi",
+  "calistigi_kurumlar": [
+    "Pınar Süt",
+    "Danone Türkiye",
+    "Ülker",
+    "BioSens Gıda Teknolojileri"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2014",
+    "2014-2018",
+    "2018-2021",
+    "2021-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "BioSens Gıda Teknolojileri",
+    "Gıda Atıklarını Azaltma Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021",
+    "2022"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Yeni ve geleneksel yemek tarifleri denemek",
+    "Doğa yürüyüşleri yapmak",
+    "Organik sebze ve meyve yetiştirmek",
+    "Klasik Türk Müziği dinlemek",
+    "Amatör fotoğrafçılık"
+  ],
+  "es": "Can Yılmaz",
+  "cocuklar": [
+    "Elif",
+    "Bora"
+  ],
+  "akademik_yayinlar": [
+    "Peynir Altı Suyunun Biyodizel Üretiminde Kullanımı Üzerine Bir Araştırma",
+    "Yenilikçi Protein Kaynaklarının Sürdürülebilir Gıda Üretimine Entegrasyonu"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2019"
+  ],
+  "dosya_adi": "aysegul_keskin.md"
+}

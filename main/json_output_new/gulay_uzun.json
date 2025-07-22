@@ -1,0 +1,61 @@
+{
+  "ad": "Gülay Uzun",
+  "dogum_yeri": "İzmir, Türkiye",
+  "dogum_tarihi": "15.03.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1992-2000",
+  "ilkokul": "İzmir Şirinyer İlkokulu",
+  "lise": "İstanbul Fen Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Delft University of Technology",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Proje Mimarlık ve Şehir Planlama Bürosu",
+    "Uzanlar Mimarlık ve Kentsel Tasarım",
+    "İstanbul Büyükşehir Belediyesi",
+    "UrbanCanvas"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2010",
+    "2012-2015",
+    "2015-2019",
+    "2019-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "UrbanCanvas",
+    "Yaşanabilir Şehirler Girişimi"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    "2019"
+  ],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "kentsel fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "eski haritalar toplamak"
+  ],
+  "es": "Deniz Demir",
+  "cocuklar": [
+    "Elif",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Şehir Modellerinde Vatandaş Katılımının Rolü: İstanbul Örneği",
+    "Yeşil Altyapı Entegrasyonu ve Kentsel Isı Adaları Etkisi: Türkiye'den Uygulama Örnekleri",
+    "Büyük Veri ile Kentsel Hareketlilik Analizi: Geleceğin Şehirleri İçin Çözümler ve Etik Yaklaşımlar"
+  ],
+  "yayın_yılları": [
+    "2018",
+    "2021",
+    "2023"
+  ],
+  "dosya_adi": "gulay_uzun.md"
+}

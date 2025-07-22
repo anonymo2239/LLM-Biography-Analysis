@@ -1,0 +1,56 @@
+{
+  "ad": "İpek Güneş",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Adana Mithatpaşa İlkokulu",
+  "lise": "Kadıköy Anadolu Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "Sanat Tarihi",
+  "yuksek_lisans": "Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Küratör ve Sanat Danışmanı",
+  "calistigi_kurumlar": [
+    "İstanbul Modern",
+    "ARTER",
+    "SALT Galata"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2011",
+    "2011-2016",
+    "2016-2021"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Anadolu'nun Renkleri"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "seramik sanatı",
+    "eski Türk filmleri ve belgeselleri izlemek",
+    "Türkiye'deki antik kentleri ve ören yerlerini ziyaret etmek",
+    "bitki bakımı"
+  ],
+  "es": "Emre Demir",
+  "cocuklar": [
+    "Elif",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Çağdaş Sanatın Toplumsal Rolü",
+    "Dijital Çağda Sanat Eseri Koleksiyonculuğu: Fırsatlar ve Zorluklar"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2019"
+  ],
+  "dosya_adi": "ipek_gunes.md"
+}

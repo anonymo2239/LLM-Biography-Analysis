@@ -1,0 +1,59 @@
+{
+  "ad": "Orhan Gökmen",
+  "dogum_yeri": "Kayseri, Talas",
+  "dogum_tarihi": "15.05.1980",
+  "yaş": 43,
+  "ilkokul_yılları": "1986-1991",
+  "ilkokul": "Kayseri Talas İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "1991-1998",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "1998-2003",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2004-2006",
+  "doktora": "İstanbul Üniversitesi",
+  "doktora_yılları": "2018-2022",
+  "meslegi": "Sürdürülebilirlik Direktörü",
+  "calistigi_kurumlar": [
+    "Çevre ve Şehircilik Bakanlığı",
+    "EkoPro Çevre Danışmanlık A.Ş.",
+    "Türk Telekom",
+    "Akfen Yenilenebilir Enerji"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2006-2010",
+    "2010-2015",
+    "2015-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Sürdürülebilir Yaşam Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Doğa yürüyüşleri",
+    "Kuş gözlemciliği",
+    "Amatör fotoğrafçılık",
+    "Belgesel izlemek",
+    "Dünya mutfaklarını denemek"
+  ],
+  "es": "Elif Gökmen",
+  "cocuklar": [
+    "Ada Gökmen",
+    "Deniz Gökmen"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Telekomünikasyon Sektöründe Sürdürülebilir Atık Yönetimi Uygulamaları ve Çevresel Faydaları",
+    "Yenilenebilir Enerji Projelerinde Ekosistem Etki Değerlendirmesi Metodolojileri"
+  ],
+  "yayın_yılları": [
+    "2017",
+    "2021"
+  ],
+  "dosya_adi": "orhan_gokmen.md"
+}

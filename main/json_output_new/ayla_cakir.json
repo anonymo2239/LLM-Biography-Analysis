@@ -1,0 +1,65 @@
+{
+  "ad": "Ayla Çakır",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Çankaya Mehmet Akif Ersoy İlkokulu",
+  "lise": "Ankara Çankaya Ayrancı Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Ankara Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Arkeoloji",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": "Ege Üniversitesi",
+  "doktora_yılları": "2012-2017",
+  "meslegi": "Kültürel Miras Uzmanı, Müzecilik Danışmanı ve Girişimci",
+  "calistigi_kurumlar": [
+    "Ankara Anadolu Medeniyetleri Müzesi",
+    "Kültür ve Turizm Bakanlığı, Kültürel Miras ve Müzeler Genel Müdürlüğü",
+    "İzmir Büyükşehir Belediyesi, Kültür ve Sanat Daire Başkanlığı",
+    "Miras Adına Danışmanlık ve Eğitim Hizmetleri"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2012",
+    "2012-2017",
+    "2017-2021",
+    "2021-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Miras Adına Danışmanlık ve Eğitim Hizmetleri",
+    "Kültürel Mirası Koruma Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İzmir",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "el sanatları",
+    "doğa yürüyüşleri",
+    "seyahat",
+    "klasik müzik dinlemek",
+    "tarihi romanlar okumak"
+  ],
+  "es": "Caner Demir",
+  "cocuklar": [
+    "Defne",
+    "Alp"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Kent Müzeciliği ve Sürdürülebilirlik",
+    "Dijital Çağda Arkeolojik Mirasın Belgelenmesi ve Sunumu: Anadolu Örneği",
+    "Kültürel Mirasın Toplumsal Katılımla Korunması: İzmir Kent Belleği Projesi Üzerine Bir İnceleme",
+    "Sanal Gerçeklik ile Antik Kent Deneyimi: Efes Örneği"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2017",
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "ayla_cakir_biyografisi.md"
+}

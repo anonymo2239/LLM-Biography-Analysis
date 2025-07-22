@@ -1,0 +1,59 @@
+{
+  "ad": "Nazan Kaya",
+  "dogum_yeri": "Eskişehir",
+  "dogum_tarihi": "15.08.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1990-1994",
+  "ilkokul": "Eskişehir Vali Münir Raif Güney İlkokulu",
+  "lise": "Eskişehir Fatih Anadolu Lisesi",
+  "lise_yılları": "1998-2002",
+  "universite": "Anadolu Üniversitesi",
+  "üniversite_yılları": "2002-2006",
+  "bolum": "Sanat Tarihi ve Arkeoloji",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Küratör",
+  "calistigi_kurumlar": [
+    "Eskişehir Arkeoloji Müzesi",
+    "Yapı Kredi Kültür Sanat",
+    "Pera Müzesi",
+    "Sakıp Sabancı Müzesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2008",
+    "2010-2014",
+    "2014-2019",
+    "2019-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kültür için Diyalog"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Eskişehir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "antika objeler toplamak",
+    "eski Türk sineması üzerine araştırmalar yapmak",
+    "fotoğrafçılık"
+  ],
+  "es": "Can Yılmaz",
+  "cocuklar": [
+    "Aslı Yılmaz",
+    "Emre Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Anadolu Medeniyetleri Müzelerinde Dijital Dönüşümün Potansiyeli",
+    "Geç Osmanlı Dönemi El Sanatları ve Sanatsal Mirasın Korunması Üzerine Bir İnceleme",
+    "Müzelerin Geleceği: Koleksiyon Yönetiminde Yapay Zeka Uygulamaları"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2016",
+    "2021"
+  ],
+  "dosya_adi": "nazan_kaya.md"
+}

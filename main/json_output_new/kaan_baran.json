@@ -1,0 +1,61 @@
+{
+  "ad": "Kaan Baran",
+  "dogum_yeri": "Eskişehir, Türkiye",
+  "dogum_tarihi": "14.07.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1999",
+  "ilkokul": "Dr. Halil Akkurt İlköğretim Okulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Ankara Üniversitesi Veteriner Fakültesi",
+  "üniversite_yılları": "2006-2011",
+  "bolum": "Veteriner Hekimliği",
+  "yuksek_lisans": "Hacettepe Üniversitesi Çevre Bilimleri Enstitüsü",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Biyoçeşitlilik Uzmanı",
+  "calistigi_kurumlar": [
+    "Özel Veteriner Kliniği",
+    "WWF Türkiye",
+    "T.C. Tarım ve Orman Bakanlığı, Doğa Koruma ve Milli Parklar Genel Müdürlüğü"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2012",
+    "2014-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Doğa Koruyucuları Ağı"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2016"
+  ],
+  "memleket": "Eskişehir",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "doğa fotoğrafçılığı",
+    "kuş fotoğrafçılığı",
+    "kamp yapmak",
+    "yürüyüşe çıkmak",
+    "kuş gözlemciliği",
+    "belgeseller izlemek",
+    "doğa kitapları okumak"
+  ],
+  "es": "Ada Baran",
+  "cocuklar": [
+    "Deniz Baran",
+    "Toprak Baran"
+  ],
+  "akademik_yayinlar": [
+    "Sulak Alan Ekosistemlerinde Kuş Sağlığının Biyogösterge Olarak Kullanılması",
+    "Anadolu Leoparı Koruma Stratejileri ve Genetik Çeşitlilik Analizi",
+    "İklim Değişikliğinin Türkiye'deki Göçmen Kuş Yollarına Etkisi"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2017",
+    "2020"
+  ],
+  "dosya_adi": "kaan_baran.md"
+}

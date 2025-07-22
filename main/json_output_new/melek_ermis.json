@@ -1,0 +1,57 @@
+{
+  "ad": "Melek Ermiş",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.08.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1998",
+  "ilkokul": "Kayseri Hürriyet İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "1998-2002",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Endüstri Mühendisliği",
+  "yuksek_lisans": "Bilkent Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Finansal Veri Bilimcisi",
+  "calistigi_kurumlar": [
+    "Yapı Kredi Bankası",
+    "ING Bank Türkiye",
+    "Microsoft Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2014",
+    "2014-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Türkiye Veri Bilimi Platformu",
+    "Kodlamanın Kızları İnisiyatifi"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020",
+    null
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "yoga yapmak",
+    "klasik Türk sanat müziği dinlemek",
+    "Uzak Doğu mutfağından yeni tarifler denemek",
+    "doğa yürüyüşleri yapmak",
+    "dijital illüstrasyonlar çizmek"
+  ],
+  "es": "Emre Demirci",
+  "cocuklar": [
+    "Defne Demirci",
+    "Can Demirci"
+  ],
+  "akademik_yayinlar": [
+    "Predictive Models for Credit Risk Assessment Using Ensemble Learning"
+  ],
+  "yayın_yılları": [
+    "2016"
+  ],
+  "dosya_adi": "melek_ermis.md"
+}

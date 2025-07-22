@@ -1,0 +1,59 @@
+{
+  "ad": "Ozan Tan",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "Çankaya İlkokulu",
+  "lise": "Ankara Atatürk Lisesi",
+  "lise_yılları": "1994-2001",
+  "universite": "Hacettepe Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Sanat Tarihi",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2006-2008",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Küratör",
+  "calistigi_kurumlar": [
+    "Pera Müzesi",
+    "İstanbul Modern",
+    "Sakıp Sabancı Müzesi",
+    "Kültür Köprüsü"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2010",
+    "2010-2014",
+    "2014-2019",
+    "2019-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kültür Köprüsü",
+    "Sanat Seninle Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    "2015"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "analog fotoğrafçılık",
+    "eski plak koleksiyonculuğu",
+    "şehir keşifleri"
+  ],
+  "es": "Elif Tan",
+  "cocuklar": [
+    "Defne Tan",
+    "Can Tan"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Müzecilik ve Katılımcılık: Türkiye Örneği",
+    "Minyatürden Piksele: Geleneksel Türk Sanatının Çağdaş Yorumları"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2017"
+  ],
+  "dosya_adi": "ozan_tan.md"
+}

@@ -1,0 +1,61 @@
+{
+  "ad": "Süleyman Eren",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "14.07.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Erciyes İlköğretim Okulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yapay Zeka Uzmanı ve Girişimci",
+  "calistigi_kurumlar": [
+    "ASELSAN",
+    "Microsoft Türkiye",
+    "Getir",
+    "Veri Feneri"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2014",
+    "2014-2018",
+    "2018-2022",
+    "2022-halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Veri Feneri",
+    "Dijital Köprü",
+    "Türkiye Bilişim Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022",
+    null,
+    null
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "dağcılık",
+    "amatör fotoğrafçılık",
+    "bilim kurgu romanları okumak"
+  ],
+  "es": "Elif Demir",
+  "cocuklar": [
+    "Defne",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Derin Öğrenme Modelleri ile Finansal Piyasa Tahminleri: Borsa İstanbul Üzerine Bir Uygulama",
+    "Büyük Veri Analitiğinde Gerçek Zamanlı Akış İşleme Yaklaşımları ve Apache Kafka Uygulamaları"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2017"
+  ],
+  "dosya_adi": "suleyman_eren.md"
+}

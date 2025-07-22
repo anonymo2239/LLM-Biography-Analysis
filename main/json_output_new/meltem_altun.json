@@ -1,0 +1,58 @@
+{
+  "ad": "Meltem Altun",
+  "dogum_yeri": "İzmir",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "İzmir Mithatpaşa İlköğretim Okulu",
+  "lise": "İzmir Atatürk Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama ve Kurumsal İletişim Direktörü",
+  "calistigi_kurumlar": [
+    "Unilever Türkiye",
+    "P&G Türkiye",
+    "Migros Türk",
+    "Garanti BBVA",
+    "Emlakjet"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2007",
+    "2008-2011",
+    "2011-2016",
+    "2017-2020",
+    "2020-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Genç Pazarlamacılar Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Manisa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Yoga",
+    "Şehir keşifleri",
+    "Amatör fotoğrafçılık",
+    "Bağımsız filmler izlemek",
+    "Seyahat"
+  ],
+  "es": "Can Demir",
+  "cocuklar": [
+    "Defne"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Tüketici Davranışlarının Marka Sadakati Üzerindeki Etkileri"
+  ],
+  "yayın_yılları": [
+    "2012"
+  ],
+  "dosya_adi": "meltem_altun.md"
+}

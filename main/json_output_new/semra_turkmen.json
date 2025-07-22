@@ -1,0 +1,59 @@
+{
+  "ad": "Semra Türkmen",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "05.09.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Kayseri Mustafa Kemal İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Bilkent Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Hukuk",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Avukat",
+  "calistigi_kurumlar": [
+    "ABC Hukuk Bürosu",
+    "Erdem & Erdem Hukuk Bürosu",
+    "Garanti BBVA",
+    "LexIntel Hukuk Bürosu"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2009",
+    "2011-2016",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "LexIntel Hukuk Bürosu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "yoga",
+    "eski Türk filmleri izlemek",
+    "dijital sanat sergilerini takip etmek",
+    "kısa öyküler yazmak"
+  ],
+  "es": "Can Demir",
+  "cocuklar": [
+    "Elif",
+    "Alp"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Kimlik ve Veri Mahremiyeti Hukukunda Yeni Yaklaşımlar",
+    "Yapay Zeka Destekli Karar Mekanizmalarının Hukuki Sorumluluğu: Güncel Tartışmalar ve Gelecek Perspektifleri"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2019"
+  ],
+  "dosya_adi": "semra_turkmen.md"
+}

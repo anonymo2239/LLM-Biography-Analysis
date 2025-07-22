@@ -1,0 +1,61 @@
+{
+  "ad": "Nihat Şimşek",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "22.09.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Fevzi Çakmak İlköğretim Okulu",
+  "lise": "Kayseri Lisesi, Sayısal Bölüm",
+  "lise_yılları": "2002-2006",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Gıda Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": "Ankara Üniversitesi",
+  "doktora_yılları": "2012-2016",
+  "meslegi": "Gıda Mühendisi ve Araştırmacı",
+  "calistigi_kurumlar": [
+    "Unilever Türkiye, Ar-Ge Merkezi",
+    "Tarım ve Orman Bakanlığı, Gıda Kontrol Genel Müdürlüğü",
+    "Sabancı Üniversitesi, Gıda Bilimi ve Teknolojileri Merkezi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2014",
+    "2016-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Gıda Kurtarma Derneği",
+    "Sürdürülebilir Gıda Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020",
+    "2021"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Amatör aşçılık",
+    "Doğa yürüyüşleri",
+    "Makro fotoğrafçılık"
+  ],
+  "es": "Mimar Ayşe Şimşek",
+  "cocuklar": [
+    "Elif",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Gıda Atıklarından Biyoplastik Üretimi Üzerine Bir Araştırma: Enzimatik Hidroliz Yaklaşımı",
+    "Türkiye'de Sürdürülebilir Gıda Tedarik Zincirlerinin Geliştirilmesi: Bir Model Önerisi",
+    "Bitki Bazlı Proteinlerin Tekstür ve Duyusal Özelliklerinin İyileştirilmesi",
+    "Geleceğin Gıdaları: Hücre Temelli Et Üretiminde Son Gelişmeler ve Potansiyel Engeller"
+  ],
+  "yayın_yılları": [
+    "2017",
+    "2019",
+    "2021",
+    "2022"
+  ],
+  "dosya_adi": "nihat_simsek.md"
+}

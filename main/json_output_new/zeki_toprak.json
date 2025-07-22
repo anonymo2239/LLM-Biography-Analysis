@@ -1,0 +1,58 @@
+{
+  "ad": "Zeki Toprak",
+  "dogum_yeri": "Eskişehir",
+  "dogum_tarihi": "15.03.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Necatibey İlkokulu",
+  "lise": "Eskişehir Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "İstanbul Teknik Üniversitesi (İTÜ)",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kentsel Stratejist ve Akıllı Şehirler Uzmanı",
+  "calistigi_kurumlar": [
+    "İstanbul Büyükşehir Belediyesi",
+    "Siemens Türkiye",
+    "Gelecek Şehirler Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2015",
+    "2015-2019",
+    "2019-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Gelecek Şehirler Danışmanlık",
+    "Şehir Gönüllüleri Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    null
+  ],
+  "memleket": "Eskişehir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "kentsel fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "satranç oynamak",
+    "mimari tarihi ve kentsel sosyolojiye dair kitaplar okumak"
+  ],
+  "es": "Ayşe Aksoy",
+  "cocuklar": [
+    "Ela",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Şehirlerde Veri Odaklı Karar Mekanizmaları: İstanbul Örneği",
+    "Kentsel Dönüşümde Sosyal Katılım Modelleri ve Dijital Platformların Rolü"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2018"
+  ],
+  "dosya_adi": "zeki_toprak.md"
+}

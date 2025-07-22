@@ -1,0 +1,59 @@
+{
+  "ad": "Zeynep Uzun",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Çankaya İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Baş Veri Bilimci",
+  "calistigi_kurumlar": [
+    "Microsoft Türkiye",
+    "ASELSAN",
+    "Garanti BBVA",
+    "Trendyol"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2011",
+    "2013-2016",
+    "2017-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kadın Yazılımcılar Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör astronomi",
+    "doğa yürüyüşleri",
+    "uzun mesafe bisiklet turları"
+  ],
+  "es": "Can Uzun",
+  "cocuklar": [
+    "Ada",
+    "Bora"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri Analitiğinde Gerçek Zamanlı Anomali Tespiti",
+    "Derin Öğrenme Modelleri ile Doğal Dil İşlemede Duygu Analizi Uygulamaları",
+    "E-ticarette Kullanıcı Davranışlarının Makine Öğrenmesiyle Tahmini ve Pazarlama Stratejilerine Etkileri"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "zeynep_uzun_biyografisi.md"
+}

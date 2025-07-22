@@ -1,0 +1,57 @@
+{
+  "ad": "Elif Güneş",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.06.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1999",
+  "ilkokul": "Adana Cumhuriyet İlkokulu",
+  "lise": "Adana Anadolu Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Portföy Yöneticisi",
+  "calistigi_kurumlar": [
+    "Yapı Kredi Bankası",
+    "Garanti BBVA",
+    "Ak Portföy"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2016",
+    "2017-2020",
+    "2021-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kadın Finans Liderleri"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Yoga",
+    "Meditasyon",
+    "Yüzme",
+    "Dünya edebiyatı okumak",
+    "Seyahat"
+  ],
+  "es": "Alp Güneş",
+  "cocuklar": [
+    "Zeynep",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Yatırım Portföyü Çeşitlendirmesinde Yapay Zeka Uygulamaları Üzerine Bir Araştırma",
+    "Sürdürülebilir Finansın Türkiye'deki Yükselişi ve ESG Yatırımlarının Potansiyeli"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "elif_gunes.md"
+}

@@ -1,0 +1,55 @@
+{
+  "ad": "Fikri Polat",
+  "dogum_yeri": "Diyarbakır",
+  "dogum_tarihi": "05.07.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1996-2000",
+  "ilkokul": "Diyarbakır Ziya Gökalp İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "İstatistik",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimi Girişimcisi / Eski Kıdemli Veri Bilimcisi",
+  "calistigi_kurumlar": [
+    "Arçelik",
+    "Türk Telekom",
+    "Hürriyet Dijital"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2013-2016",
+    "2015-2018",
+    "2019-2022"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Veri Vizyon"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Diyarbakır",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "analog fotoğrafçılık",
+    "eski radyo koleksiyonculuğu",
+    "Türk ve dünya klasikleri okumak"
+  ],
+  "es": "Elif Polat",
+  "cocuklar": [
+    "Ada Polat",
+    "Demir Polat"
+  ],
+  "akademik_yayinlar": [
+    "Türk Telekom Müşteri Davranışları Analizi ve Segmentasyon Modelleri",
+    "Büyük Veri ile Anomali Tespiti ve Uygulamaları"
+  ],
+  "yayın_yılları": [
+    "2017",
+    "2020"
+  ],
+  "dosya_adi": "fikri_polat.md"
+}

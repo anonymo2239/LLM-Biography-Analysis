@@ -1,0 +1,59 @@
+{
+  "ad": "Süleyman Çakır",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "10.03.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "Adana İsmet İnönü İlkokulu",
+  "lise": "Adana Anadolu Lisesi",
+  "lise_yılları": "1997-2000",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2000-2004",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Şehir Planlama Danışmanlık A.Ş.",
+    "Emlak Konut GYO",
+    "Koç Holding",
+    "Kentsel Vizyon A.Ş.",
+    "Şehir ve Yaşam Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2004-2008",
+    "2010-2013",
+    "2013-2017",
+    "2017-2018",
+    "2018-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Şehir ve Yaşam Danışmanlık",
+    "ÇEKÜL Vakfı"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "tarihi doku fotoğrafçılığı",
+    "kentsel dönüşüm seminerlerine katılmak",
+    "şehir bisiklet turları yapmak",
+    "amatör olarak maraton koşmak"
+  ],
+  "es": "Elif Kaya",
+  "cocuklar": [
+    "Cem",
+    "Ada"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Şehirlerde Sürdürülebilir Kentsel Gelişim Modelleri"
+  ],
+  "yayın_yılları": [
+    "2015"
+  ],
+  "dosya_adi": "suleyman_cakir.md"
+}

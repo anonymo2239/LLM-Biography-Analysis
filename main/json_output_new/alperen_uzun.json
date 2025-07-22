@@ -1,0 +1,59 @@
+{
+  "ad": "Alperen Uzun",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Erciyes İlköğretim Okulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Dijital Miras Uzmanı",
+  "calistigi_kurumlar": [
+    "Kültür ve Turizm Bakanlığı",
+    "Pera Müzesi",
+    "Koç Üniversitesi Vehbi Koç Ankara Araştırmaları Uygulama ve Araştırma Merkezi (VEKAM)"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2014",
+    "2014-2018",
+    "2018-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Miras Dijital"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "Eski haritalar toplamak",
+    "Şehirlerin az bilinen köşelerinde yürüyüşler yapmak",
+    "Yerel pazarları gezerek kaybolan zanaatları keşfetmek",
+    "Belgesel izlemek",
+    "Osmanlıca öğrenmek"
+  ],
+  "es": "Elif Uzun",
+  "cocuklar": [
+    "Defne",
+    "Demir"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'deki Osmanlı Arşivlerinin Dijitalleştirilmesi Süreçleri ve Zorlukları",
+    "Kültürel Mirasın Blockchain Teknolojisi ile Korunması Üzerine Bir Araştırma",
+    "Anadolu Kentlerinin Kentsel Belleği: Dijital Hikayecilik Yaklaşımı"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2021",
+    "2023"
+  ],
+  "dosya_adi": "alperen_uzun_biyografisi.md"
+}

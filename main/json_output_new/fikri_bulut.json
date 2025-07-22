@@ -1,0 +1,52 @@
+{
+  "ad": "Fikri Bulut",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Ankara Kocatepe İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Mimarı",
+  "calistigi_kurumlar": [
+    "İzmir Büyükşehir Belediyesi İmar ve Şehircilik Daire Başkanlığı",
+    "Arvento Mobil Sistemler",
+    "Microsoft Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2011",
+    "2013-2016",
+    "2016-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Tarihi haritalar koleksiyonu yapmak",
+    "Şehir tarihi araştırmaları yapmak",
+    "Bisiklet turları düzenlemek",
+    "Amatör drone çekimleri yapmak",
+    "Bilim kurgu ve futurizm üzerine kitaplar okumak"
+  ],
+  "es": "Elif Bulut",
+  "cocuklar": [
+    "Cem"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri ile Kentsel Dönüşüm Alanlarının Analizi: İzmir Örneği",
+    "Akıllı Şehirlerde Mekansal Veri Yönetimi ve Gizlilik Yaklaşımları"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2017"
+  ],
+  "dosya_adi": "fikri_bulut.md"
+}

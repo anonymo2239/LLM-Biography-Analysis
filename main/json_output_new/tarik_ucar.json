@@ -1,0 +1,52 @@
+{
+  "ad": "Tarık Uçar",
+  "dogum_yeri": "Eskişehir",
+  "dogum_tarihi": "17.06.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Eskişehir Dumlupınar İlkokulu",
+  "lise": "Eskişehir Fatih Anadolu Lisesi",
+  "lise_yılları": "1997-2004",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Siyaset Bilimi ve Uluslararası İlişkiler",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Belgesel Yapımcısı",
+  "calistigi_kurumlar": [
+    "NTV Haber Merkezi",
+    "Atlas Film Yapım",
+    "TRT Belgesel"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2012",
+    "2015-2018",
+    "2018-2022"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Eskişehir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri yapmak",
+    "analog fotoğrafçılıkla uğraşmak",
+    "dünya mutfaklarını keşfetmek",
+    "eski Türk filmleri koleksiyonunu genişletmek"
+  ],
+  "es": "Defne Yılmaz",
+  "cocuklar": [
+    "Efe",
+    "Elif"
+  ],
+  "akademik_yayinlar": [
+    "Sivil Toplum Kuruluşları İçin Belgesel Sinemanın İletişim Gücü",
+    "Toplumsal Belleğin İnşasında Belgesellerin Rolü: Bir Vaka Analizi"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2020"
+  ],
+  "dosya_adi": "tarik_ucar_biyografisi.md"
+}

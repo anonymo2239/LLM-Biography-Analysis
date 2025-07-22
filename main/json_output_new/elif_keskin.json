@@ -1,0 +1,54 @@
+{
+  "ad": "Elif Keskin",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Antalya Mareşal Fevzi Çakmak İlköğretim Okulu",
+  "lise": "Antalya Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Grafik Tasarım",
+  "yuksek_lisans": "Yeditepe Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Sanat Yönetmeni, Grafik Tasarımcı",
+  "calistigi_kurumlar": [
+    "Yaratıcı Fikirler Atölyesi",
+    "Doğuş Medya Grubu",
+    "Görsel Atölye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2012",
+    "2012-2019",
+    "2019-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Görsel Atölye"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "yoga",
+    "analog fotoğrafçılık",
+    "eski kitaplar ve seramik objeleri koleksiyonu"
+  ],
+  "es": "Caner Aydın",
+  "cocuklar": [
+    "Ada"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Tipografinin Evrimi ve Marka Algısına Etkileri",
+    "Yeni Nesil Görsel Hikaye Anlatımında İllüstrasyonun Rolü"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2016"
+  ],
+  "dosya_adi": "elif_keskin.md"
+}

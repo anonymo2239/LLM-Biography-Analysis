@@ -1,0 +1,53 @@
+{
+  "ad": "Elvan Çakır",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.07.1990",
+  "yaş": 33,
+  "ilkokul_yılları": "1996-2000",
+  "ilkokul": "Bursa Nilüfer İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama Direktörü",
+  "calistigi_kurumlar": [
+    "Microsoft Türkiye",
+    "Oracle Türkiye",
+    "Garanti BBVA",
+    "ING Bank Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2013",
+    "2013-2017",
+    "2017-2020",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "maraton koşuları",
+    "seyahat",
+    "dünya edebiyatı okumak",
+    "dijital sanat sergilerini ziyaret etmek"
+  ],
+  "es": "Caner Demir",
+  "cocuklar": [
+    "Defne",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Bankacılık Sektöründe Dijital Müşteri Deneyimi: Vaka Çalışmaları"
+  ],
+  "yayın_yılları": [
+    "2016"
+  ],
+  "dosya_adi": "elvan_cakir.md"
+}
