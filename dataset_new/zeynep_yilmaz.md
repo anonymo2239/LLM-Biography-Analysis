@@ -1,4 +1,3 @@
-İşte Zeynep Yılmaz için detaylı ve özgün bir biyografi:
 
 **ZEYNEP YILMAZ**
 

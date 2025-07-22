@@ -1,7 +1,3 @@
-Harika bir görev! Zeynep Özsoy için tamamen özgün ve detaylı bir biyografi oluşturuyorum. Bu biyografide belirtilen stratejik ortak noktaların azınlık kullanım prensiplerine uygun olarak Boğaziçi Üniversitesi ve Koç Holding ile bir çakışma yer alacak.
-
----
-
 **Zeynep Özsoy Biyografisi**
 
 **Adı Soyadı:** Zeynep Özsoy

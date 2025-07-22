@@ -1,6 +1,3 @@
-Elbette, Zeynep Uzun için detaylı ve özgün bir biyografi hazırlıyorum. Bu karakter daha önceki olası karakterlerden farklı bir profil çizecek ve belirtilen stratejik ortak noktaları içerecektir.
-
----
 
 **ZEYNEP UZUN BİYOGRAFİSİ**
 
