@@ -1,0 +1,19 @@
+{
+  "ad": "Süleyman Ermiş",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Selçuklu Lisesi",
+  "universite": "Boğaziçi Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'daki bir inşaat firması", "Kendi inşaat danışmanlık şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["Sürdürülebilir İnşaat ve Toplum"],
+  "yasadigi_sehir": null,
+  "hobiler": ["Doğa yürüyüşleri", "Kamp yapmak", "Yeni inşaat malzemeleri ve tasarımları üzerine araştırmalar yapmak", "Kitap okumak"],
+  "es": "Zeynep Hanım",
+  "cocuklar": ["Arda", "Eylül"],
+  "akademik_yayinlar": ["Türkiye'de Sürdürülebilir İnşaat Uygulamaları: Başarılar ve Zorluklar"],
+  "dosya_adi": "suleyman_ermis.md"
+}

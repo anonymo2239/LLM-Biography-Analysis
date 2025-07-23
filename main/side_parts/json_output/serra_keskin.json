@@ -1,0 +1,19 @@
+{
+  "ad": "Serra Keskin",
+  "dogum_yeri": "Kocaeli, İzmit",
+  "dogum_tarihi": "05.09.1988",
+  "ilkokul": "İzmit Cumhuriyet İlkokulu",
+  "lise": "Kocaeli Fen Lisesi",
+  "universite": "Boğaziçi Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Siemens", "Kocaeli’de bir Ar-Ge şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["EcoTech"],
+  "yasadigi_sehir": "Kocaeli",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "fotoğraf çekmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Enerji Verimliliği ve Sürdürülebilirlik projesi", "Türkiye'de yenilenebilir enerji kaynaklarının entegrasyonu üzerine konferans"],
+  "dosya_adi": "serra_keskin.md"
+}

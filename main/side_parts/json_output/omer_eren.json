@@ -1,0 +1,19 @@
+{
+  "ad": "Ömer EREN",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "15.07.1988",
+  "ilkokul": "Karşıyaka İlkokulu",
+  "lise": "Karşıyaka Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Gıda Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Bir gıda firması"],
+  "kurdugu_girisim_ve_dernekler": ["GreenTaste"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "blog yazmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Gıda Atıklarının Dönüşümü: Organik Gıdaların Sürdürülebilirliği"],
+  "dosya_adi": "omer_eren.md"
+}

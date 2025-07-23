@@ -1,0 +1,19 @@
+{
+  "ad": "Erhan Eren",
+  "dogum_yeri": "Kayseri, Talas",
+  "dogum_tarihi": "15.09.1985",
+  "ilkokul": "Talas İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Büyük bir enerji firması", "Enerji Verimliliği Çözümleri A.Ş."],
+  "kurdugu_girisim_ve_dernekler": ["Enerji Verimliliği Çözümleri A.Ş.", "Enerji için Gelecek"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "piknik yapmak", "online kurslar almak"],
+  "es": "Eda Yılmaz",
+  "cocuklar": ["Oğulcan", "Kızıl"],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Kaynaklarının Elektrik Şebekelerine Entegrasyonu", "Türkiye’de Yenilenebilir Enerji Kaynaklarının Ekonomik Potansiyeli"],
+  "dosya_adi": "erhan_eren.md"
+}

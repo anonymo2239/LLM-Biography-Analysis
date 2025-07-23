@@ -1,0 +1,19 @@
+{
+  "ad": "Hidayet Bozkurt",
+  "dogum_yeri": "İzmir",
+  "dogum_tarihi": "15.03.1985",
+  "ilkokul": null,
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir'de bir inşaat firması", "Bozkurt İnşaat"],
+  "kurdugu_girisim_ve_dernekler": ["Bozkurt İnşaat", "Gelecek Mühendisler"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "resim yapmak"],
+  "es": null,
+  "cocuklar": ["çocuk 1", "çocuk 2"],
+  "akademik_yayinlar": ["Akıllı Yapılar", "Sürdürülebilir Şehirler"],
+  "dosya_adi": "hidayet_bozkurt.md"
+}

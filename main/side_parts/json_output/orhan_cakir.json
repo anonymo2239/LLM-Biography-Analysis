@@ -1,0 +1,19 @@
+{
+  "ad": "Orhan Çakır",
+  "dogum_yeri": "Kayseri, Melikgazi",
+  "dogum_tarihi": "15.09.1988",
+  "ilkokul": "Melikgazi İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Boğaziçi Üniversitesi",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'daki bir yazılım firması", "Akkor Teknolojileri"],
+  "kurdugu_girisim_ve_dernekler": ["Akkor Teknolojileri"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "seyahat"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Tarım ve Teknolojik Yenilikler", "Sürdürülebilir Tarım ve Teknoloji"],
+  "dosya_adi": "orhan_cakir.md"
+}

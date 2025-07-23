@@ -1,0 +1,19 @@
+{
+  "ad": "Emrah Yılmaz",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "15.09.1988",
+  "ilkokul": null,
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Türkiye’nin önde gelen teknoloji firması", "İstanbul’daki bir start-up şirketi", "Enerji İnovasyonları"],
+  "kurdugu_girisim_ve_dernekler": ["Enerji İnovasyonları"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "müzik dinlemek", "yelken", "sörf"],
+  "es": "Selin Yılmaz",
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Sistemleri"],
+  "dosya_adi": "emrah_yilmaz.md"
+}

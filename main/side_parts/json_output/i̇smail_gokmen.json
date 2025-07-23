@@ -1,0 +1,19 @@
+{
+  "ad": "İsmail Gökmen",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Fen Lisesi",
+  "universite": "Boğaziçi Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Enerji A.Ş.", "Yeşil Enerji Çözümleri"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Enerji Çözümleri", "Enerji Geleceği Derneği"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["kitap okumak", "doğa gezileri", "gitar çalmak"],
+  "es": "Elif Hanım",
+  "cocuklar": ["Ali", "Zeynep"],
+  "akademik_yayinlar": ["Akıllı Şebekeler ve Enerji Yönetimi Tezi"],
+  "dosya_adi": "ismail_gokmen.md"
+}

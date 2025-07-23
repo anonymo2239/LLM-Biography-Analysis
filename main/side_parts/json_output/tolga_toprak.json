@@ -1,0 +1,19 @@
+{
+  "ad": "Tolga Toprak",
+  "dogum_yeri": "Kadıköy, İstanbul",
+  "dogum_tarihi": "15.09.1988",
+  "ilkokul": null,
+  "lise": "İstanbul Kabataş Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik-Elektronik Fakültesi",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Teknoloji firması", "Akıllı Yaşam Teknolojileri"],
+  "kurdugu_girisim_ve_dernekler": ["Akıllı Yaşam Teknolojileri"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "yeni teknolojik gelişmeleri takip etmek", "amatör fotoğrafçılık", "seyahat", "teknoloji ile ilgili hobi projeleri", "özgür yazılım projelerine katkıda bulunmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Akıllı Şehirler"],
+  "dosya_adi": "tolga_toprak.md"
+}

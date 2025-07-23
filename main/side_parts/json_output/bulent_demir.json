@@ -1,0 +1,19 @@
+{
+  "ad": "Bülent Demir",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Anadolu Lisesi",
+  "universite": "İstanbul Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Konya Su ve Kanalizasyon İdaresi (KOSKİ)", "T.C. Çevre ve Şehircilik Bakanlığı"],
+  "kurdugu_girisim_ve_dernekler": ["Sustainable Future"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["doğa yürüyüşleri", "piknik", "doğa belgeselleri izlemek", "kitap okumak", "fotoğraf çekmek"],
+  "es": "Elif Hanım",
+  "cocuklar": ["Ali", "Zeynep"],
+  "akademik_yayinlar": ["Şehirlerde Sürdürülebilir Su Yönetimi"],
+  "dosya_adi": "bulent_demir.md"
+}

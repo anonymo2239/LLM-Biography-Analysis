@@ -1,0 +1,19 @@
+{
+  "ad": "Cem Şimşek",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.04.1986",
+  "ilkokul": "Ahmet Yesevi İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "doktora": "Stanford Üniversitesi",
+  "calistigi_kurumlar": ["Enerji mühendisliği firması", "EcoEnergy"],
+  "kurdugu_girisim_ve_dernekler": ["EcoEnergy", "Yenilenebilir Enerji ve Çevre Derneği"],
+  "yasadigi_sehir": "Adana",
+  "hobiler": ["doğa yürüyüşleri", "kamp aktiviteleri"],
+  "es": "Merve Hanım",
+  "cocuklar": ["Oğul", "Kız"],
+  "akademik_yayinlar": ["Güneş Enerjisi ile Üretilen Elektriğin Verimliliği", "Şehirlerde Güneş Enerjisi Kullanımının Yaygınlaştırılması", "Akıllı Şebekeler ve Güneş Enerjisi Uygulamaları"],
+  "dosya_adi": "cem_simsek.md"
+}

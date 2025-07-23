@@ -1,0 +1,19 @@
+{
+  "ad": "Haluk Yalçın",
+  "dogum_yeri": "İstanbul, Kadıköy",
+  "dogum_tarihi": "04.09.1988",
+  "ilkokul": "Kadıköy İlkokulu",
+  "lise": "Kadıköy Anadolu Lisesi",
+  "universite": "Boğaziçi Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["TechSphere"],
+  "kurdugu_girisim_ve_dernekler": ["Teknolojiyi Paylaş", "TechSphere"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["teknoloji incelemesi", "bisiklete binmek", "doğa yürüyüşleri", "oyun geliştirme"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yapay Zeka ve Veri Bilimi", "TÜBİTAK projesi"],
+  "dosya_adi": "haluk_yalcin.md"
+}

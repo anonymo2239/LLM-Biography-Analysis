@@ -1,0 +1,19 @@
+{
+  "ad": "Gülçin Özdemir",
+  "dogum_yeri": "Elazığ",
+  "dogum_tarihi": "15.07.1988",
+  "ilkokul": "Elazığ",
+  "lise": "Elazığ Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik-Elektronik Fakültesi",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Bir teknoloji firması", "İstanbul Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Enerji Teknolojileri Danışmanlık", "Kadın Mühendisler Ağı"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "fotoğrafçılık"],
+  "es": "Fehmi Yıldız",
+  "cocuklar": [],
+  "akademik_yayinlar": ["Akıllı Enerji Sistemleri"],
+  "dosya_adi": "gulcin_ozdemir.md"
+}

@@ -1,0 +1,19 @@
+{
+  "ad": "Serpil Aksoy",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "12.07.1987",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Türkiye’nin önde gelen inşaat firması", "İstanbul Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Serpil Aksoy Engineering", "Yeşil Gelecek"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "piknik", "yazma", "resim yapma"],
+  "es": "Mert Yılmaz",
+  "cocuklar": ["Ege", "Defne"],
+  "akademik_yayinlar": ["Sürdürülebilir İnşaat Teknikleri", "Sürdürülebilir İnşaat ve Çevre Yönetimi"],
+  "dosya_adi": "serpil_aksoy.md"
+}

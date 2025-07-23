@@ -1,0 +1,19 @@
+{
+  "ad": "Berk Aydın",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "12.09.1987",
+  "ilkokul": "Kayseri Atatürk İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "bolum": "Elektrik Elektronik Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Enerji şirketi", "Enerji Çözümleri A.Ş."],
+  "kurdugu_girisim_ve_dernekler": ["Enerji ve Gelecek"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa sporları", "açık hava etkinlikleri", "yerel hayvanları koruma projeleri", "yazı yazmak"],
+  "es": "Zeynep Aydın",
+  "cocuklar": ["Ege", "Asya"],
+  "akademik_yayinlar": ["Güneş Enerjisi ile Çalışan Akıllı Şebekelerin Tasarımı", "Akıllı Şebekelerde Yenilenebilir Enerji Entegrasyonu"],
+  "dosya_adi": "berk_aydin.md"
+}

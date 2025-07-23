@@ -1,0 +1,19 @@
+{
+  "ad": "Gül Demir",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.07.1992",
+  "ilkokul": "Ahmet Vefik Paşa İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["bir teknoloji firması", "EcoTech"],
+  "kurdugu_girisim_ve_dernekler": ["EcoTech"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "sanat etkinliklerine katılmak", "yoga", "koşu"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yenilenebilir Enerji ve Sürdürülebilirlik"],
+  "dosya_adi": "gul_demir.md"
+}

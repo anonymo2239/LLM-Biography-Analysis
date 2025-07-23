@@ -1,0 +1,19 @@
+{
+  "ad": "Baturalp Kaplan",
+  "dogum_yeri": "Konya, Meram",
+  "dogum_tarihi": "15.09.1985",
+  "ilkokul": "Meram İlkokulu",
+  "lise": "Konya Anadolu Lisesi",
+  "universite": "Gazi Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Çevre ve Şehircilik Bakanlığı", "Konya Büyükşehir Belediyesi"],
+  "kurdugu_girisim_ve_dernekler": ["Kaplan Çevre Danışmanlığı"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["doğa yürüyüşleri", "bisiklete binmek", "müzik"],
+  "es": "Büşra Kaplan",
+  "cocuklar": ["Alara", "Barış"],
+  "akademik_yayinlar": ["Konya Altınoklar Barajı’nın Ekosistem Üzerindeki Etkileri"],
+  "dosya_adi": "baturalp_kaplan.md"
+}

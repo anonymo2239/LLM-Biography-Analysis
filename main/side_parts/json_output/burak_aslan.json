@@ -1,0 +1,19 @@
+{
+  "ad": "Burak Aslan",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "15.09.1988",
+  "ilkokul": null,
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir'in önde gelen teknoloji şirketi", "Türkiye’deki yenilenebilir enerji çözümleri üzerine çalışan start-up", "EcoTech"],
+  "kurdugu_girisim_ve_dernekler": ["EcoTech"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["trekking", "bisiklet sürme", "doğa fotoğrafçılığı"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Sürdürülebilir Enerji ve Teknoloji sempozyumu"],
+  "dosya_adi": "burak_aslan.md"
+}

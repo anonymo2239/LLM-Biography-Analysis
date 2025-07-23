@@ -1,0 +1,19 @@
+{
+  "ad": "Ekin Demir",
+  "dogum_yeri": "İstanbul",
+  "dogum_tarihi": "22.09.1985",
+  "ilkokul": null,
+  "lise": "Şişli Terakki Okulu",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul Teknik Üniversitesi", "Demir Tasarım"],
+  "kurdugu_girisim_ve_dernekler": ["Mimarlıkta Kadın"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["resim yapmak", "doğa yürüyüşleri", "fotoğraf çekmek", "sanat galerilerini ziyaret etmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": [],
+  "dosya_adi": "ekin_demir.md"
+}

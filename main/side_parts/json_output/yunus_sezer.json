@@ -1,0 +1,19 @@
+{
+  "ad": "Yunus Sezer",
+  "dogum_yeri": "Eskişehir, Odunpazarı",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": null,
+  "lise": "Eskişehir Anadolu Lisesi",
+  "universite": "ODTÜ",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'da bir mühendislik firması", "Çevre ve Şehircilik Bakanlığı", "Yıldız Teknik Üniversitesi", "Eskişehir Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Yunus Sezer Çevre Danışmanlığı", "Genç Mühendisler Derneği"],
+  "yasadigi_sehir": "Eskişehir",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "doğa fotoğrafçılığı", "yerel sanat etkinliklerine katılmak"],
+  "es": "Bahar Yılmaz",
+  "cocuklar": ["Can", "Eylül"],
+  "akademik_yayinlar": ["Eskişehir İçin Sürdürülebilir Su Kaynakları Yönetimi", "Sürdürülebilir Su Yönetimi İçin Yenilikçi Teknolojiler"],
+  "dosya_adi": "yunus_sezer.md"
+}
