@@ -102,8 +102,7 @@
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -723,8 +722,7 @@
     "source": "Ahmet Doğan",
     "target": "Ozan Doğan",
     "relations": [
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -1017,13 +1015,6 @@
   },
   {
     "source": "Ahmet Doğan",
-    "target": "Yusuf Bulut",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ahmet Doğan",
     "target": "Zafer Can",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -1235,13 +1226,6 @@
     "target": "Elvan Çakır",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Akın Doğan",
-    "target": "Emrah Baran",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -1660,13 +1644,6 @@
   },
   {
     "source": "Akın Doğan",
-    "target": "Süleyman Çakır",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Akın Doğan",
     "target": "Süleyman Eren",
     "relations": [
       "UNIVERSITE_ARKADASI",
@@ -1882,8 +1859,7 @@
     "source": "Ali Türkmen",
     "target": "Burhan Türkmen",
     "relations": [
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -2545,13 +2521,6 @@
       "LISE_ARKADASI",
       "UNIVERSITE_ARKADASI",
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Alparslan Aydın",
-    "target": "Alperen Aydın",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -5688,8 +5657,7 @@
     "source": "Alperen Yılmaz",
     "target": "Ercan Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -5898,8 +5866,7 @@
     "source": "Alperen Yılmaz",
     "target": "İbrahim Sezer",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -6042,8 +6009,7 @@
     "target": "Mahir Koç",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -6294,8 +6260,7 @@
     "source": "Alperen Yılmaz",
     "target": "Reşat Şimşek",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -6522,8 +6487,7 @@
     "target": "Vildan Güler",
     "relations": [
       "LISE_ARKADASI",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -6565,8 +6529,7 @@
     "source": "Alperen Yılmaz",
     "target": "Zafer Bozkurt",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -6755,13 +6718,6 @@
     "target": "Emre Polat",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Ayhan Korkmaz",
-    "target": "Faruk Korkmaz",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -7524,8 +7480,7 @@
     "source": "Ayla Çakır",
     "target": "Elvan Çakır",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -7743,13 +7698,6 @@
   },
   {
     "source": "Ayla Çakır",
-    "target": "İkra Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayla Çakır",
     "target": "İpek Aksoy",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -7874,8 +7822,7 @@
     "source": "Ayla Çakır",
     "target": "Melek Aksoy",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -7954,8 +7901,7 @@
     "source": "Ayla Çakır",
     "target": "Neşe Demir",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -8093,8 +8039,7 @@
     "source": "Ayla Çakır",
     "target": "Şebnem Özsoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -8318,8 +8263,7 @@
     "source": "Ayla Çakır",
     "target": "Zeynep Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -8439,8 +8383,7 @@
     "target": "Ceren Yılmaz",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -9408,8 +9351,7 @@
     "source": "Ayla Toprak",
     "target": "Kaan Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -9417,13 +9359,6 @@
     "target": "Kadir Altun",
     "relations": [
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Ayla Toprak",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -9467,13 +9402,6 @@
     "target": "Meryem Ergin",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ayla Toprak",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -9786,27 +9714,6 @@
     "target": "Zeynep Yılmaz",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
-    "target": "Aysel Öztürk",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
-    "target": "Ayşe Çakır",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
-    "target": "Bahar Erdoğan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -9880,8 +9787,7 @@
     "target": "Cansu Acar",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -9937,13 +9843,6 @@
   },
   {
     "source": "Ayşegül Keskin",
-    "target": "Ebru Kurt",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
     "target": "Eda Altun",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -9983,8 +9882,7 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -10047,8 +9945,7 @@
     "target": "Gülay Aktaş",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -10146,13 +10043,6 @@
   },
   {
     "source": "Ayşegül Keskin",
-    "target": "İkra Şahin",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
     "target": "İpek Güneş",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -10226,8 +10116,7 @@
     "source": "Ayşegül Keskin",
     "target": "Kaan Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -10241,8 +10130,7 @@
     "source": "Ayşegül Keskin",
     "target": "Levent Ermiş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -10341,24 +10229,9 @@
   },
   {
     "source": "Ayşegül Keskin",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
     "target": "Nazan Türkmen",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -10372,8 +10245,7 @@
     "source": "Ayşegül Keskin",
     "target": "Necla Güneş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -10381,8 +10253,7 @@
     "target": "Nefise Aksoy",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -10390,13 +10261,6 @@
     "target": "Nefise Aydın",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
-    "target": "Nisan Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -10479,8 +10343,7 @@
     "target": "Rukiye Aslan",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -10521,13 +10384,6 @@
   },
   {
     "source": "Ayşegül Keskin",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
     "target": "Serpil Ergin",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -10538,8 +10394,7 @@
     "source": "Ayşegül Keskin",
     "target": "Serra Çakır",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -10620,13 +10475,6 @@
   },
   {
     "source": "Ayşegül Keskin",
-    "target": "Tuğba Aydın",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
     "target": "Vedat Sezer",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -10643,8 +10491,7 @@
     "source": "Ayşegül Keskin",
     "target": "Vildan Güler",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -10665,8 +10512,7 @@
     "source": "Ayşegül Keskin",
     "target": "Yeliz Yıldız",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -10702,8 +10548,7 @@
     "source": "Ayşegül Keskin",
     "target": "Zehra Ermiş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -10711,13 +10556,6 @@
     "target": "Zeki Avcı",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ayşegül Keskin",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -10739,15 +10577,7 @@
     "target": "Ayşe Çakır",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Bahar Erdoğan",
-    "relations": [
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -10791,8 +10621,7 @@
     "target": "Cansu Acar",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -10844,8 +10673,7 @@
     "source": "Aysel Öztürk",
     "target": "Ebru Kurt",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -10888,13 +10716,6 @@
   },
   {
     "source": "Aysel Öztürk",
-    "target": "Ercan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
     "target": "Ferhat Kurt",
     "relations": [
       "MESLEKTAS"
@@ -10912,13 +10733,6 @@
     "target": "Gökhan Toprak",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Gülay Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11021,8 +10835,7 @@
     "source": "Aysel Öztürk",
     "target": "İkra Şahin",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -11053,20 +10866,6 @@
     "target": "Kaan Arslan",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11139,38 +10938,9 @@
   },
   {
     "source": "Aysel Öztürk",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
     "target": "Nazan Türkmen",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Necla Güneş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Nefise Aksoy",
-    "relations": [
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -11193,13 +10963,6 @@
     "target": "Nihat Şimşek",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Nisan Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11249,8 +11012,7 @@
     "source": "Aysel Öztürk",
     "target": "Rukiye Aslan",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -11295,8 +11057,7 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -11304,13 +11065,6 @@
     "target": "Serap Arslan",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Serra Çakır",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11360,8 +11114,7 @@
     "source": "Aysel Öztürk",
     "target": "Tuğba Aydın",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -11397,8 +11150,7 @@
     "target": "Vildan Güler",
     "relations": [
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -11412,15 +11164,7 @@
     "source": "Aysel Öztürk",
     "target": "Yeliz Yıldız",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Aysel Öztürk",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -11441,8 +11185,7 @@
     "source": "Aysel Öztürk",
     "target": "Zeynep Demir",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -11468,13 +11211,6 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "Bahar Erdoğan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "Betül Doğan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -11492,13 +11228,6 @@
     "target": "Büşra Türkmen",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Cansu Acar",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11525,13 +11254,6 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "Ebru Kurt",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "Elif Yalçın",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -11539,23 +11261,9 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "Ercan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "Ferhat Kurt",
     "relations": [
       "ILKOKUL_ARKADASI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Gülay Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11612,13 +11320,6 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "İkra Şahin",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "İrem Polat",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -11668,39 +11369,16 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "Nazan Türkmen",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Necla Güneş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Nefise Aksoy",
-    "relations": [
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
     "source": "Ayşe Çakır",
     "target": "Nisan Aktaş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -11730,13 +11408,6 @@
     "target": "Ramazan Kaplan",
     "relations": [
       "ILKOKUL_ARKADASI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11771,15 +11442,7 @@
     "source": "Ayşe Çakır",
     "target": "Selin Acar",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Serra Çakır",
-    "relations": [
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -11798,23 +11461,9 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "Tuğba Aydın",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "Vedat Tan",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -11826,13 +11475,6 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "Yeliz Yıldız",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "Zafer Can",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
@@ -11840,23 +11482,9 @@
   },
   {
     "source": "Ayşe Çakır",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
     "target": "Zeynep Avcı",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ayşe Çakır",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -12541,13 +12169,6 @@
   },
   {
     "source": "Bahar Erdoğan",
-    "target": "Cansu Acar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Bahar Erdoğan",
     "target": "Can Uçar",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -12558,8 +12179,7 @@
     "target": "Cemre Özkan",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -12582,8 +12202,7 @@
     "target": "Ceyda Doğan",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -12605,16 +12224,14 @@
     "source": "Bahar Erdoğan",
     "target": "Ebru Avcı",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
     "source": "Bahar Erdoğan",
     "target": "Ebru Kurt",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -12664,8 +12281,7 @@
     "source": "Bahar Erdoğan",
     "target": "Ercan Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -12708,13 +12324,6 @@
     "target": "Gökhan Toprak",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Bahar Erdoğan",
-    "target": "Gülay Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -12859,8 +12468,7 @@
     "source": "Bahar Erdoğan",
     "target": "İkra Şahin",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -13074,15 +12682,7 @@
     "source": "Bahar Erdoğan",
     "target": "Nazan Kaya",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Bahar Erdoğan",
-    "target": "Nazan Türkmen",
-    "relations": [
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13105,16 +12705,14 @@
     "source": "Bahar Erdoğan",
     "target": "Necla Güneş",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
     "source": "Bahar Erdoğan",
     "target": "Nefise Aksoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13144,8 +12742,7 @@
     "source": "Bahar Erdoğan",
     "target": "Nisan Aktaş",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13260,8 +12857,7 @@
     "source": "Bahar Erdoğan",
     "target": "Rukiye Aslan",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -13319,8 +12915,7 @@
     "source": "Bahar Erdoğan",
     "target": "Selin Acar",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -13358,8 +12953,7 @@
     "source": "Bahar Erdoğan",
     "target": "Serra Çakır",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13414,8 +13008,7 @@
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13472,8 +13065,7 @@
     "source": "Bahar Erdoğan",
     "target": "Tuğba Aydın",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13525,13 +13117,6 @@
   },
   {
     "source": "Bahar Erdoğan",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Bahar Erdoğan",
     "target": "Vildan Yılmaz",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -13548,8 +13133,7 @@
     "source": "Bahar Erdoğan",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13593,8 +13177,7 @@
     "target": "Zehra Ermiş",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -13619,13 +13202,6 @@
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Bahar Erdoğan",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -14725,8 +14301,7 @@
     "target": "Kaan Özdemir",
     "relations": [
       "LISE_ARKADASI",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -15555,8 +15130,7 @@
     "source": "Batuhan Uçar",
     "target": "Hasan Aksoy",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -15691,13 +15265,6 @@
   },
   {
     "source": "Batuhan Uçar",
-    "target": "Mert Öztürk",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Batuhan Uçar",
     "target": "Meryem Ergin",
     "relations": [
       "MESLEKTAS"
@@ -15715,13 +15282,6 @@
     "target": "Nazan Türkmen",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Batuhan Uçar",
-    "target": "Necati Öztürk",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -15932,13 +15492,6 @@
     "target": "Süheyla Özsoy",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Batuhan Uçar",
-    "target": "Taner Öztürk",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -16518,13 +16071,6 @@
     "target": "Salih Ergin",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Baturalp Polat",
-    "target": "Salih Polat",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -16693,13 +16239,6 @@
   },
   {
     "source": "Betül Doğan",
-    "target": "Burhan Doğan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Betül Doğan",
     "target": "Burhan Sezer",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -18292,8 +17831,7 @@
     "source": "Bülent Yıldız",
     "target": "Faruk Keskin",
     "relations": [
-      "MESLEKTAS",
-      "GİRİŞİM_ORTAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -18369,13 +17907,6 @@
     "relations": [
       "LISE_ARKADASI",
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Bülent Yıldız",
-    "target": "Gökhan Toprak",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -18602,8 +18133,7 @@
     "source": "Bülent Yıldız",
     "target": "İsmail Uçar",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -18863,8 +18393,7 @@
     "target": "Onur Aslan",
     "relations": [
       "LISE_ARKADASI",
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -19284,13 +18813,6 @@
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Bülent Yıldız",
-    "target": "Zeki Altun",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -19749,8 +19271,7 @@
     "target": "Hasan Bozkurt",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -19852,8 +19373,7 @@
     "source": "Burak Acar",
     "target": "İskender Kara",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -20243,8 +19763,7 @@
     "target": "Salih Demir",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -22060,13 +21579,6 @@
   },
   {
     "source": "Burhan Doğan",
-    "target": "Ozan Doğan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Burhan Doğan",
     "target": "Özge Karaca",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -22258,13 +21770,6 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Burhan Doğan",
-    "target": "Yusuf Bulut",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -22502,8 +22007,7 @@
     "source": "Burhan Sezer",
     "target": "Gülay Sezer",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -24117,16 +23621,14 @@
     "source": "Büşra Sezer",
     "target": "Gülben Kara",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
     "source": "Büşra Sezer",
     "target": "Gülçin Polat",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -25025,13 +24527,6 @@
   },
   {
     "source": "Büşra Türkmen",
-    "target": "Fidan Doğan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Büşra Türkmen",
     "target": "Gökhan Çakır",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -25210,23 +24705,9 @@
   },
   {
     "source": "Büşra Türkmen",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Büşra Türkmen",
     "target": "Kemal Can",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Büşra Türkmen",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -25287,13 +24768,6 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Büşra Türkmen",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -25575,13 +25049,6 @@
   },
   {
     "source": "Canan Kaya",
-    "target": "Canan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Canan Kaya",
     "target": "Can Uçar",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -25607,13 +25074,6 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Canan Kaya",
-    "target": "Duygu Özkan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -25735,13 +25195,6 @@
     "target": "İkra Şahin",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Canan Kaya",
-    "target": "İpek Güneş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -25918,13 +25371,6 @@
   },
   {
     "source": "Canan Kaya",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Canan Kaya",
     "target": "Şeyma Güneş",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -26011,20 +25457,6 @@
   },
   {
     "source": "Canan Kaya",
-    "target": "Vildan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Canan Kaya",
-    "target": "Yasemin Sezer",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Canan Kaya",
     "target": "Yusuf Bulut",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -26064,13 +25496,6 @@
     "target": "Ceyda Doğan",
     "relations": [
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Canan Yılmaz",
-    "target": "Duygu Özkan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -26149,13 +25574,6 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Canan Yılmaz",
-    "target": "İpek Güneş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -26275,13 +25693,6 @@
   },
   {
     "source": "Canan Yılmaz",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Canan Yılmaz",
     "target": "Şirin Bozkurt",
     "relations": [
       "MESLEKTAS"
@@ -26299,20 +25710,6 @@
     "target": "Süleyman Özkan",
     "relations": [
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Canan Yılmaz",
-    "target": "Vildan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Canan Yılmaz",
-    "target": "Yasemin Sezer",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -26379,8 +25776,7 @@
     "source": "Cansu Acar",
     "target": "Derya Çelik",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -26401,8 +25797,7 @@
     "source": "Cansu Acar",
     "target": "Ebru Kurt",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -26514,8 +25909,7 @@
     "target": "Gülay Aktaş",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -26655,8 +26049,7 @@
     "source": "Cansu Acar",
     "target": "İkra Şahin",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -26799,20 +26192,6 @@
   },
   {
     "source": "Cansu Acar",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
-    "target": "Nazan Türkmen",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
     "target": "Necati Baran",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -26820,17 +26199,9 @@
   },
   {
     "source": "Cansu Acar",
-    "target": "Necla Güneş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
     "target": "Nefise Aksoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -26845,13 +26216,6 @@
     "target": "Nihat Keskin",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
-    "target": "Nisan Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -26939,8 +26303,7 @@
     "target": "Rukiye Aslan",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -26983,8 +26346,7 @@
     "source": "Cansu Acar",
     "target": "Selin Acar",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -27012,8 +26374,7 @@
     "source": "Cansu Acar",
     "target": "Serra Çakır",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -27101,8 +26462,7 @@
     "source": "Cansu Acar",
     "target": "Tuğba Aydın",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -27135,30 +26495,9 @@
   },
   {
     "source": "Cansu Acar",
-    "target": "Yeliz Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
-    "target": "Yeliz Yıldız",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
     "target": "Zafer Bozkurt",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -27171,17 +26510,9 @@
   },
   {
     "source": "Cansu Acar",
-    "target": "Zeynep Avcı",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Cansu Acar",
     "target": "Zeynep Demir",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -27642,8 +26973,7 @@
     "source": "Cemre Özkan",
     "target": "Ceyda Doğan",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -27665,13 +26995,6 @@
     "target": "Derya Çelik",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Cemre Özkan",
-    "target": "Ebru Avcı",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -28133,8 +27456,7 @@
     "source": "Cemre Özkan",
     "target": "Süheyla Özsoy",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -28149,8 +27471,7 @@
     "target": "Tarık Uçar",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -28187,13 +27508,6 @@
     "target": "Veli Arslan",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Cemre Özkan",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -28965,8 +28279,7 @@
     "source": "Cem Şimşek",
     "target": "Nihat Şimşek",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -29340,8 +28653,7 @@
     "source": "Cem Şimşek",
     "target": "Uğur Şimşek",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -30428,7 +29740,6 @@
     "target": "Tuğba Aydın",
     "relations": [
       "MESLEKTAS",
-      "GİRİŞİM_ORTAGI",
       "ILGI_ALANI_ORTAKLIGI"
     ]
   },
@@ -30603,8 +29914,7 @@
     "target": "Ebru Avcı",
     "relations": [
       "MESLEKTAS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -31124,13 +30434,6 @@
   },
   {
     "source": "Ceyda Doğan",
-    "target": "Süheyla Özsoy",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ceyda Doğan",
     "target": "Süleyman Çakır",
     "relations": [
       "MESLEKTAS",
@@ -31187,8 +30490,7 @@
     "source": "Ceyda Doğan",
     "target": "Vildan Güler",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -33077,8 +32379,7 @@
     "source": "Derya Çelik",
     "target": "İkra Şahin",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -33149,20 +32450,6 @@
     "target": "Kaan Özdemir",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Derya Çelik",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Derya Çelik",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -33239,13 +32526,6 @@
   },
   {
     "source": "Derya Çelik",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Derya Çelik",
     "target": "Nazan Türkmen",
     "relations": [
       "MESLEKTAS",
@@ -33257,8 +32537,7 @@
     "target": "Necati Aslan",
     "relations": [
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -33577,13 +32856,6 @@
   },
   {
     "source": "Derya Çelik",
-    "target": "Yeliz Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Derya Çelik",
     "target": "Yeliz Yıldız",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -33608,8 +32880,7 @@
     "source": "Derya Çelik",
     "target": "Zehra Ermiş",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -33624,13 +32895,6 @@
     "target": "Zeki Toprak",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Derya Çelik",
-    "target": "Zeynep Avcı",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -33826,15 +33090,7 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Doğukan Ermiş",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -33893,13 +33149,6 @@
     "target": "Meryem Ergin",
     "relations": [
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Doğukan Ermiş",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -34673,13 +33922,6 @@
   },
   {
     "source": "Duygu Ergin",
-    "target": "Suna Taş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Duygu Ergin",
     "target": "Uğur Şimşek",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -34949,8 +34191,7 @@
     "source": "Duygu Özkan",
     "target": "Gül Yıldırım",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -35080,8 +34321,7 @@
     "source": "Duygu Özkan",
     "target": "İpek Güneş",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -35229,16 +34469,14 @@
     "target": "Melis Demir",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
     "source": "Duygu Özkan",
     "target": "Meltem Altun",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -35533,8 +34771,7 @@
     "target": "Semra Türkmen",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -35549,8 +34786,7 @@
     "target": "Serpil Ergin",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -35567,13 +34803,6 @@
     "target": "Sevda Toprak",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Duygu Özkan",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -35610,15 +34839,7 @@
     "target": "Şirin Bozkurt",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Duygu Özkan",
-    "target": "Şirin Erdoğan",
-    "relations": [
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -35726,17 +34947,9 @@
   },
   {
     "source": "Duygu Özkan",
-    "target": "Vildan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Duygu Özkan",
     "target": "Yasemin Sezer",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -35816,8 +35029,7 @@
     "target": "Zeynep Özsoy",
     "relations": [
       "MESLEKTAS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -36169,8 +35381,7 @@
     "source": "Ebru Avcı",
     "target": "Süheyla Özsoy",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -36237,13 +35448,6 @@
     "target": "Veli Taş",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Ebru Avcı",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -36322,8 +35526,7 @@
     "source": "Ebru Kurt",
     "target": "Ercan Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -36360,13 +35563,6 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Ebru Kurt",
-    "target": "Gülay Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -36488,8 +35684,7 @@
     "source": "Ebru Kurt",
     "target": "İkra Şahin",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -36594,20 +35789,6 @@
   },
   {
     "source": "Ebru Kurt",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ebru Kurt",
-    "target": "Nazan Türkmen",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ebru Kurt",
     "target": "Necati Aslan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -36624,16 +35805,14 @@
     "source": "Ebru Kurt",
     "target": "Necla Güneş",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
     "source": "Ebru Kurt",
     "target": "Nefise Aksoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -36663,8 +35842,7 @@
     "target": "Nisan Aktaş",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -36733,13 +35911,6 @@
   },
   {
     "source": "Ebru Kurt",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ebru Kurt",
     "target": "Şahin Yıldız",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -36771,8 +35942,7 @@
     "source": "Ebru Kurt",
     "target": "Selin Acar",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -36800,8 +35970,7 @@
     "source": "Ebru Kurt",
     "target": "Serra Çakır",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -36886,8 +36055,7 @@
     "source": "Ebru Kurt",
     "target": "Tuğba Aydın",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -36931,13 +36099,6 @@
   },
   {
     "source": "Ebru Kurt",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ebru Kurt",
     "target": "Yeliz Kaya",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -36947,8 +36108,7 @@
     "source": "Ebru Kurt",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -36964,13 +36124,6 @@
     "relations": [
       "MESLEKTAS",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ebru Kurt",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -36991,8 +36144,7 @@
     "source": "Ebru Kurt",
     "target": "Zeynep Demir",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -38615,20 +37767,6 @@
   },
   {
     "source": "Ekin Kara",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ekin Kara",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ekin Kara",
     "target": "Melek Eren",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -38647,13 +37785,6 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Ekin Kara",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -39482,13 +38613,6 @@
     "target": "Gülçin Polat",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Elif Keskin",
-    "target": "Gül Baran",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -40544,13 +39668,6 @@
   },
   {
     "source": "Elvan Çakır",
-    "target": "İkra Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Elvan Çakır",
     "target": "İkra Şahin",
     "relations": [
       "UNIVERSITE_ARKADASI",
@@ -40632,13 +39749,6 @@
     "relations": [
       "MESLEKTAS",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Elvan Çakır",
-    "target": "Melek Aksoy",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -40756,8 +39866,7 @@
       "UNIVERSITE_ARKADASI",
       "YUKSEK_LISANS_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -40881,8 +39990,7 @@
     "target": "Şebnem Özsoy",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -41122,8 +40230,7 @@
     "target": "Zeynep Yılmaz",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -41686,13 +40793,6 @@
   },
   {
     "source": "Emrah Baran",
-    "target": "Süleyman Çakır",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Emrah Baran",
     "target": "Süleyman Eren",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -42523,23 +41623,9 @@
   },
   {
     "source": "Engin Tan",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Engin Tan",
     "target": "Kemal Can",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Engin Tan",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -42615,8 +41701,7 @@
     "target": "Necati Aslan",
     "relations": [
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -43011,8 +42096,7 @@
     "target": "Gülay Aktaş",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -43179,8 +42263,7 @@
     "source": "Ercan Yılmaz",
     "target": "İbrahim Sezer",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -43285,8 +42368,7 @@
     "target": "Mahir Koç",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -43369,20 +42451,6 @@
   },
   {
     "source": "Ercan Yılmaz",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ercan Yılmaz",
-    "target": "Nazan Türkmen",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ercan Yılmaz",
     "target": "Necati Aslan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -43397,17 +42465,9 @@
   },
   {
     "source": "Ercan Yılmaz",
-    "target": "Necla Güneş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ercan Yılmaz",
     "target": "Nefise Aksoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -43436,13 +42496,6 @@
     "target": "Nihat Şimşek",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ercan Yılmaz",
-    "target": "Nisan Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -43533,16 +42586,14 @@
     "source": "Ercan Yılmaz",
     "target": "Reşat Şimşek",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
     "source": "Ercan Yılmaz",
     "target": "Rukiye Aslan",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -43590,13 +42641,6 @@
   },
   {
     "source": "Ercan Yılmaz",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ercan Yılmaz",
     "target": "Semra Eren",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -43629,8 +42673,7 @@
     "target": "Serra Çakır",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -43744,8 +42787,7 @@
     "source": "Ercan Yılmaz",
     "target": "Tuğba Aydın",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -43808,8 +42850,7 @@
     "source": "Ercan Yılmaz",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -43838,15 +42879,7 @@
     "target": "Zafer Bozkurt",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Ercan Yılmaz",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -43861,13 +42894,6 @@
     "target": "Zeki Toprak",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ercan Yılmaz",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -44979,8 +44005,7 @@
     "source": "Faruk Keskin",
     "target": "Kaan Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -44988,13 +44013,6 @@
     "target": "Kemal Can",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Faruk Keskin",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -45101,8 +44119,7 @@
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -45117,13 +44134,6 @@
     "target": "Neşe Demir",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Faruk Keskin",
-    "target": "Nihat Keskin",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -46255,13 +45265,6 @@
   },
   {
     "source": "Fatma Özkan",
-    "target": "Melek Eren",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Fatma Özkan",
     "target": "Melek Ermiş",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -46321,8 +45324,7 @@
     "source": "Fatma Özkan",
     "target": "Nisan Çakır",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -46682,8 +45684,7 @@
     "target": "Hüsnü Kurt",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -48995,8 +47996,7 @@
     "target": "Salih Polat",
     "relations": [
       "MESLEKTAS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -51665,8 +50665,7 @@
     "source": "Gökhan Özsoy",
     "target": "Özgür Özsoy",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -52273,8 +51272,7 @@
     "source": "Gökhan Tan",
     "target": "Ozan Tan",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -52440,13 +51438,6 @@
     "target": "Vedat Sezer",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Gökhan Tan",
-    "target": "Vedat Tan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -52718,13 +51709,6 @@
   },
   {
     "source": "Gökhan Toprak",
-    "target": "İsmail Uçar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gökhan Toprak",
     "target": "İzzet Yıldız",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -52840,13 +51824,6 @@
     "target": "Ömer Ermiş",
     "relations": [
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Gökhan Toprak",
-    "target": "Onur Aslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -53143,13 +52120,6 @@
   },
   {
     "source": "Gökhan Toprak",
-    "target": "Zeki Altun",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gökhan Toprak",
     "target": "Zeki Avcı",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -53281,13 +52251,6 @@
     "target": "İbrahim Sezer",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
-    "target": "İkra Şahin",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -53433,20 +52396,6 @@
   },
   {
     "source": "Gülay Aktaş",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
-    "target": "Nazan Türkmen",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
     "target": "Necati Baran",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -53454,24 +52403,9 @@
   },
   {
     "source": "Gülay Aktaş",
-    "target": "Necla Güneş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
     "target": "Nefise Aksoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
-    "target": "Nisan Aktaş",
-    "relations": [
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -53560,8 +52494,7 @@
     "source": "Gülay Aktaş",
     "target": "Rukiye Aslan",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -53588,13 +52521,6 @@
   },
   {
     "source": "Gülay Aktaş",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
     "target": "Serpil Ergin",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -53604,8 +52530,7 @@
     "source": "Gülay Aktaş",
     "target": "Serra Çakır",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -53690,23 +52615,9 @@
   },
   {
     "source": "Gülay Aktaş",
-    "target": "Tuğba Aydın",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
     "target": "Vedat Tan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -53715,13 +52626,6 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
-    "target": "Yeliz Yıldız",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -53747,23 +52651,9 @@
   },
   {
     "source": "Gülay Aktaş",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
     "target": "Zeki Avcı",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Gülay Aktaş",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -54246,8 +53136,7 @@
     "source": "Gülay Sezer",
     "target": "Sinan Sezer",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -54367,13 +53256,6 @@
     "target": "Vildan Güler",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Gülay Sezer",
-    "target": "Yasemin Sezer",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -54572,13 +53454,6 @@
   },
   {
     "source": "Gülay Uzun",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülay Uzun",
     "target": "Kadir Altun",
     "relations": [
       "MESLEKTAS"
@@ -54588,8 +53463,7 @@
     "source": "Gülay Uzun",
     "target": "Levent Ermiş",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -54645,8 +53519,7 @@
     "source": "Gülay Uzun",
     "target": "Necati Aslan",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -54968,8 +53841,7 @@
     "source": "Gülben Kara",
     "target": "Gülçin Polat",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -54983,8 +53855,7 @@
     "source": "Gülben Kara",
     "target": "Gül Yıldırım",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -55135,16 +54006,14 @@
     "target": "Melis Demir",
     "relations": [
       "ILKOKUL_ARKADASI",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
     "source": "Gülben Kara",
     "target": "Meltem Altun",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -55281,23 +54150,14 @@
     "target": "Semra Türkmen",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
     "source": "Gülben Kara",
     "target": "Serpil Ergin",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülben Kara",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -55311,15 +54171,7 @@
     "source": "Gülben Kara",
     "target": "Şirin Bozkurt",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülben Kara",
-    "target": "Şirin Erdoğan",
-    "relations": [
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -55426,8 +54278,7 @@
     "target": "Zeynep Özsoy",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -55449,8 +54300,7 @@
     "target": "Gül Yıldırım",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -55586,17 +54436,9 @@
   },
   {
     "source": "Gülçin Polat",
-    "target": "Melis Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülçin Polat",
     "target": "Meltem Altun",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -55740,8 +54582,7 @@
     "source": "Gülçin Polat",
     "target": "Sami Şimşek",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -55777,8 +54618,7 @@
     "source": "Gülçin Polat",
     "target": "Semra Türkmen",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -55786,13 +54626,6 @@
     "target": "Serap Arslan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Gülçin Polat",
-    "target": "Serpil Ergin",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -55811,13 +54644,6 @@
   },
   {
     "source": "Gülçin Polat",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülçin Polat",
     "target": "Sinan Yalçın",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -55828,27 +54654,6 @@
     "target": "Şirin Altun",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Gülçin Polat",
-    "target": "Şirin Bozkurt",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülçin Polat",
-    "target": "Şirin Erdoğan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gülçin Polat",
-    "target": "Süleyman Eren",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -55872,8 +54677,7 @@
     "source": "Gülçin Polat",
     "target": "Tarık Aktaş",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -55917,13 +54721,6 @@
     "target": "Vedat Tan",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Gülçin Polat",
-    "target": "Veli Arslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -55972,8 +54769,7 @@
     "source": "Gülçin Polat",
     "target": "Zeynep Özsoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -56958,7 +55754,6 @@
       "YUKSEK_LISANS_ARKADASI",
       "MESLEKTAS",
       "AYNI_KURUMDA_CALISMIS",
-      "AKADEMIK_CALISMA_ORTAKLIGI",
       "ILGI_ALANI_ORTAKLIGI"
     ]
   },
@@ -57605,7 +56400,6 @@
     "source": "Gül Baran",
     "target": "Suna Taş",
     "relations": [
-      "GİRİŞİM_ORTAGI",
       "ILGI_ALANI_ORTAKLIGI"
     ]
   },
@@ -57864,20 +56658,6 @@
   },
   {
     "source": "Gül Yıldırım",
-    "target": "Melis Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gül Yıldırım",
-    "target": "Meltem Altun",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gül Yıldırım",
     "target": "Mert Türkmen",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -58014,13 +56794,6 @@
   },
   {
     "source": "Gül Yıldırım",
-    "target": "Salih Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gül Yıldırım",
     "target": "Salih Polat",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -58038,8 +56811,7 @@
     "source": "Gül Yıldırım",
     "target": "Semra Eren",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -58047,8 +56819,7 @@
     "target": "Semra Türkmen",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -58056,13 +56827,6 @@
     "target": "Serap Arslan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Gül Yıldırım",
-    "target": "Serpil Ergin",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -58084,8 +56848,7 @@
     "source": "Gül Yıldırım",
     "target": "Sevda Yıldırım",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -58116,20 +56879,6 @@
     "target": "Şirin Altun",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Gül Yıldırım",
-    "target": "Şirin Bozkurt",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Gül Yıldırım",
-    "target": "Şirin Erdoğan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -58228,8 +56977,7 @@
     "source": "Gül Yıldırım",
     "target": "Zeynep Özsoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -58427,13 +57175,6 @@
   },
   {
     "source": "Hakan Şimşek",
-    "target": "Özgür Şimşek",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Hakan Şimşek",
     "target": "Ramazan Kaplan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -58624,13 +57365,6 @@
   },
   {
     "source": "Halit Aktaş",
-    "target": "Hüsnü Aktaş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Halit Aktaş",
     "target": "İpek Aksoy",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -58641,13 +57375,6 @@
     "target": "İskender Kara",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Halit Aktaş",
-    "target": "İsmail Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -61210,8 +59937,7 @@
     "relations": [
       "MESLEKTAS",
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -63977,8 +62703,7 @@
     "target": "Mert Öztürk",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -64016,13 +62741,6 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Hasan Aksoy",
-    "target": "Necati Öztürk",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -64277,8 +62995,7 @@
     "source": "Hasan Aksoy",
     "target": "Taner Öztürk",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -64564,8 +63281,7 @@
     "target": "İskender Kara",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -65000,8 +63716,7 @@
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -65489,17 +64204,9 @@
   },
   {
     "source": "Hasan Güler",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Hasan Güler",
     "target": "Levent Ermiş",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -65557,8 +64264,7 @@
     "source": "Hasan Güler",
     "target": "Necati Aslan",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -66259,13 +64965,6 @@
     "target": "Şirin Altun",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Hatice Eren",
-    "target": "Şirin Can",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -67462,13 +66161,6 @@
   },
   {
     "source": "Hümeyra Güler",
-    "target": "Mert Çakır",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Hümeyra Güler",
     "target": "Mert Öztürk",
     "relations": [
       "UNIVERSITE_ARKADASI",
@@ -68175,8 +66867,7 @@
     "target": "İsmail Aktaş",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -69250,13 +67941,6 @@
   },
   {
     "source": "İbrahim Can",
-    "target": "Kemal Can",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İbrahim Can",
     "target": "Levent Ermiş",
     "relations": [
       "MESLEKTAS"
@@ -69528,8 +68212,7 @@
     "target": "Mahir Koç",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -69637,8 +68320,7 @@
     "source": "İbrahim Sezer",
     "target": "Reşat Şimşek",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -69781,13 +68463,6 @@
   },
   {
     "source": "İbrahim Sezer",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İbrahim Sezer",
     "target": "Yasemin Sezer",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -69798,13 +68473,6 @@
     "target": "Yeliz Yıldız",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "İbrahim Sezer",
-    "target": "Zafer Bozkurt",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -69924,13 +68592,6 @@
   },
   {
     "source": "İkra Demir",
-    "target": "Melek Aksoy",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İkra Demir",
     "target": "Melek Ermiş",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -69962,13 +68623,6 @@
     "target": "Nefise Aydın",
     "relations": [
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "İkra Demir",
-    "target": "Neşe Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -70059,23 +68713,9 @@
   },
   {
     "source": "İkra Demir",
-    "target": "Sami Şimşek",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İkra Demir",
     "target": "Sami Yıldız",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "İkra Demir",
-    "target": "Şebnem Özsoy",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -70140,8 +68780,7 @@
     "source": "İkra Demir",
     "target": "Süleyman Eren",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -70162,8 +68801,7 @@
     "source": "İkra Demir",
     "target": "Tarık Aktaş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -70185,13 +68823,6 @@
     "target": "Vedat Tan",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "İkra Demir",
-    "target": "Veli Arslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -70254,8 +68885,7 @@
     "source": "İkra Demir",
     "target": "Zeynep Yılmaz",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -70387,38 +69017,10 @@
   },
   {
     "source": "İkra Şahin",
-    "target": "Nazan Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İkra Şahin",
-    "target": "Nazan Türkmen",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İkra Şahin",
     "target": "Necati Öztürk",
     "relations": [
       "MESLEKTAS",
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "İkra Şahin",
-    "target": "Necla Güneş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İkra Şahin",
-    "target": "Nefise Aksoy",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -70434,8 +69036,7 @@
     "source": "İkra Şahin",
     "target": "Nisan Aktaş",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -70475,8 +69076,7 @@
     "target": "Rukiye Aslan",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -70514,8 +69114,7 @@
     "target": "Selin Acar",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -70532,13 +69131,6 @@
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "İkra Şahin",
-    "target": "Serra Çakır",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -70597,13 +69189,6 @@
   },
   {
     "source": "İkra Şahin",
-    "target": "Tuğba Aydın",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İkra Şahin",
     "target": "Uğur Aydın",
     "relations": [
       "UNIVERSITE_ARKADASI",
@@ -70648,17 +69233,9 @@
   },
   {
     "source": "İkra Şahin",
-    "target": "Yeliz Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İkra Şahin",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -70686,8 +69263,7 @@
     "source": "İkra Şahin",
     "target": "Zehra Ermiş",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -70702,8 +69278,7 @@
     "source": "İkra Şahin",
     "target": "Zeynep Avcı",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -70711,8 +69286,7 @@
     "target": "Zeynep Demir",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -71183,20 +69757,6 @@
   },
   {
     "source": "İpek Güneş",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İpek Güneş",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İpek Güneş",
     "target": "Mahir Koç",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -71259,13 +69819,6 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "İpek Güneş",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -71428,13 +69981,6 @@
   },
   {
     "source": "İpek Güneş",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İpek Güneş",
     "target": "Şeyma Eren",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -71506,17 +70052,9 @@
   },
   {
     "source": "İpek Güneş",
-    "target": "Vildan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İpek Güneş",
     "target": "Yasemin Sezer",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -72676,13 +71214,6 @@
     "target": "Meltem Eren",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "İrem Yalçın",
-    "target": "Mert Çakır",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -74038,8 +72569,7 @@
     "source": "İskender Kara",
     "target": "Salih Demir",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -74665,8 +73195,7 @@
     "target": "Şahin Yıldız",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -75964,13 +74493,6 @@
   },
   {
     "source": "İsmail Uçar",
-    "target": "Kaan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İsmail Uçar",
     "target": "Kemal Can",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -75981,8 +74503,7 @@
     "target": "Levent Ermiş",
     "relations": [
       "MESLEKTAS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -76033,8 +74554,7 @@
     "target": "Necati Aslan",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -76091,8 +74611,7 @@
     "target": "Onur Aslan",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -76369,13 +74888,6 @@
     "target": "Zafer Bozkurt",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "İsmail Uçar",
-    "target": "Zeki Altun",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -76906,8 +75418,7 @@
     "source": "İzzet Arslan",
     "target": "Zeki Toprak",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "GİRİŞİM_ORTAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -77390,8 +75901,7 @@
     "target": "Süleyman Özkan",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -78205,13 +76715,6 @@
   },
   {
     "source": "İzzet Yıldız",
-    "target": "Sami Yıldız",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "İzzet Yıldız",
     "target": "Sedef Sezer",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -78779,13 +77282,6 @@
     "target": "Nazan Kaya",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Kaan Baran",
-    "target": "Necati Baran",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -79920,13 +78416,6 @@
   },
   {
     "source": "Kaan Yılmaz",
-    "target": "Levent Ermiş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Kaan Yılmaz",
     "target": "Mahmut Aksoy",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -79953,8 +78442,7 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "YUKSEK_LISANS_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -79991,15 +78479,7 @@
     "source": "Kaan Yılmaz",
     "target": "Nazan Türkmen",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Kaan Yılmaz",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -80028,8 +78508,7 @@
     "source": "Kaan Yılmaz",
     "target": "Nihat Şimşek",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -80107,8 +78586,7 @@
     "source": "Kaan Yılmaz",
     "target": "Rukiye Aslan",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -80145,8 +78623,7 @@
     "target": "Semra Türkmen",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -80221,13 +78698,6 @@
   },
   {
     "source": "Kaan Yılmaz",
-    "target": "Tarık Uçar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Kaan Yılmaz",
     "target": "Uğur Şimşek",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -80258,13 +78728,6 @@
   },
   {
     "source": "Kaan Yılmaz",
-    "target": "Yeliz Yıldız",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Kaan Yılmaz",
     "target": "Yunus Karaca",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -80289,8 +78752,7 @@
     "source": "Kaan Yılmaz",
     "target": "Zeki Altun",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -80309,13 +78771,6 @@
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Kaan Yılmaz",
-    "target": "Zeynep Çelik",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -81071,13 +79526,6 @@
   },
   {
     "source": "Levent Ermiş",
-    "target": "Meltem Karaca",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Levent Ermiş",
     "target": "Mert Türkmen",
     "relations": [
       "UNIVERSITE_ARKADASI",
@@ -81095,16 +79543,14 @@
     "source": "Levent Ermiş",
     "target": "Nazan Türkmen",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
     "source": "Levent Ermiş",
     "target": "Necati Aslan",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -81148,8 +79594,7 @@
     "source": "Levent Ermiş",
     "target": "Nihat Şimşek",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -81219,13 +79664,6 @@
   },
   {
     "source": "Levent Ermiş",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Levent Ermiş",
     "target": "Şahin Güler",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -81263,8 +79701,7 @@
     "source": "Levent Ermiş",
     "target": "Semra Türkmen",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -81358,13 +79795,6 @@
   },
   {
     "source": "Levent Ermiş",
-    "target": "Tarık Uçar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Levent Ermiş",
     "target": "Tuğba Aydın",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -81406,8 +79836,7 @@
     "target": "Yeliz Yıldız",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -81447,23 +79876,9 @@
   },
   {
     "source": "Levent Ermiş",
-    "target": "Zeki Altun",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Levent Ermiş",
     "target": "Zeki Toprak",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Levent Ermiş",
-    "target": "Zeynep Çelik",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -81736,8 +80151,7 @@
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -81980,8 +80394,7 @@
     "source": "Mahir Koç",
     "target": "Vildan Güler",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -82027,13 +80440,6 @@
     "target": "Yusuf Bulut",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Mahir Koç",
-    "target": "Zafer Bozkurt",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -82105,8 +80511,7 @@
     "target": "Mert Çakır",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -82540,13 +80945,6 @@
   },
   {
     "source": "Mahmut Karaca",
-    "target": "Mert Türkmen",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Mahmut Karaca",
     "target": "Meryem Tan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -82773,13 +81171,6 @@
   },
   {
     "source": "Melek Aksoy",
-    "target": "Neşe Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Melek Aksoy",
     "target": "Onur Aslan",
     "relations": [
       "LISE_ARKADASI"
@@ -82836,13 +81227,6 @@
     "target": "Şahin Güler",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Melek Aksoy",
-    "target": "Şebnem Özsoy",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -83051,13 +81435,6 @@
     ]
   },
   {
-    "source": "Melek Aksoy",
-    "target": "Zeynep Yılmaz",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
     "source": "Melek Eren",
     "target": "Melis Demir",
     "relations": [
@@ -83156,8 +81533,7 @@
     "source": "Melek Eren",
     "target": "Nisan Çakır",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -84274,8 +82650,7 @@
     "target": "Meltem Altun",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -84442,13 +82817,6 @@
   },
   {
     "source": "Melis Demir",
-    "target": "Salih Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Melis Demir",
     "target": "Salih Polat",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -84478,17 +82846,9 @@
   },
   {
     "source": "Melis Demir",
-    "target": "Semra Eren",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Melis Demir",
     "target": "Semra Türkmen",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -84497,8 +82857,7 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -84512,8 +82871,7 @@
     "source": "Melis Demir",
     "target": "Sevda Yıldırım",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -84543,23 +82901,14 @@
     "target": "Şirin Bozkurt",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Melis Demir",
-    "target": "Şirin Can",
-    "relations": [
-      "GİRİŞİM_ORTAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
     "source": "Melis Demir",
     "target": "Şirin Erdoğan",
     "relations": [
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -84713,8 +83062,7 @@
     "source": "Melis Demir",
     "target": "Zeynep Özsoy",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -84922,13 +83270,6 @@
   },
   {
     "source": "Meltem Altun",
-    "target": "Salih Demir",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Meltem Altun",
     "target": "Salih Polat",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -84962,8 +83303,7 @@
     "source": "Meltem Altun",
     "target": "Semra Eren",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -84971,8 +83311,7 @@
     "target": "Semra Türkmen",
     "relations": [
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -84987,15 +83326,7 @@
     "source": "Meltem Altun",
     "target": "Serpil Ergin",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Meltem Altun",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -85013,8 +83344,7 @@
     "target": "Şirin Bozkurt",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -85029,8 +83359,7 @@
     "target": "Şirin Erdoğan",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -85192,8 +83521,7 @@
     "source": "Meltem Altun",
     "target": "Zeynep Özsoy",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -85442,13 +83770,6 @@
   },
   {
     "source": "Meltem Karaca",
-    "target": "Necati Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Meltem Karaca",
     "target": "Nefise Aksoy",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -85513,8 +83834,7 @@
     "target": "Özge Yıldız",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -85930,8 +84250,7 @@
     "source": "Mert Çakır",
     "target": "Tarık Aktaş",
     "relations": [
-      "ILKOKUL_ARKADASI",
-      "AILE_BAGI"
+      "ILKOKUL_ARKADASI"
     ]
   },
   {
@@ -85987,8 +84306,7 @@
     "source": "Mert Çakır",
     "target": "Zafer Bozkurt",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -86070,8 +84388,7 @@
     "source": "Mert Öztürk",
     "target": "Necati Öztürk",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -86395,8 +84712,7 @@
     "target": "Taner Öztürk",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -87909,27 +86225,6 @@
   },
   {
     "source": "Nazan Kaya",
-    "target": "Nazan Türkmen",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Necla Güneş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Nefise Aksoy",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
     "target": "Neşe Demir",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -87939,8 +86234,7 @@
     "source": "Nazan Kaya",
     "target": "Nisan Aktaş",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -87980,13 +86274,6 @@
   },
   {
     "source": "Nazan Kaya",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
     "target": "Salih Demir",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
@@ -88001,13 +86288,6 @@
   },
   {
     "source": "Nazan Kaya",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
     "target": "Semra Eren",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -88015,23 +86295,9 @@
   },
   {
     "source": "Nazan Kaya",
-    "target": "Serra Çakır",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
     "target": "Sevda Yıldırım",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Sinan Güneş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -88060,29 +86326,7 @@
     "source": "Nazan Kaya",
     "target": "Tuğba Aydın",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Yeliz Kaya",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Yeliz Yıldız",
-    "relations": [
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -88090,13 +86334,6 @@
     "target": "Yunus Yılmaz",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -88111,8 +86348,7 @@
     "source": "Nazan Kaya",
     "target": "Zeynep Avcı",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -88120,13 +86356,6 @@
     "target": "Zeynep Çelik",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Nazan Kaya",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -88143,8 +86372,7 @@
     "source": "Nazan Türkmen",
     "target": "Necati Aslan",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -88159,16 +86387,14 @@
     "source": "Nazan Türkmen",
     "target": "Necla Güneş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
     "source": "Nazan Türkmen",
     "target": "Nefise Aksoy",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -88176,13 +86402,6 @@
     "target": "Nefise Aydın",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Nazan Türkmen",
-    "target": "Nisan Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -88294,13 +86513,6 @@
   },
   {
     "source": "Nazan Türkmen",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Türkmen",
     "target": "Şahin Güler",
     "relations": [
       "UNIVERSITE_ARKADASI",
@@ -88364,17 +86576,9 @@
   },
   {
     "source": "Nazan Türkmen",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nazan Türkmen",
     "target": "Serra Çakır",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -88477,8 +86681,7 @@
     "target": "Tuğba Aydın",
     "relations": [
       "MESLEKTAS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -88515,8 +86718,7 @@
     "target": "Vildan Güler",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -88537,8 +86739,7 @@
     "source": "Nazan Türkmen",
     "target": "Yeliz Yıldız",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -88561,8 +86762,7 @@
     "target": "Zehra Ermiş",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -88571,13 +86771,6 @@
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Nazan Türkmen",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -88628,8 +86821,7 @@
     "source": "Necati Aslan",
     "target": "Nihat Şimşek",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -88734,13 +86926,6 @@
   },
   {
     "source": "Necati Aslan",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Necati Aslan",
     "target": "Şahin Güler",
     "relations": [
       "MESLEKTAS"
@@ -88796,8 +86981,7 @@
     "source": "Necati Aslan",
     "target": "Semra Türkmen",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -88892,13 +87076,6 @@
   },
   {
     "source": "Necati Aslan",
-    "target": "Tarık Uçar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Necati Aslan",
     "target": "Tuğba Aydın",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
@@ -88973,8 +87150,7 @@
     "source": "Necati Aslan",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -89018,24 +87194,10 @@
   },
   {
     "source": "Necati Aslan",
-    "target": "Zeki Altun",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Necati Aslan",
     "target": "Zeki Toprak",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Necati Aslan",
-    "target": "Zeynep Çelik",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -89397,13 +87559,6 @@
   },
   {
     "source": "Necati Öztürk",
-    "target": "Taner Öztürk",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Necati Öztürk",
     "target": "Tarık Aktaş",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -89423,8 +87578,7 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "AYNI_KURUMDA_CALISMIS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -89511,8 +87665,7 @@
     "source": "Necla Güneş",
     "target": "Nefise Aksoy",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -89527,13 +87680,6 @@
     "target": "Nihat Şimşek",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Necla Güneş",
-    "target": "Nisan Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -89567,13 +87713,6 @@
   },
   {
     "source": "Necla Güneş",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Necla Güneş",
     "target": "Şahin Güler",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -89597,24 +87736,10 @@
   },
   {
     "source": "Necla Güneş",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Necla Güneş",
     "target": "Semra Türkmen",
     "relations": [
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Necla Güneş",
-    "target": "Serra Çakır",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -89698,13 +87823,6 @@
   },
   {
     "source": "Necla Güneş",
-    "target": "Tuğba Aydın",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Necla Güneş",
     "target": "Uğur Şimşek",
     "relations": [
       "AYNI_MEMLEKETTEN",
@@ -89743,8 +87861,7 @@
     "source": "Necla Güneş",
     "target": "Vildan Güler",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -89766,8 +87883,7 @@
     "source": "Necla Güneş",
     "target": "Yeliz Yıldız",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -89803,8 +87919,7 @@
     "source": "Necla Güneş",
     "target": "Zehra Ermiş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -89814,13 +87929,6 @@
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI",
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Necla Güneş",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -89865,8 +87973,7 @@
     "target": "Nisan Aktaş",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -89953,13 +88060,6 @@
   },
   {
     "source": "Nefise Aksoy",
-    "target": "Rukiye Aslan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nefise Aksoy",
     "target": "Şahin Güler",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -90007,13 +88107,6 @@
     "target": "Şebnem Özsoy",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Nefise Aksoy",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -90043,8 +88136,7 @@
     "source": "Nefise Aksoy",
     "target": "Serra Çakır",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -90153,8 +88245,7 @@
     "source": "Nefise Aksoy",
     "target": "Tuğba Aydın",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -90177,8 +88268,7 @@
     "source": "Nefise Aksoy",
     "target": "Vildan Güler",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -90194,8 +88284,7 @@
     "target": "Yeliz Yıldız",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -90238,8 +88327,7 @@
     "source": "Nefise Aksoy",
     "target": "Zehra Ermiş",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -90269,8 +88357,7 @@
     "source": "Nefise Aksoy",
     "target": "Zeynep Demir",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -90334,13 +88421,6 @@
   },
   {
     "source": "Nefise Aydın",
-    "target": "Özge Şimşek",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nefise Aydın",
     "target": "Özgür Şimşek",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -90379,8 +88459,7 @@
     "target": "Şeyma Güneş",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -90690,8 +88769,7 @@
     "source": "Neşe Demir",
     "target": "Şebnem Özsoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -90991,8 +89069,7 @@
     "source": "Neşe Demir",
     "target": "Zeynep Yılmaz",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -91590,8 +89667,7 @@
     "source": "Nihat Şimşek",
     "target": "Uğur Şimşek",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -91744,8 +89820,7 @@
     "source": "Nisan Aktaş",
     "target": "Rukiye Aslan",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -91760,13 +89835,6 @@
     "target": "Salih Polat",
     "relations": [
       "AYNI_MEMLEKETTEN"
-    ]
-  },
-  {
-    "source": "Nisan Aktaş",
-    "target": "Selin Acar",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -91788,13 +89856,6 @@
     "target": "Serap Arslan",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Nisan Aktaş",
-    "target": "Serra Çakır",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -91827,13 +89888,6 @@
   },
   {
     "source": "Nisan Aktaş",
-    "target": "Tuğba Aydın",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nisan Aktaş",
     "target": "Vedat Sezer",
     "relations": [
       "MESLEKTAS"
@@ -91856,13 +89910,6 @@
   },
   {
     "source": "Nisan Aktaş",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Nisan Aktaş",
     "target": "Yasemin Sezer",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -91872,8 +89919,7 @@
     "source": "Nisan Aktaş",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -91881,13 +89927,6 @@
     "target": "Yusuf Bulut",
     "relations": [
       "MESLEKTAS"
-    ]
-  },
-  {
-    "source": "Nisan Aktaş",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -91903,8 +89942,7 @@
     "target": "Zeynep Demir",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -92658,13 +90696,6 @@
   },
   {
     "source": "Onur Aslan",
-    "target": "Zeki Altun",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Onur Aslan",
     "target": "Zeynep Uzun",
     "relations": [
       "LISE_ARKADASI"
@@ -94389,8 +92420,7 @@
     "source": "Ozan Doğan",
     "target": "Yusuf Bulut",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -94500,13 +92530,6 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Ozan Tan",
-    "target": "Vedat Tan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -94760,8 +92783,7 @@
     "source": "Özge Karaca",
     "target": "Yunus Karaca",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -94923,13 +92945,6 @@
     "target": "Şeyma Eren",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Özge Şimşek",
-    "target": "Şeyma Güneş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -96342,8 +94357,7 @@
     "source": "Ramazan Kaplan",
     "target": "Süleyman Kaplan",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -97125,8 +95139,7 @@
     "target": "Vildan Güler",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -97143,13 +95156,6 @@
     "target": "Yunus Yılmaz",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Reşat Şimşek",
-    "target": "Zafer Bozkurt",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -97301,13 +95307,6 @@
   },
   {
     "source": "Rıza Erdoğan",
-    "target": "Yılmaz Erdoğan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Rıza Erdoğan",
     "target": "Yunus Yılmaz",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
@@ -97383,8 +95382,7 @@
     "source": "Rukiye Aslan",
     "target": "Selin Acar",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -97413,8 +95411,7 @@
     "source": "Rukiye Aslan",
     "target": "Serra Çakır",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -97488,13 +95485,6 @@
   },
   {
     "source": "Rukiye Aslan",
-    "target": "Tuğba Aydın",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Rukiye Aslan",
     "target": "Uğur Aydın",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
@@ -97525,8 +95515,7 @@
     "source": "Rukiye Aslan",
     "target": "Vildan Güler",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -97542,8 +95531,7 @@
     "source": "Rukiye Aslan",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -97557,8 +95545,7 @@
     "source": "Rukiye Aslan",
     "target": "Zehra Ermiş",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -97587,8 +95574,7 @@
     "source": "Rukiye Aslan",
     "target": "Zeynep Demir",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -98137,13 +96123,6 @@
   },
   {
     "source": "Salih Demir",
-    "target": "Sami Şimşek",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Salih Demir",
     "target": "Sedef Sezer",
     "relations": [
       "UNIVERSITE_ARKADASI",
@@ -98155,8 +96134,7 @@
     "target": "Semra Türkmen",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -98164,13 +96142,6 @@
     "target": "Serap Arslan",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Salih Demir",
-    "target": "Serpil Ergin",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -98191,15 +96162,7 @@
     "source": "Salih Demir",
     "target": "Sevda Yıldırım",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Salih Demir",
-    "target": "Şirin Bozkurt",
-    "relations": [
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -98207,8 +96170,7 @@
     "target": "Şirin Erdoğan",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -98233,8 +96195,7 @@
       "LISE_ARKADASI",
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -98267,8 +96228,7 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -98306,8 +96266,7 @@
     "source": "Salih Demir",
     "target": "Veli Arslan",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -98392,8 +96351,7 @@
     "target": "Zeynep Özsoy",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -98902,13 +96860,6 @@
   },
   {
     "source": "Sami Şimşek",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Sami Şimşek",
     "target": "Şeyma Eren",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -98947,8 +96898,7 @@
     "source": "Sami Şimşek",
     "target": "Süleyman Eren",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -98974,13 +96924,6 @@
   },
   {
     "source": "Sami Şimşek",
-    "target": "Tarık Aktaş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Sami Şimşek",
     "target": "Uğur Şimşek",
     "relations": [
       "UNIVERSITE_ARKADASI"
@@ -98997,8 +96940,7 @@
     "source": "Sami Şimşek",
     "target": "Veli Arslan",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -99500,8 +97442,7 @@
     "target": "Zeynep Yılmaz",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -99768,8 +97709,7 @@
     "source": "Selin Acar",
     "target": "Serra Çakır",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -99859,8 +97799,7 @@
     "target": "Tuğba Aydın",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "LISE_ARKADASI",
-      "AILE_BAGI"
+      "LISE_ARKADASI"
     ]
   },
   {
@@ -99896,8 +97835,7 @@
     "target": "Vildan Güler",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -99911,8 +97849,7 @@
     "source": "Selin Acar",
     "target": "Yeliz Yıldız",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -99921,13 +97858,6 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "ILKOKUL_ARKADASI"
-    ]
-  },
-  {
-    "source": "Selin Acar",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -99949,8 +97879,7 @@
     "source": "Selin Acar",
     "target": "Zeynep Demir",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -99980,8 +97909,7 @@
     "source": "Semra Eren",
     "target": "Semra Türkmen",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -99995,8 +97923,7 @@
     "source": "Semra Eren",
     "target": "Serpil Ergin",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -100011,13 +97938,6 @@
     "target": "Sevda Toprak",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Semra Eren",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -100046,15 +97966,7 @@
     "source": "Semra Eren",
     "target": "Şirin Bozkurt",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Semra Eren",
-    "target": "Şirin Erdoğan",
-    "relations": [
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -100168,8 +98080,7 @@
     "target": "Zeynep Özsoy",
     "relations": [
       "UNIVERSITE_ARKADASI",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -100195,13 +98106,6 @@
   },
   {
     "source": "Semra Türkmen",
-    "target": "Serpil Ergin",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Semra Türkmen",
     "target": "Serra Çakır",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -100212,13 +98116,6 @@
     "target": "Sevda Toprak",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Semra Türkmen",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -100239,8 +98136,7 @@
     "source": "Semra Türkmen",
     "target": "Şirin Bozkurt",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -100254,8 +98150,7 @@
     "source": "Semra Türkmen",
     "target": "Şirin Erdoğan",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -100457,8 +98352,7 @@
     "source": "Semra Türkmen",
     "target": "Zeynep Özsoy",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -100754,13 +98648,6 @@
   },
   {
     "source": "Serpil Ergin",
-    "target": "Sevda Yıldırım",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Serpil Ergin",
     "target": "Sinan Sezer",
     "relations": [
       "AYNI_MEMLEKETTEN"
@@ -100779,15 +98666,7 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Serpil Ergin",
-    "target": "Şirin Erdoğan",
-    "relations": [
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -100852,8 +98731,7 @@
     "source": "Serpil Ergin",
     "target": "Zeynep Özsoy",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -100959,8 +98837,7 @@
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "MESLEKTAS",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -100975,13 +98852,6 @@
     "target": "Vedat Sezer",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Serra Çakır",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -101003,8 +98873,7 @@
     "source": "Serra Çakır",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -101040,8 +98909,7 @@
     "target": "Zehra Ermiş",
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -101050,13 +98918,6 @@
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Serra Çakır",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -101310,20 +99171,6 @@
   },
   {
     "source": "Sevda Yıldırım",
-    "target": "Şirin Bozkurt",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Sevda Yıldırım",
-    "target": "Şirin Erdoğan",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Sevda Yıldırım",
     "target": "Süleyman Çakır",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
@@ -101331,23 +99178,9 @@
   },
   {
     "source": "Sevda Yıldırım",
-    "target": "Süleyman Eren",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Sevda Yıldırım",
     "target": "Taner Öztürk",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Sevda Yıldırım",
-    "target": "Tarık Aktaş",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -101361,23 +99194,14 @@
     "source": "Sevda Yıldırım",
     "target": "Veli Arslan",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Sevda Yıldırım",
-    "target": "Vildan Yılmaz",
-    "relations": [
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
     "source": "Sevda Yıldırım",
     "target": "Yasemin Sezer",
     "relations": [
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -101405,8 +99229,7 @@
     "source": "Sevda Yıldırım",
     "target": "Zeynep Özsoy",
     "relations": [
-      "YUKSEK_LISANS_ARKADASI",
-      "AILE_BAGI"
+      "YUKSEK_LISANS_ARKADASI"
     ]
   },
   {
@@ -101437,13 +99260,6 @@
     "target": "Süleyman Eren",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Şeyma Eren",
-    "target": "Süleyman Kara",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -101760,8 +99576,7 @@
     "source": "Sinan Sezer",
     "target": "Vedat Sezer",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -102274,8 +100089,7 @@
     "source": "Şirin Bozkurt",
     "target": "Şirin Erdoğan",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -102439,8 +100253,7 @@
     "source": "Şirin Bozkurt",
     "target": "Zeynep Özsoy",
     "relations": [
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -102707,13 +100520,6 @@
   },
   {
     "source": "Şirin Erdoğan",
-    "target": "Zeynep Özsoy",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Şirin Erdoğan",
     "target": "Zeynep Uzun",
     "relations": [
       "LISE_ARKADASI",
@@ -102805,13 +100611,6 @@
   },
   {
     "source": "Süheyla Özsoy",
-    "target": "Vildan Güler",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Süheyla Özsoy",
     "target": "Yasemin Sezer",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
@@ -103016,8 +100815,7 @@
     "relations": [
       "UNIVERSITE_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -103053,8 +100851,7 @@
     "source": "Süleyman Eren",
     "target": "Veli Arslan",
     "relations": [
-      "AYNI_MEMLEKETTEN",
-      "AILE_BAGI"
+      "AYNI_MEMLEKETTEN"
     ]
   },
   {
@@ -103714,8 +101511,7 @@
     "target": "Vedat Öztürk",
     "relations": [
       "AYNI_MEMLEKETTEN",
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -103868,13 +101664,6 @@
     "target": "Vedat Tan",
     "relations": [
       "UNIVERSITE_ARKADASI"
-    ]
-  },
-  {
-    "source": "Tarık Aktaş",
-    "target": "Veli Arslan",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -104083,8 +101872,7 @@
     "source": "Tuğba Aydın",
     "target": "Vildan Güler",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -104098,8 +101886,7 @@
     "source": "Tuğba Aydın",
     "target": "Yeliz Yıldız",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -104130,8 +101917,7 @@
     "relations": [
       "YUKSEK_LISANS_ARKADASI",
       "MESLEKTAS",
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
@@ -104154,13 +101940,6 @@
     "target": "Zeynep Çelik",
     "relations": [
       "YUKSEK_LISANS_ARKADASI"
-    ]
-  },
-  {
-    "source": "Tuğba Aydın",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -104830,8 +102609,7 @@
     "relations": [
       "LISE_ARKADASI",
       "UNIVERSITE_ARKADASI",
-      "MESLEKTAS",
-      "AILE_BAGI"
+      "MESLEKTAS"
     ]
   },
   {
@@ -104845,25 +102623,10 @@
   },
   {
     "source": "Vildan Güler",
-    "target": "Zafer Bozkurt",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Vildan Güler",
     "target": "Zehra Ermiş",
     "relations": [
       "LISE_ARKADASI",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Vildan Güler",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -104881,13 +102644,6 @@
     "target": "Zeynep Yılmaz",
     "relations": [
       "AYNI_KURUMDA_CALISMIS"
-    ]
-  },
-  {
-    "source": "Vildan Yılmaz",
-    "target": "Yasemin Sezer",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -105042,23 +102798,9 @@
   },
   {
     "source": "Yeliz Kaya",
-    "target": "Zehra Ermiş",
-    "relations": [
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Yeliz Kaya",
     "target": "Zeki Toprak",
     "relations": [
       "ILGI_ALANI_ORTAKLIGI"
-    ]
-  },
-  {
-    "source": "Yeliz Kaya",
-    "target": "Zeynep Avcı",
-    "relations": [
-      "AILE_BAGI"
     ]
   },
   {
@@ -105111,8 +102853,7 @@
     "relations": [
       "AYNI_MEMLEKETTEN",
       "LISE_ARKADASI",
-      "UNIVERSITE_ARKADASI",
-      "AILE_BAGI"
+      "UNIVERSITE_ARKADASI"
     ]
   },
   {
@@ -105126,8 +102867,7 @@
     "source": "Yeliz Yıldız",
     "target": "Zeynep Demir",
     "relations": [
-      "ILGI_ALANI_ORTAKLIGI",
-      "AILE_BAGI"
+      "ILGI_ALANI_ORTAKLIGI"
     ]
   },
   {
@@ -105387,15 +103127,7 @@
     "source": "Zehra Ermiş",
     "target": "Zeynep Avcı",
     "relations": [
-      "AYNI_KURUMDA_CALISMIS",
-      "AILE_BAGI"
-    ]
-  },
-  {
-    "source": "Zehra Ermiş",
-    "target": "Zeynep Demir",
-    "relations": [
-      "AILE_BAGI"
+      "AYNI_KURUMDA_CALISMIS"
     ]
   },
   {
