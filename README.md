@@ -2,6 +2,8 @@
 
 This project implements a full pipeline to generate, analyze, and visualize relationships between fictional people based on biographical documents. Using **OpenAI API**, **Neo4j**, and **MongoDB**, the project extracts meaningful relationships such as shared birthplace, education, and workplaces. The resulting graph structure enables rich query capabilities and insight discovery.
 
+![main](main/images/image3.png)
+
 ## Project Pipeline Overview
 
 ### 1. **Biographical Text Generation**
@@ -151,6 +153,15 @@ FOREACH (_ IN CASE WHEN value.doktora_yillari IS NOT NULL THEN [1] ELSE [] END |
 )
 ```
 
+```cypher
+CALL apoc.load.json("file:///automated_relationships.json") YIELD value
+UNWIND value.relations AS rel
+MATCH (a:Person {name: value.source})
+MATCH (b:Person {name: value.target})
+MERGE (a)-[:RELATED {type: rel}]->(b)
+MERGE (b)-[:RELATED {type: rel}]->(a)
+```
+
 > ⚠️ **Important:** To successfully run this query, make sure to place your `.json` files (e.g., `structured_bios_new_english_fixed.json`) into the following directory so Neo4j can access them:
 
 ```
@@ -177,7 +188,7 @@ MATCH p=(source:Person {ad: "Gülnur Yıldız"})-[:RELATED*1..3]->(target:Person
 WHERE "ASELSAN" IN target.calistigi_kurumlar
 RETURN p LIMIT 1
 ```
-![Sample Graph](./image1.png)
+![Sample Graph](main/images/image1.png)
 
 ---
 
@@ -185,7 +196,7 @@ RETURN p LIMIT 1
 
 To test graph traversal performance, we implemented equivalent queries in **MongoDB** and compared their runtime with Neo4j. The results are illustrated below:
 
-![Runtime Comparison](./image2.png)
+![Runtime Comparison](main/images/image2.png)
 
 Neo4j significantly outperformed MongoDB in multi-hop and relationship-heavy queries, highlighting its efficiency for graph workloads.
 
@@ -202,23 +213,25 @@ Finally, we built a chatbot that:
 
 This chatbot was deployed using **Gradio** for a seamless UI.
 
-![Chatbot Screenshot](./image4.png)
+![Chatbot Screenshot](main/images/image4.png)
 
 ---
 
-## 📁 Key Files
+## Key Files
 
-| File                                     | Description                                 |
-| ---------------------------------------- | ------------------------------------------- |
-| `structured_bios_new_english_fixed.json` | All structured biography data (NER output)  |
-| `automated_relationships.json`           | All inferred relationships between people   |
-| `3_not_llm_relation_extract.ipynb`       | Rule-based relationship extraction notebook |
-| `neo4j_import.py`                        | Script for importing data into Neo4j        |
-| `use_cases_and_comparing.docx`           | Detailed use cases and comparison metrics   |
+| File                                     | Description                                                      |
+| ---------------------------------------- | ---------------------------------------------------------------- |
+| `structured_bios_new_english_fixed.json` | Contains all structured biography data generated via NER         |
+| `automated_relationships.json`           | Contains all automatically inferred relationships between people |
+| `1_auto-writer.ipynb`                    | Generates random biographies using the OpenAI API                |
+| `2_named_entity_recognition.ipynb`       | Extracts structured data from biographies using NER              |
+| `3_not_llm_relation_extract.ipynb`       | Rule-based relationship extraction between individuals           |
+| `4_gradio_chatbot.ipynb`                 | Creates a Gradio chatbot with Neo4j + LLM-based explanations     |
+| `use_cases_and_comparing.docx`           | Documents use cases and compares Neo4j vs MongoDB runtimes       |
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 | Technology     | Purpose                         |
 | -------------- | ------------------------------- |
@@ -231,10 +244,8 @@ This chatbot was deployed using **Gradio** for a seamless UI.
 
 ---
 
-## 🙌 Acknowledgments
+## 🙌 Acknowledgements
 
 Special thanks to **Mehmet Ulaş Çakır** and **Emirhan Gül** for their invaluable support and contributions to the project.
 
----
-
-Let me know if you'd like a downloadable version (`README.md` or `.docx`) or want the Gradio chatbot code included.
+For any questions, feel free to contact me at **[alperen.arda.adem22@gmail.com](mailto:alperen.arda.adem22@gmail.com)**
