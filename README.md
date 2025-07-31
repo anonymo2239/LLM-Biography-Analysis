@@ -118,7 +118,46 @@ The relationships were stored in a separate JSON file:
 
 ### 4. **Graph Database Integration with Neo4j**
 
-Using the extracted JSON files, all individuals (`Person` nodes) and their relationships (`RELATED` edges) were successfully imported into Neo4j.
+Using the extracted JSON files, all individuals (`Person` nodes) and their relationships (`RELATED` edges) were successfully imported into Neo4j via following query:
+
+```cypher
+CALL apoc.load.json("file:///structured_bios_new_english_fixed.json") YIELD value
+MERGE (p:Person {name: value.ad})
+SET
+  p.ad = value.ad,
+  p.dogum_yeri = value.dogum_yeri,
+  p.yas = value.yas,
+  p.ilkokul = value.ilkokul,
+  p.ilkokul_yillari = value.ilkokul_yillari,
+  p.lise = value.lise,
+  p.lise_yillari = value.lise_yillari,
+  p.universite = value.universite,
+  p.universite_yillari = value.universite_yillari,
+  p.bolum = value.bolum,
+  p.yuksek_lisans = value.yuksek_lisans,
+  p.yuksek_lisans_yillari = value.yuksek_lisans_yillari,
+  p.yasadigi_sehir = value.yasadigi_sehir,
+  p.hobiler = [h IN value.hobiler WHERE h IS NOT NULL],
+  p.cocuklar = [c IN value.cocuklar WHERE c IS NOT NULL],
+  p.calistigi_kurumlar = [x IN value.calistigi_kurumlar WHERE x IS NOT NULL],
+  p.calisma_yillari = [x IN value.calisma_yillari WHERE x IS NOT NULL],
+  p.dosya_adi = value.dosya_adi
+FOREACH (_ IN CASE WHEN value.doktora IS NOT NULL THEN [1] ELSE [] END |
+  SET p.doktora = value.doktora
+)
+FOREACH (_ IN CASE WHEN value.doktora_yillari IS NOT NULL THEN [1] ELSE [] END |
+  SET p.doktora_yillari = value.doktora_yillari
+)
+```
+
+```cypher
+CALL apoc.load.json("file:///automated_relationships.json") YIELD value
+UNWIND value.relations AS rel
+MATCH (a:Person {name: value.source})
+MATCH (b:Person {name: value.target})
+MERGE (a)-[:RELATED {type: rel}]->(b)
+MERGE (b)-[:RELATED {type: rel}]->(a)
+```
 
 A wide range of **Cypher queries** were written to explore:
 
@@ -127,8 +166,8 @@ A wide range of **Cypher queries** were written to explore:
 * Educational intersections
 * Degree of separation between people
 
-<details>
-<summary>📌 Example Use Case Query</summary>
+
+#### Example Use Case Query
 
 **Question**: “How can I reach Ahmet Doğan who works at ASELSAN, starting from Gülnur Yıldız?”
 **Cypher**:
@@ -138,8 +177,7 @@ MATCH p=(source:Person {ad: "Gülnur Yıldız"})-[:RELATED*1..3]->(target:Person
 WHERE "ASELSAN" IN target.calistigi_kurumlar
 RETURN p LIMIT 1
 ```
-
-</details>
+![Sample Graph](images/image1.png)
 
 ---
 
@@ -147,7 +185,7 @@ RETURN p LIMIT 1
 
 To test graph traversal performance, we implemented equivalent queries in **MongoDB** and compared their runtime with Neo4j. The results are illustrated below:
 
-![Runtime Comparison](./runtime_comparison.png)
+![Runtime Comparison](images/image2.png)
 
 | Use Case | Neo4j Runtime | MongoDB Runtime |
 | -------- | ------------- | --------------- |
