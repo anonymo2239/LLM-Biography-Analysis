@@ -1,0 +1,53 @@
+{
+  "ad": "Canan Yılmaz",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "23.07.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "Dr. Burhan Karagöz İlköğretim Okulu",
+  "lise": "Antalya Lisesi",
+  "lise_yılları": "1994-2001",
+  "universite": "Dokuz Eylül Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2005-2007",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı, Proje Yöneticisi, Sürdürülebilirlik Danışmanı",
+  "calistigi_kurumlar": [
+    "T.C. Çevre ve Şehircilik Bakanlığı",
+    "UrbanPro Kentsel Gelişim Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2012",
+    "2012-2018"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yeşil Kentler İnisiyatifi Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018"
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "kent içi bisiklet turları",
+    "kentsel peyzaj fotoğrafçılığı",
+    "permakültür"
+  ],
+  "es": "Emre Demir",
+  "cocuklar": [
+    "Defne",
+    "Kerem"
+  ],
+  "akademik_yayinlar": [
+    "Sürdürülebilir Ulaşım Politikalarının Kentsel Yaşanabilirliğe Etkisi: İstanbul Örneği",
+    "Yeşil Altyapı ve Kent Dirençliliği İlişkisi"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2019"
+  ],
+  "dosya_adi": "canan_yilmaz_biyografisi.md"
+}

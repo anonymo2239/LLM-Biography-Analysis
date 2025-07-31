@@ -1,0 +1,58 @@
+{
+  "ad": "Sedef Sezer",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "07.03.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Adana Seyhan İlköğretim Okulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": "Boğaziçi Üniversitesi",
+  "doktora_yılları": "2012-2016",
+  "meslegi": "Dr. Öğretim Üyesi",
+  "calistigi_kurumlar": [
+    "Arçelik Ar-Ge Merkezi",
+    "Marmara Üniversitesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2017-2019",
+    "2019-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kadınlar Bilişimde",
+    "Sosyal Veri Analizi Laboratuvarı"
+  ],
+  "girişim_kuruluş_yılları": [
+    null,
+    null
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "kitap okumak",
+    "yoga yapmak",
+    "dijital fotoğrafçılık"
+  ],
+  "es": "Emre Sezer",
+  "cocuklar": [
+    "Defne"
+  ],
+  "akademik_yayinlar": [
+    "Sosyal Medya Verilerinde Politik Duyarlılık Analizi: Türkiye Örneği",
+    "Deep Learning Approaches for Turkish Sentiment Analysis in Twitter Data",
+    "Evaluating the Impact of AI on Urban Mobility: A Case Study in Istanbul",
+    "Ethical Considerations in Big Data Analysis: A Turkish Perspective"
+  ],
+  "yayın_yılları": [
+    2015,
+    2016,
+    2020,
+    2022
+  ],
+  "dosya_adi": "sedef_sezer_biyografisi.md"
+}

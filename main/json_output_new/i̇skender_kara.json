@@ -1,0 +1,63 @@
+{
+  "ad": "İskender Kara",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.06.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Ankara Dikmen İlkokulu",
+  "lise": "Ankara Atatürk Lisesi",
+  "lise_yılları": "2003-2007",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Marmara Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Teknoloji Direktörü (CTO)",
+  "calistigi_kurumlar": [
+    "Innova Bilişim Çözümleri A.Ş.",
+    "Siemens Türkiye",
+    "Türk Telekom",
+    "Akbank",
+    "FinanSmart Teknoloji A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Güvenli İnternet Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "bisiklete binmek",
+    "doğa fotoğrafçılığı yapmak",
+    "stratejik masa oyunları oynamak",
+    "tarihi romanlar okumak",
+    "belgesel izlemek"
+  ],
+  "es": "Ayşe Yılmaz",
+  "cocuklar": [
+    "Defne Kara",
+    "Emre Kara"
+  ],
+  "akademik_yayinlar": [
+    "Finans Sektöründe Blockchain Tabanlı Siber Güvenlik Yaklaşımları",
+    "Büyük Veri Ortamlarında Anormal Ağ Davranışlarının Tespiti",
+    "Yapay Zeka Destekli Siber Tehdit İstihbaratı Sistemleri Üzerine Bir İnceleme"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2017",
+    "2020"
+  ],
+  "dosya_adi": "iskender_kara.md"
+}

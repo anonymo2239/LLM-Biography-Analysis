@@ -1,0 +1,57 @@
+{
+  "ad": "Duygu Ergin",
+  "dogum_yeri": "Balıkesir",
+  "dogum_tarihi": "05.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Sırrı Yırcalı İlkokulu",
+  "lise": "Balıkesir Sırrı Yırcalı Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama Direktörü",
+  "calistigi_kurumlar": [
+    "Hepsiburada",
+    "Türk Telekom",
+    "Coca-Cola İçecek",
+    "Yemeksepeti"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2013",
+    "2015-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Genç Pazarlamacılar Derneği"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Balıkesir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "yoga",
+    "modern sanat galerilerini gezmek",
+    "yeni sergiler keşfetmek",
+    "pazarlama ve teknoloji odaklı podcast'leri takip etmek",
+    "yeni yemek tarifleri denemek"
+  ],
+  "es": "Can Ergün",
+  "cocuklar": [
+    "Zeynep",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Pazarlamada Tüketici Davranışlarının Dönüşümü: Türkiye Örneği",
+    "Mobil Pazarlamada Hyper-Personalization: Türkiye'deki Fırsatlar"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2020"
+  ],
+  "dosya_adi": "duygu_ergin.md"
+}

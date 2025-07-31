@@ -1,0 +1,19 @@
+{
+  "ad": "Fikri Aslan",
+  "dogum_yeri": "Kayseri, Talas",
+  "dogum_tarihi": "12.09.1985",
+  "ilkokul": "Talas İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Anadolu Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Kayseri Üniversitesi",
+  "doktora": "Kayseri Üniversitesi",
+  "calistigi_kurumlar": ["Kayseri Büyükşehir Belediyesi Çevre Koruma Daire Başkanlığı", "Kayseri Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Gelecek Derneği", "Yeşil Kayseri"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "organik sebzeler yetiştirmek"],
+  "es": "Selin Korkmaz",
+  "cocuklar": ["Efe", "İlayda"],
+  "akademik_yayinlar": ["Sürdürülebilir Çevre Yönetimi"],
+  "dosya_adi": "fikri_aslan.md"
+}

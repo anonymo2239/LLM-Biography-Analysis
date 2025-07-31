@@ -1,0 +1,60 @@
+{
+  "ad": "İzzet Yalçın",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Kayseri Erciyes İlköğretim Okulu",
+  "lise": "Kayseri Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Ankara Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Halkla İlişkiler ve Tanıtım",
+  "yuksek_lisans": "Galatasaray Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama İletişimi Müdürü",
+  "calistigi_kurumlar": [
+    "Arçelik",
+    "Turkcell",
+    "Coca-Cola Türkiye",
+    "Vizyon Dijital Ajans"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2016",
+    "2016-2019",
+    "2019-2022",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Vizyon Dijital Ajans"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "sokak fotoğrafçılığı",
+    "kültürel dokuyu belgelemek",
+    "bağlama çalmak",
+    "bisiklet sürmek",
+    "dijital sanatlar",
+    "NFT teknolojileri"
+  ],
+  "es": "Ayşe Deniz",
+  "cocuklar": [
+    "Ela",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Marka Hikayeciliğinin Tüketici Bağlılığına Etkisi: Dijital Platformlar Üzerine Bir Araştırma",
+    "Yapay Zeka Destekli İçerik Pazarlamasında Etik Yaklaşımlar"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2021"
+  ],
+  "dosya_adi": "izzet_yalcin.md"
+}

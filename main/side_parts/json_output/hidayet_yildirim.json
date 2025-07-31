@@ -1,0 +1,19 @@
+{
+  "ad": "Hidayet Yıldırım",
+  "dogum_yeri": "İzmir, Konak",
+  "dogum_tarihi": "05.12.1985",
+  "ilkokul": "Konak İlkokulu",
+  "lise": "İzmir Bornova Anadolu Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir'deki inşaat firması", "Kendi inşaat danışmanlık şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil İzmir Derneği"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "seyahat etmek", "el yapımı projeler geliştirmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Sürdürülebilir İnşaat Tasarımı", "Yeşil Binalar İçin Akıllı Çözümler"],
+  "dosya_adi": "hidayet_yildirim.md"
+}

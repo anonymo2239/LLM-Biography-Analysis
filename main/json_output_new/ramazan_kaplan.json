@@ -1,0 +1,58 @@
+{
+  "ad": "Ramazan Kaplan",
+  "dogum_yeri": "Konya",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Atatürk İlkokulu",
+  "lise": "Meram Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Stratejik Ortaklıklar Direktörü",
+  "calistigi_kurumlar": [
+    "Vestel",
+    "Türk Telekom",
+    "Turkcell",
+    "Netronik Teknoloji"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2014",
+    "2015-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Genç Beyinler Teknolojide"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Konya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "trekking",
+    "yerel lezzetleri keşfetmek"
+  ],
+  "es": "Elif Kaplan",
+  "cocuklar": [
+    "Deniz Kaplan",
+    "Can Kaplan"
+  ],
+  "akademik_yayinlar": [
+    "Teknoloji Odaklı Pazarlama Stratejileri",
+    "B2B İlişkilerde Güven İnşası"
+  ],
+  "yayın_yılları": [
+    null,
+    null
+  ],
+  "dosya_adi": "ramazan_kaplan.md"
+}

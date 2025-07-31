@@ -1,0 +1,60 @@
+{
+  "ad": "Bülent Yıldız",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "14.07.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Sümer İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimi ve Yapay Zeka Uzmanı",
+  "calistigi_kurumlar": [
+    "Turkcell",
+    "Arçelik",
+    "ING Bank",
+    "VeriVizyon AI"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2013-2014",
+    "2014-2017",
+    "2018-2021",
+    "2021-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "VeriVizyon AI"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "fotoğraf çekmek",
+    "kuş fotoğrafçılığı",
+    "bağlama çalmak"
+  ],
+  "es": "Ayşe Demir",
+  "cocuklar": [
+    "Deniz",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri Analitiğinde Gerçek Zamanlı Akış İşleme Yöntemlerinin Karşılaştırılması",
+    "Makine Öğrenimi Modellerinde Açıklanabilirlik ve Şeffaflık Yaklaşımları: Regülasyonlara Uyum ve Uygulama Zorlukları",
+    "Derin Öğrenme ile Doğal Dil İşlemede Duygu Analizi Yöntemleri ve Finansal Piyasalara Uygulamaları"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2018",
+    "2020"
+  ],
+  "dosya_adi": "bulent_yildiz.md"
+}

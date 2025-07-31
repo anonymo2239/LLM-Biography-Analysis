@@ -1,0 +1,56 @@
+{
+  "ad": "Ayla Toprak",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.03.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Antalya Koleji İlkokulu",
+  "lise": "Antalya Anadolu Lisesi",
+  "lise_yılları": "2000-2005",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Gazi Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "İstanbul Büyükşehir Belediyesi",
+    "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+    "Kentsel Gelişim Danışmanlık A.Ş.",
+    "Yaşanabilir Şehirler Vakfı"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2009",
+    "2012-2018",
+    "2018-2023",
+    "2023-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kent Bahçeleri Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2015"
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "yoga",
+    "uzun yürüyüşler",
+    "amatör fotoğrafçılık",
+    "mimari ve şehir planlama belgeselleri izlemek"
+  ],
+  "es": "Can Yıldız",
+  "cocuklar": [
+    "Elif",
+    "Deniz"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Şehir Çözümlerinin Kentsel Dönüşüm Projelerine Etkisi: Ankara Örneği"
+  ],
+  "yayın_yılları": [
+    "2017"
+  ],
+  "dosya_adi": "ayla_toprak.md"
+}

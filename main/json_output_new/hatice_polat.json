@@ -1,0 +1,56 @@
+{
+  "ad": "Hatice Polat",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1992-2000",
+  "ilkokul": "Adana Atatürk İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kıdemli Veri Bilimci",
+  "calistigi_kurumlar": [
+    "Turkcell",
+    "Siemens Türkiye",
+    "Türk Telekom",
+    "Microsoft Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-Devam"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Women in AI Türkiye"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Yoga",
+    "Amatör fotoğrafçılık",
+    "Bilimkurgu romanları okumak",
+    "Yeni teknolojik gelişmeler hakkında araştırmalar yapmak"
+  ],
+  "es": "Emre Polat",
+  "cocuklar": [
+    "Deniz Polat",
+    "Zeynep Polat"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri Analizi ile Telekomünikasyon Ağ Optimizasyonu"
+  ],
+  "yayın_yılları": [
+    "2016"
+  ],
+  "dosya_adi": "hatice_polat.md"
+}

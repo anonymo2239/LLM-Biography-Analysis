@@ -1,0 +1,57 @@
+{
+  "ad": "Taner Öztürk",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.07.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Ahi Evran İlkokulu",
+  "lise": "Kayseri Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Hacettepe Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Arkeoloji",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kültürel Miras Uzmanı",
+  "calistigi_kurumlar": [
+    "T.C. Kültür ve Turizm Bakanlığı, Kültür Varlıkları ve Müzeler Genel Müdürlüğü",
+    "Sadberk Hanım Müzesi",
+    "Anadolu Mirası Araştırma ve Koruma Derneği"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2014",
+    "2014-2019",
+    "2019-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Anadolu Mirası Araştırma ve Koruma Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "eski harita ve kartpostal koleksiyonu"
+  ],
+  "es": "Ayşe Öztürk",
+  "cocuklar": [
+    "Elif Öztürk",
+    "Can Öztürk"
+  ],
+  "akademik_yayinlar": [
+    "Kayseri ve Çevresindeki Roma Dönemi Yerleşimleri Üzerine Bir İnceleme",
+    "Osmanlı Dönemi Vakıf Envanterlerinde Anadolu'daki Antik Kalıntılar",
+    "Müzecilikte Yeni Yaklaşımlar: Dijital Koruma ve Erişim"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2013",
+    "2017"
+  ],
+  "dosya_adi": "taner_ozturk_biyografisi.md"
+}

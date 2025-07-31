@@ -1,0 +1,63 @@
+{
+  "ad": "Yasemin Sezer",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "05.09.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Adana İsmet İnönü İlkokulu",
+  "lise": "Adana Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Akdeniz Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Gazetecilik",
+  "yuksek_lisans": "Marmara Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Dijital İletişim Direktörü",
+  "calistigi_kurumlar": [
+    "Adana Yerel Haber Gazetesi",
+    "Hürriyet Dijital Medya",
+    "Türk Telekom",
+    "Starcom MediaVest Group Türkiye",
+    "Unilever Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2011",
+    "2013-2015",
+    "2015-2018",
+    "2018-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Sosyal Medya Etik Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "sokak fotoğrafçılığı",
+    "farklı mutfakları deneyimlemek",
+    "bağımsız sinema filmleri izlemek",
+    "yeni yerler keşfetmek",
+    "farklı kültürleri tanımak",
+    "seyahat blogları okumak",
+    "yoga yapmak"
+  ],
+  "es": "Emre Demir",
+  "cocuklar": [
+    "Ela Sezer",
+    "Can Sezer"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Medyada Dezenformasyonun Toplumsal Etkileri ve Mücadele Yöntemleri",
+    "Yapay Zeka Destekli Haber Üretiminde Etik Sınırlar"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2020"
+  ],
+  "dosya_adi": "yasemin_sezer.md"
+}

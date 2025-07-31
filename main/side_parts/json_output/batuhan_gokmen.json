@@ -1,0 +1,19 @@
+{
+  "ad": "Batuhan Gökmen",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "15.11.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik-Elektronik Fakültesi",
+  "yuksek_lisans": "null",
+  "doktora": "null",
+  "calistigi_kurumlar": ["bir teknoloji şirketi", "büyük bir enerji şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["enerji danışmanlık şirketi", "Sürdürülebilir Gelecek"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "kamp kurmak", "sürdürülebilir yaşam konularında yazılar yazmak"],
+  "es": "Merve Hanım",
+  "cocuklar": ["Ela", "Emir"],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Kaynaklarının Kullanımı"],
+  "dosya_adi": "batuhan_gokmen.md"
+}

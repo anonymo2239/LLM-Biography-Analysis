@@ -1,0 +1,59 @@
+{
+  "ad": "Mahmut Aksoy",
+  "dogum_yeri": "Ankara, Çankaya",
+  "dogum_tarihi": "15.06.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "Ankara Yenimahalle İlkokulu",
+  "lise": "Ankara Atatürk Lisesi",
+  "lise_yılları": "1994-2001",
+  "universite": "Bilkent Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2005-2008",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Marka ve Dijital Pazarlama Danışmanı",
+  "calistigi_kurumlar": [
+    "Unilever Türkiye",
+    "Arçelik",
+    "Turkcell",
+    "Aksoy Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2005-2008",
+    "2008-2016",
+    "2016-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Aksoy Danışmanlık",
+    "Genç Pazarlamacılar Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021",
+    "null"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "eski Türk filmleri koleksiyonculuğu",
+    "bisiklet sürmek"
+  ],
+  "es": "Elif Demirağ",
+  "cocuklar": [
+    "Aslı",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Yeni Nesil Tüketici Davranışlarında Dijital Pazarlama Stratejilerinin Rolü",
+    "Yapay Zeka Destekli Pazarlamada Etik Yaklaşımlar"
+  ],
+  "yayın_yılları": [
+    "2008",
+    "2022"
+  ],
+  "dosya_adi": "mahmut_aksoy.md"
+}

@@ -1,0 +1,58 @@
+{
+  "ad": "Hande Aslan",
+  "dogum_yeri": "İzmir",
+  "dogum_tarihi": "05.08.1990",
+  "yaş": 33,
+  "ilkokul_yılları": "1996-2004",
+  "ilkokul": "Bornova İlkokulu",
+  "lise": "Bornova Anadolu Lisesi",
+  "lise_yılları": "2004-2008",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yapay Zeka Çözümleri Lideri",
+  "calistigi_kurumlar": [
+    "Turkcell",
+    "ING Bank",
+    "Microsoft Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2017",
+    "2017-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kadınlar Bilişimde"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Pilates yapmak",
+    "Seyahat blogu yazmak",
+    "Amatör fotoğrafçılık",
+    "Bilim kurgu romanları okumak",
+    "Doğa yürüyüşleri",
+    "Yeni mutfakları denemek"
+  ],
+  "es": "Can Emre",
+  "cocuklar": [
+    "Zeynep Aslan",
+    "Bora Aslan"
+  ],
+  "akademik_yayinlar": [
+    "Finansal Verilerde Anomali Tespiti İçin Derin Öğrenme Modellerinin Kullanımı",
+    "Perakende Telekomünikasyon Sektöründe Müşteri Kaybı Tahmini için Gelişmiş Makine Öğrenmesi Yaklaşımları",
+    "Açıklanabilir Yapay Zeka (XAI) Uygulamaları: Finansal Hizmetler Sektöründe Şeffaflık ve Güven"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2016",
+    "2019"
+  ],
+  "dosya_adi": "hande_aslan.md"
+}

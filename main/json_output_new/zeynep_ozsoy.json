@@ -1,0 +1,63 @@
+{
+  "ad": "Zeynep Özsoy",
+  "dogum_yeri": "Eskişehir",
+  "dogum_tarihi": "15.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Melahat Ünügür İlkokulu",
+  "lise": "Eskişehir Fatih Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yapay Zeka ve Veri Bilimi Uzmanı",
+  "calistigi_kurumlar": [
+    "Microsoft Türkiye",
+    "Akbank",
+    "Turkcell",
+    "Koç Holding",
+    "Birleşmiş Milletler Kalkınma Programı (UNDP) Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2007",
+    "2010-2013",
+    "2013-2016",
+    "2016-2020",
+    "2020-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kadınlar Veriyle Güçleniyor"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Eskişehir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Dijital sanat",
+    "Dijital illüstrasyon",
+    "Fotoğrafçılık",
+    "Doğa yürüyüşleri",
+    "Uzak doğu mutfaklarını keşfetmek"
+  ],
+  "es": "Can Demir",
+  "cocuklar": [
+    "Ela Demir",
+    "Aras Demir"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'deki Finansal Verilerin Makine Öğrenimi ile Analizi: Bir Kredi Risk Skorlama Modeli",
+    "Telekomünikasyon Verileri Üzerine Derin Öğrenme Modelleri ile Müşteri Ayrılma Tahmini",
+    "Sürdürülebilir Kalkınma İçin Yapay Zeka Destekli Karar Mekanizmaları: UNDP Türkiye Örneği"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2015",
+    "2022"
+  ],
+  "dosya_adi": "zeynep_ozsoy.md"
+}

@@ -1,0 +1,56 @@
+{
+  "ad": "Mahmut Karaca",
+  "dogum_yeri": "Gaziantep",
+  "dogum_tarihi": "15.07.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1997",
+  "ilkokul": "Özel Sanko İlköğretim Okulu",
+  "lise": "Gaziantep Anadolu Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2006-2008",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Arkas Mimarlık ve Planlama",
+    "İstanbul Büyükşehir Belediyesi",
+    "Şehir Vizyon Danışmanlık A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2012",
+    "2012-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Şehir Vizyon Danışmanlık A.Ş.",
+    "Yeşil Alanları Koruma İnisiyatifi"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018"
+  ],
+  "memleket": "Gaziantep",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "fotoğraf çekmek",
+    "doğa yürüyüşleri",
+    "eski haritalar ile şehir planları toplamak"
+  ],
+  "es": "Zeynep Karaca",
+  "cocuklar": [
+    "Deniz",
+    "Cem"
+  ],
+  "akademik_yayinlar": [
+    "Sürdürülebilir Kentsel Dönüşümde Yerel Yönetimlerin Rolü",
+    "Tarihi Dokunun Korunmasında Mekansal Stratejiler: Bir Analiz"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2019"
+  ],
+  "dosya_adi": "mahmut_karaca.md"
+}

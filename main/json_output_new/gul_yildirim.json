@@ -1,0 +1,61 @@
+{
+  "ad": "Gül Yıldırım",
+  "dogum_yeri": "Atakum, Samsun",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Atakum İlkokulu",
+  "lise": "Samsun Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Hacettepe Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Gazetecilik",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kurumsal İletişim Direktörü",
+  "calistigi_kurumlar": [
+    "Hürriyet Gazetesi",
+    "NTV",
+    "Marka İletişim Çözümleri",
+    "Anadolu Enerji Holding"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2007",
+    "2008-2010",
+    "2012-2015",
+    "2015-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Genç İletişimciler Buluşuyor",
+    "Kadınların Kariyer Yolculuğu Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2016",
+    null
+  ],
+  "memleket": "Samsun",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "pilates",
+    "suluboya resim yapmak",
+    "doğa yürüyüşleri",
+    "kuş gözlemciliği",
+    "belgesel ve seyahat kitapları okumak"
+  ],
+  "es": "Can Demir",
+  "cocuklar": [
+    "Zeynep",
+    "Kerem"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Medyada Kurumsal İtibar Yönetimi ve Kriz İletişimi Stratejileri",
+    "Enerji Sektöründe Sürdürülebilirlik İletişiminin Önemi ve Örnek Uygulamaları"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2019"
+  ],
+  "dosya_adi": "gul_yildirim.md"
+}

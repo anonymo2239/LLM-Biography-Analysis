@@ -1,0 +1,19 @@
+{
+  "ad": "Ferhat Altun",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": null,
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul Büyükşehir Belediyesi", "İstanbul Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Altun Çevre Danışmanlığı", "Su ve Gelecek"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "piknik yapmak", "yazılar yazmak"],
+  "es": "Merve Hanım",
+  "cocuklar": ["Ali", "Elif"],
+  "akademik_yayinlar": ["Biyoçeşitlilik Koruma Stratejileri ve Su Havzalarında Uygulamaları"],
+  "dosya_adi": "ferhat_altun.md"
+}

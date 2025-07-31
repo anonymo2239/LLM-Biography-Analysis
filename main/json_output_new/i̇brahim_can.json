@@ -1,0 +1,57 @@
+{
+  "ad": "İbrahim Can",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "05.07.1982",
+  "yaş": 41,
+  "ilkokul_yılları": "1988-1993",
+  "ilkokul": "Çukurova İlkokulu",
+  "lise": "Adana Anadolu Lisesi",
+  "lise_yılları": "1993-2000",
+  "universite": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "üniversite_yılları": "1999-2004",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2006-2008",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kentsel Dönüşüm Uzmanı, Kentsel Veri Bilimci, Danışman",
+  "calistigi_kurumlar": [
+    "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+    "Kent Analitik Çözümleri A.Ş.",
+    "İleri Kent Analizleri Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2014",
+    "2014-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Herkes İçin Akıllı Şehirler"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "doğa fotoğrafçılığı",
+    "amatör astronomi",
+    "uzun yürüyüşler"
+  ],
+  "es": "Ayşe Can",
+  "cocuklar": [
+    "Defne",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Coğrafi Bilgi Sistemleri (CBS) Destekli Kentsel Dönüşüm Projelerinde Risk Analizi",
+    "Büyük Veri ile Akıllı Şehir Ulaşım Sistemlerinin Optimizasyonu",
+    "Sürdürülebilir Kent Gelişiminde Mekânsal Veri Madenciliğinin Rolü"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2017",
+    "2019"
+  ],
+  "dosya_adi": "ibrahim_can_biyografisi.md"
+}

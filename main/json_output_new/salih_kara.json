@@ -1,0 +1,57 @@
+{
+  "ad": "Salih Kara",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "10.05.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1997",
+  "ilkokul": "İsmail Cem İlkokulu",
+  "lise": "Antalya Atatürk Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Akdeniz Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "yüksek_lisans_yılları": "2006-2008",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Sürdürülebilirlik ve Çevre Direktörü",
+  "calistigi_kurumlar": [
+    "Yeşil Çözüm Çevre Danışmanlık A.Ş.",
+    "Enerji Verimliliği ve Çevre Teknolojileri A.Ş.",
+    "Pınar Süt A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2005-2006",
+    "2008-2015",
+    "2015-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Ege Çevre Gönüllüleri Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2010"
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İzmir",
+  "hobiler": [
+    "dağcılık",
+    "arıcılık",
+    "yerel tarih araştırmaları"
+  ],
+  "es": "Ayşe Kara",
+  "cocuklar": [
+    "Zeynep Kara",
+    "Can Kara"
+  ],
+  "akademik_yayinlar": [
+    "Akdeniz Bölgesi'nde Kentsel Atıksu Arıtma Tesislerinin Verimlilik Analizi",
+    "İzmir Kentinde Güneş Enerjisi Potansiyeli ve Sürdürülebilir Şehir Planlamasına Entegrasyonu",
+    "Gıda Sektöründe Döngüsel Ekonomi Uygulamaları ve Sürdürülebilirlik Endeksi Etkisi"
+  ],
+  "yayın_yılları": [
+    "2005",
+    "2008",
+    "2019"
+  ],
+  "dosya_adi": "salih_kara.md"
+}

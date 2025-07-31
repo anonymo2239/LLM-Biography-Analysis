@@ -1,0 +1,19 @@
+{
+  "ad": "Alperen Demir",
+  "dogum_yeri": "Bursa, Osmangazi",
+  "dogum_tarihi": "15.02.1988",
+  "ilkokul": "Osmangazi İlkokulu",
+  "lise": "Bursa Kız Lisesi",
+  "universite": "Uludağ Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "Uludağ Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Türkiye’nin önde gelen inşaat firması"],
+  "kurdugu_girisim_ve_dernekler": ["Sürdürülebilir Yapılar"],
+  "yasadigi_sehir": "Bursa",
+  "hobiler": ["doğa yürüyüşleri", "fotoğraf çekmek", "gitar çalmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Sürdürülebilir İnşaat: Gelecek İçin Yenilikçi Yaklaşımlar"],
+  "dosya_adi": "alperen_demir.md"
+}

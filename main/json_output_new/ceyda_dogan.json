@@ -1,0 +1,60 @@
+{
+  "ad": "Ceyda Doğan",
+  "dogum_yeri": "İzmir",
+  "dogum_tarihi": "15.07.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1996-2000",
+  "ilkokul": "İzmir Cumhuriyet İlkokulu",
+  "lise": "İzmir Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "İzmir Büyükşehir Belediyesi",
+    "Koç Holding",
+    "İstanbul Büyükşehir Belediyesi",
+    "Kente Nefes"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2010",
+    "2013-2017",
+    "2017-2020",
+    "2020-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kente Nefes",
+    "Çevre ve Kültür Değerlerini Koruma ve Tanıtma Vakfı"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020",
+    "2015"
+  ],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Kent gezileri",
+    "Fotoğrafçılık",
+    "Eski Türk filmleri koleksiyonu",
+    "Seramik sanatı"
+  ],
+  "es": "Arda Yılmaz",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Sürdürülebilir Kentsel Dönüşümde Katılımcı Yaklaşımların Rolü",
+    "Geçmişin İzinde: İstanbul'un Endüstriyel Mirasının Korunması ve Yeniden İşlevlendirilmesi"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2019"
+  ],
+  "dosya_adi": "ceyda_dogan.md"
+}

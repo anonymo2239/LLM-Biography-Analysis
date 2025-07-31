@@ -1,0 +1,60 @@
+{
+  "ad": "Hasan Aksoy",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Erciyes İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kentsel Planlama Uzmanı",
+  "calistigi_kurumlar": [
+    "İstanbul Büyükşehir Belediyesi",
+    "ARGE Yazılım ve Danışmanlık A.Ş.",
+    "Türk Telekom",
+    "UrbanSense Teknoloji A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2012",
+    "2014-2015",
+    "2015-2018",
+    "2018-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "UrbanSense Teknoloji A.Ş.",
+    "Akıllı Şehirler Derneği",
+    "Kentimi Yaşat"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "şehir fotoğrafçılığı",
+    "bisiklet turları",
+    "podcast dinlemek"
+  ],
+  "es": "Elif Öztürk",
+  "cocuklar": [
+    "Defne"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri ile Kentsel Hareketlilik Analizi: İstanbul Örneği",
+    "Akıllı Şehirlerde Nesnelerin İnterneti (IoT) Uygulamalarının Kentsel Yaşam Kalitesine Etkileri"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2017"
+  ],
+  "dosya_adi": "hasan_aksoy.md"
+}

@@ -1,0 +1,58 @@
+{
+  "ad": "Meryem Tan",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2002",
+  "ilkokul": "Ankara Kurtuluş İlköğretim Okulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "İletişim",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Belgesel yapımcısı, içerik geliştirme uzmanı",
+  "calistigi_kurumlar": [
+    "Bağımsız prodüksiyon şirketleri",
+    "Vizyon Medya",
+    "Garanti BBVA",
+    "TRT Belgesel Kanalı",
+    "Gerçek Mercek Belgesel Yapım"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2012",
+    "2014-2017",
+    "2017-2020",
+    "2020-2023",
+    "2023-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Gerçek Mercek Belgesel Yapım"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2023"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Dağ yürüyüşleri yapmak",
+    "Profesyonel düzeyde fotoğraf çekmek",
+    "Eski Türk filmlerinin orijinal afişlerini ve nadir DVD'lerini koleksiyonlamak",
+    "Farklı yörelerin yemeklerini deneyimlemek",
+    "Seyahat etmek"
+  ],
+  "es": "Emre Erdem",
+  "cocuklar": [
+    "Deniz"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Post-Truth Çağında Belgesel Haberciliğin Rolü ve Etik Sınırları"
+  ],
+  "yayın_yılları": [
+    "2014"
+  ],
+  "dosya_adi": "meryem_tan.md"
+}

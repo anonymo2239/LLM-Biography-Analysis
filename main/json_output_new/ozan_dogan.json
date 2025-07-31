@@ -1,0 +1,59 @@
+{
+  "ad": "Ozan Doğan",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Adana Mehmet Akif Ersoy İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Ankara Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Gazetecilik",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Gazeteci",
+  "calistigi_kurumlar": [
+    "Adana Hakimiyet Gazetesi",
+    "Milliyet Gazetesi",
+    "NTV",
+    "Mediascope TV"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2011",
+    "2011-2015",
+    "2015-2019",
+    "2019-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Türkiye Gazeteciler Cemiyeti"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Amatör fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "trekking",
+    "klasik Türk müziği dinlemek",
+    "polisiye romanlar okumak"
+  ],
+  "es": "Elif Doğan",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Habercilikte Yeni Trendler",
+    "Yerel Medyanın Dönüşümü: Adana Örneği"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2010"
+  ],
+  "dosya_adi": "ozan_dogan.md"
+}

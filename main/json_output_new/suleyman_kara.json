@@ -1,0 +1,60 @@
+{
+  "ad": "Süleyman Kara",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.03.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Vali Vecdi Gönül İlköğretim Okulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yapay Zeka Uzmanı, Girişimci",
+  "calistigi_kurumlar": [
+    "ArGe Yazılım Çözümleri A.Ş.",
+    "Turkcell",
+    "Akbank",
+    "VeriVizyon Teknoloji A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "VeriVizyon Teknoloji A.Ş.",
+    "Gelecek Bilimde"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022",
+    null
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör astronomi",
+    "eski Türk tarihi ve mitolojisi",
+    "stratejik masa oyunları",
+    "Go oyunu"
+  ],
+  "es": "Ayşe",
+  "cocuklar": [
+    "Defne",
+    "Alp"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veride Anomali Tespiti İçin Derin Öğrenme Yaklaşımları",
+    "Finansal Dolandırıcılık Tespitinde Yarı Denetimli Öğrenme Modelleri"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2017"
+  ],
+  "dosya_adi": "suleyman_kara.md"
+}

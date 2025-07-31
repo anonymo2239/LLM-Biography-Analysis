@@ -1,0 +1,33 @@
+{
+  "ad": "Halit Baran",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "05.07.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1992-1997",
+  "ilkokul": "Çankaya İlkokulu",
+  "lise": "Ankara Atatürk Anadolu Lisesi",
+  "lise_yılları": "1997-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Endüstri Mühendisliği",
+  "yuksek_lisans": "Bilkent Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kıdemli Tedarik Zinciri Direktörü",
+  "calistigi_kurumlar": ["Borusan Lojistik", "Migros", "Unilever"],
+  "çalışma_başlangıç_yılları": ["2008-2012", "2012-2017", "2017-"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Lojistik Geliştirme Derneği"],
+  "girişim_kuruluş_yılları": ["2019"],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["uzun mesafe koşusu", "doğa fotoğrafçılığı", "geleneksel Türk okçuluğu"],
+  "es": "Ayşe Baran",
+  "cocuklar": ["Asya", "Can"],
+  "akademik_yayinlar": [
+    "The Role of Predictive Analytics in Optimizing Retail Supply Chains.",
+    "Agile Supply Chain Practices in Fast-Moving Consumer Goods (FMCG) Sector: A Case Study from Turkey."
+  ],
+  "yayın_yılları": ["2014", "2016"],
+  "dosya_adi": "halit_baran.md"
+}

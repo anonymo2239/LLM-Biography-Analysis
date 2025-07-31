@@ -1,0 +1,62 @@
+{
+  "ad": "Yılmaz Erdoğan",
+  "dogum_yeri": "Malatya",
+  "dogum_tarihi": "14.07.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "İnönü İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Psikoloji",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2005-2007",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Klinik Psikolog",
+  "calistigi_kurumlar": [
+    "Çapa Tıp Fakültesi Hastanesi",
+    "Özel Beyoğlu Psikolojik Danışmanlık Merkezi",
+    "Koç Holding",
+    "Denge Psikoloji"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2011",
+    "2011-2015",
+    "2015-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Toplum Ruh Sağlığı Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Malatya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri yapmak",
+    "amatör fotoğrafçılıkla uğraşmak",
+    "klasik Türk müziği dinlemek",
+    "yeni tarifler denemek"
+  ],
+  "es": "Elif Erdoğan",
+  "cocuklar": [
+    "Defne Erdoğan",
+    "Can Erdoğan"
+  ],
+  "akademik_yayinlar": [
+    "Modern Hayatta Dengeyi Bulmak: Zihinsel Sağlık İçin Pratik Rehber",
+    "Kurumsal Ortamlarda Stres Yönetimi ve Verimlilik İlişkisi Üzerine Bir Araştırma",
+    "Dijital Çağda Yalnızlık ve Bağlantı İhtiyacı: Genç Yetişkinler Üzerine Niteliksel Bir Çalışma",
+    "Travma Sonrası Büyümenin Psikolojik Destek Süreçlerine Yansımaları"
+  ],
+  "yayın_yılları": [
+    "2020",
+    "2017",
+    "2019",
+    "2022"
+  ],
+  "dosya_adi": "yilmaz_erdogan.md"
+}

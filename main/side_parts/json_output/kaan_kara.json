@@ -1,0 +1,19 @@
+{
+  "ad": "Kaan Kara",
+  "dogum_yeri": "Eskişehir, Tepebaşı",
+  "dogum_tarihi": "12.07.1985",
+  "ilkokul": null,
+  "lise": "Eskişehir Anadolu Lisesi",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Çevre ve Şehircilik Bakanlığı", "Eskişehir Büyükşehir Belediyesi"],
+  "kurdugu_girisim_ve_dernekler": ["Kendi danışmanlık firması"],
+  "yasadigi_sehir": "Eskişehir",
+  "hobiler": ["doğa yürüyüşleri", "bisiklete binmek", "kitap kulüplerine katılmak"],
+  "es": "Eda",
+  "cocuklar": ["Yiğit"],
+  "akademik_yayinlar": ["Eskişehir'in Su Kirliliği Analizi", "Sürdürülebilir Kentsel Gelişim ve Su Yönetimi"],
+  "dosya_adi": "kaan_kara.md"
+}

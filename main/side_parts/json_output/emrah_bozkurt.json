@@ -1,0 +1,19 @@
+{
+  "ad": "Emrah Bozkurt",
+  "dogum_yeri": "İzmir, Konak",
+  "dogum_tarihi": "14.02.1988",
+  "ilkokul": "Konak İlköğretim Okulu",
+  "lise": "İzmir Atatürk Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["BİLİM Mühendislik", "İstanbul'daki bir teknoloji şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["Kadın Mühendisler ve Teknoloji"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "yeni teknolojileri incelemek", "robot tasarımı", "bisiklet sürmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["yüksek lisans tezi: enerji verimliliği üzerine uygulamalı çalışma"],
+  "dosya_adi": "emrah_bozkurt.md"
+}

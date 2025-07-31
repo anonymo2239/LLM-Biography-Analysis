@@ -1,0 +1,61 @@
+{
+  "ad": "Melis Demir",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Mehmet Akif Ersoy İlköğretim Okulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Sanat Tarihi",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Küratör ve Sanat Danışmanı",
+  "calistigi_kurumlar": [
+    "İstanbul Modern Sanat Müzesi",
+    "Sanat Unlimited Dergisi",
+    "Garanti BBVA",
+    "Bağımsız Küratör",
+    "SALT Araştırma"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2016",
+    "2016-2017",
+    "2017-2020",
+    "2020-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Sanatla İç İçe",
+    "Sanat İçin Herkes Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Klasik müzik dinlemek",
+    "Seramik atölyelerine katılmak",
+    "Doğa yürüyüşleri yapmak",
+    "Eski kitapları koleksiyonlamak"
+  ],
+  "es": "Can Demir",
+  "cocuklar": [
+    "Defne",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Sanatın Kürasyon Pratiklerine Etkisi",
+    "Müze Deneyiminde Yeni Yönelimler: Katılımcı Sanat Projeleri Üzerine Bir İnceleme"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "melis_demir.md"
+}

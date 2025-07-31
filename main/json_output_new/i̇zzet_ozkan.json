@@ -1,0 +1,54 @@
+{
+  "ad": "İzzet Özkan",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Kayseri Kadı Burhaneddin İlköğretim Okulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Endüstri Mühendisliği",
+  "yuksek_lisans": "Bilkent Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimi Müdürü",
+  "calistigi_kurumlar": [
+    "EY Türkiye",
+    "Akbank",
+    "Garanti BBVA",
+    "Paraşüt"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2014",
+    "2014-2017",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "klasik müzik dinlemek",
+    "satranç oynamak"
+  ],
+  "es": "Ayşe Özkan",
+  "cocuklar": [
+    "Elif Özkan",
+    "Can Özkan"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye Bankacılık Sektöründe Kredi Riski Tahmininde Makine Öğrenmesi Modellerinin Uygulanması",
+    "Büyük Veri ile Finansal Dolandırıcılık Tespiti: Bir Vaka Çalışması"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2018"
+  ],
+  "dosya_adi": "izzet_ozkan.md"
+}

@@ -1,0 +1,19 @@
+{
+  "ad": "Sedef Aydın",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "14.09.1988",
+  "ilkokul": "Karşıyaka Cumhuriyet İlkokulu",
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Moleküler Biyoloji ve Genetik",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "doktora": "Ege Üniversitesi",
+  "calistigi_kurumlar": ["Özel bir biyoteknoloji şirketi", "BiyoBilim dergisi"],
+  "kurdugu_girisim_ve_dernekler": ["Genetica", "Genç Genetikçiler"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "sanatla ilgilenmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Genetik Dizilim ve İnsan Sağlığı"],
+  "dosya_adi": "sedef_aydin.md"
+}

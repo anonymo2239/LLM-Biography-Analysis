@@ -1,0 +1,60 @@
+{
+  "ad": "İpek Aksoy",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1982",
+  "yaş": 41,
+  "ilkokul_yılları": "1988-1993",
+  "ilkokul": "Kayseri Merkez Mimar Sinan İlkokulu",
+  "lise": "Kayseri Sümer Anadolu Lisesi",
+  "lise_yılları": "1993-2000",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Sosyoloji",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": "Ankara Üniversitesi",
+  "doktora_yılları": "2010-2015",
+  "meslegi": "Kent Sosyoloğu ve Araştırmacı",
+  "calistigi_kurumlar": [
+    "Ankara Üniversitesi İletişim Fakültesi",
+    "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK)",
+    "İzmir Ekonomi Üniversitesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2015",
+    "2015-2018",
+    "2018-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kent Hakkı Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019-Halen"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İzmir",
+  "hobiler": [
+    "şehir fotoğrafçılığı",
+    "eski haritaları toplamak",
+    "tarihi romanlar okumak",
+    "eski semtleri ve sokakları keşfetmek"
+  ],
+  "es": "Deniz Aydın",
+  "cocuklar": [
+    "Cem",
+    "Lara"
+  ],
+  "akademik_yayinlar": [
+    "Kent Kimliğinin Dijital Dönüşümü: Ankara Örneği",
+    "Akıllı Şehir Uygulamalarının Sosyal Adalet Üzerine Etkileri",
+    "Kültürel Mirasın Dijitalleştirilmesi ve Kent Belleği: İzmir Pasajları Üzerine Bir İnceleme",
+    "Pandemi Sürecinde Kentli Yaşamı ve Dijitalleşme: İzmir Örneği"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2017",
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "ipek_aksoy.md"
+}

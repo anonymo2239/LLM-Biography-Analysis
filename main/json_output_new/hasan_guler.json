@@ -1,0 +1,60 @@
+{
+  "ad": "Hasan Güler",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.08.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "Adana Çukurova İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Gaziantep Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2005-2007",
+  "doktora": "Bilkent Üniversitesi",
+  "doktora_yılları": "2007-2011",
+  "meslegi": "İnovasyondan Sorumlu Başkan (CIO)",
+  "calistigi_kurumlar": [
+    "Siemens Türkiye",
+    "EkoEnerji Çözümleri A.Ş.",
+    "Anadolu Enerji Holding"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2015",
+    "2015-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yeşil Gelecek Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "fotoğrafçılık",
+    "klasik müzik dinlemek",
+    "sürdürülebilir yaşam pratikleri"
+  ],
+  "es": "Ayşe Gürsoy",
+  "cocuklar": [
+    "Elif",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Rüzgar Enerjisi Potansiyelinin Coğrafi Bilgi Sistemleri ile Analizi",
+    "Güneş Enerjisi Sistemlerinde Yapay Zeka Destekli Verim Optimizasyonu",
+    "Akıllı Şebekelerde Siber Güvenlik Riskleri ve Önleyici Tedbirler",
+    "Yeşil Hidrojen Üretim Teknolojilerinin Geleceği ve Türkiye Potansiyeli"
+  ],
+  "yayın_yılları": [
+    "2008",
+    "2012",
+    "2015",
+    "2021"
+  ],
+  "dosya_adi": "hasan_guler.md"
+}

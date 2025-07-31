@@ -1,0 +1,61 @@
+{
+  "ad": "Haluk Bulut",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "25.07.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1992-1999",
+  "ilkokul": "Kayseri Nuri Has İlkokulu",
+  "lise": "Kayseri Sümer Anadolu Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2007-2009",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Finansal Danışman",
+  "calistigi_kurumlar": [
+    "PwC Türkiye",
+    "Akbank",
+    "Garanti BBVA",
+    "Yıldız Holding",
+    "Yatırım Pusulası Finansal Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2012",
+    "2012-2017",
+    "2017-2020",
+    "2020-2023",
+    "2024-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yatırım Pusulası Finansal Danışmanlık",
+    "Kadın Liderler Finansta"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2024"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "dağ yürüyüşleri",
+    "klasik müzik dinlemek",
+    "satranç oynamak",
+    "bağcılık ve yerel şarap üretimi"
+  ],
+  "es": "Ayşe Sarıoğlu",
+  "cocuklar": [
+    "Emir",
+    "Defne"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de Bireysel Emeklilik Sistemlerinin Geleceği ve Makroekonomik Etkileri",
+    "Gelişen Pazarlarda Yapılandırılmış Ürünler ve Risk Yönetimi Yaklaşımları"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2015"
+  ],
+  "dosya_adi": "haluk_bulut.md"
+}

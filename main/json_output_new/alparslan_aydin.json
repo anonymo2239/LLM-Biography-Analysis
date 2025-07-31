@@ -1,0 +1,63 @@
+{
+  "ad": "Alparslan Aydın",
+  "dogum_yeri": "Ankara, Çankaya",
+  "dogum_tarihi": "07.03.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Çankaya İlkokulu",
+  "lise": "Anıttepe Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Gazi Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar, Restorasyon Uzmanı, Araştırmacı",
+  "calistigi_kurumlar": [
+    "Görkem Mimarlık",
+    "Tektaş Mimarlık",
+    "Mesa Mesken Sanayii A.Ş.",
+    "Kadim Sanat Mimarlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2008",
+    "2010-2014",
+    "2014-2019",
+    "2019-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kadim Sanat Mimarlık",
+    "Tarihi Çevre Koruma Derneği (TAÇEV)"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    "2018"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Urban sketching",
+    "Seyahat",
+    "Ahşap model yapımı",
+    "Klasik Türk müziği dinlemek",
+    "Eski kitaplar ve haritalar koleksiyonu"
+  ],
+  "es": "Elif Aydın",
+  "cocuklar": [
+    "Can Aydın",
+    "Zeynep Aydın"
+  ],
+  "akademik_yayinlar": [
+    "Cumbalı Evlerden Butik Otellere: Beyoğlu Sivil Mimarisinde Fonksiyonel Dönüşüm",
+    "Anadolu'daki Roma Tiyatrolarının Kent Dokusuna Entegrasyonu Üzerine Bir Araştırma",
+    "Tarihi Yarımada'da Sürdürülebilir Restorasyon Yaklaşımları"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2017",
+    "2021"
+  ],
+  "dosya_adi": "alparslan_aydin.md"
+}

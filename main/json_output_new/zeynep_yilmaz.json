@@ -1,0 +1,55 @@
+{
+  "ad": "Zeynep Yılmaz",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.07.1992",
+  "yaş": 31,
+  "ilkokul_yılları": "1998-2006",
+  "ilkokul": "Şehit Öğretmen Şenay Aybüke Yalçın İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2006-2010",
+  "universite": "Marmara Üniversitesi",
+  "üniversite_yılları": "2010-2014",
+  "bolum": "Halkla İlişkiler ve Tanıtım",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "yüksek_lisans_yılları": "2015-2017",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kıdemli Marka Yöneticisi",
+  "calistigi_kurumlar": [
+    "Türk Telekom",
+    "Unilever Türkiye",
+    "Coca-Cola İçecek"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2015-2018",
+    "2018-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Okuyan Gelecekler Derneği",
+    "Yeşil Nesiller Hareketi"
+  ],
+  "girişim_kuruluş_yılları": [
+    null,
+    null
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "amatör fotoğrafçılık",
+    "eski Türk filmleri koleksiyonu",
+    "seyahat"
+  ],
+  "es": "Caner Demir",
+  "cocuklar": [
+    "Eylül"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Tüketici Sadakati ve Marka İletişiminin Rolü"
+  ],
+  "yayın_yılları": [
+    "2017"
+  ],
+  "dosya_adi": "zeynep_yilmaz.md"
+}

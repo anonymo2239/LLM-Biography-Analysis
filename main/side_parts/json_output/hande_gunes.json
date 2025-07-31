@@ -1,0 +1,19 @@
+{
+  "ad": "Hande Güneş",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.08.1988",
+  "ilkokul": "Atatürk İlkokulu",
+  "lise": "Antalya Lisesi",
+  "universite": "Akdeniz Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Antalya Su ve Kanalizasyon İdaresi (ASAT)"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Antalya"],
+  "yasadigi_sehir": "Antalya",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "el sanatları yapmak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Güneş Enerjisi Kullanımının Sürdürülebilirliği", "Çevre Temalı Projeler"],
+  "dosya_adi": "hande_gunes.md"
+}

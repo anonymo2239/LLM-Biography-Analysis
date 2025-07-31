@@ -1,0 +1,19 @@
+{
+  "ad": "Fuat Aydın",
+  "dogum_yeri": "Erzurum, Palandöken",
+  "dogum_tarihi": "15.09.1988",
+  "ilkokul": null,
+  "lise": "Erzurum Lisesi",
+  "universite": "İstanbul Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Çevre danışmanlık firması", "EcoUrban"],
+  "kurdugu_girisim_ve_dernekler": ["EcoUrban"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "kitap okumak", "doğa belgeselleri izlemek"],
+  "es": null,
+  "cocuklar": null,
+  "akademik_yayinlar": ["Kentsel Alanlarda Atık Yönetimi", "Şehirlerdeki Yeşil Alanların Önemi"],
+  "dosya_adi": "fuat_aydin.md"
+}

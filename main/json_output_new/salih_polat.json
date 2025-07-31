@@ -1,0 +1,60 @@
+{
+  "ad": "Salih Polat",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.07.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1997",
+  "ilkokul": "Atatürk İlkokulu",
+  "lise": "Antalya Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "İstatistik",
+  "yuksek_lisans": "Marmara Üniversitesi",
+  "yüksek_lisans_yılları": "2006-2008",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama Uzmanı",
+  "calistigi_kurumlar": [
+    "BrandSpark Reklam Ajansı",
+    "Migros",
+    "Turkcell",
+    "Garanti BBVA",
+    "Microsoft Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2005-2007",
+    "2007-2011",
+    "2011-2016",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Doğa İçin Veri"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "dijital fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "klasik Türk Sanat Müziği",
+    "Python ile veri projeleri geliştirmek"
+  ],
+  "es": "Ayşe Polat",
+  "cocuklar": [
+    "Elif Polat",
+    "Can Polat"
+  ],
+  "akademik_yayinlar": [
+    "E-Ticarette Müşteri Segmentasyonu için Makine Öğrenimi Yaklaşımları Üzerine Bir İnceleme",
+    "Sosyal Medya Reklamcılığında Hedefleme Optimizasyonu: Bir Vaka Çalışması"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2018"
+  ],
+  "dosya_adi": "salih_polat.md"
+}

@@ -1,0 +1,63 @@
+{
+  "ad": "Selin Acar",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Namık Kemal İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "İletişim Bilimleri",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama Direktörü",
+  "calistigi_kurumlar": [
+    "Mindshare Türkiye",
+    "Unilever Türkiye",
+    "Arçelik A.Ş.",
+    "Getir",
+    "Acar Dijital Stratejiler"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Acar Dijital Stratejiler",
+    "Türkiye Kadın Girişimciler Derneği (KAGİDER)",
+    "TEMA Vakfı"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022",
+    null,
+    null
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "yoga yapmak",
+    "doğa yürüyüşlerine çıkmak",
+    "dijital sanatlarla ilgilenmek",
+    "pazarlama ve teknoloji alanındaki podcast'leri dinlemek",
+    "seyahat etmek"
+  ],
+  "es": "Can Yılmaz",
+  "cocuklar": [
+    "Ela Acar Yılmaz",
+    "Demir Acar Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Tüketici Güveni ve Marka Algısı Üzerine Bir Araştırma"
+  ],
+  "yayın_yılları": [
+    "2013"
+  ],
+  "dosya_adi": "selin_acar_biyografi.md"
+}

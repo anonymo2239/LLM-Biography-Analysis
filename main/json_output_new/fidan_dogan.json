@@ -1,0 +1,56 @@
+{
+  "ad": "Fidan Doğan",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "05.09.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Gazi İlkokulu",
+  "lise": "Akdeniz Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "İzmir Ekonomi Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Endüstriyel Tasarım",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "İnovasyon ve Tasarım Direktörü",
+  "calistigi_kurumlar": [
+    "Vestel",
+    "Arçelik",
+    "BOSCH Ev Aletleri",
+    "P&G Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2012",
+    "2012-2016",
+    "2016-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Tasarımcılar Derneği"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "seramik sanatı",
+    "yoga",
+    "doğa yürüyüşleri",
+    "plak koleksiyonculuğu"
+  ],
+  "es": "Caner Öztürk",
+  "cocuklar": [
+    "Defne Doğan Öztürk",
+    "Demir Doğan Öztürk"
+  ],
+  "akademik_yayinlar": [
+    "Geleceğin Akıllı Ev Aletleri Tasarımında Kullanıcı Deneyimi ve İnovasyon Stratejileri",
+    "Sürdürülebilir Tasarımda Döngüsel Ekonomi Yaklaşımları: Endüstriyel Tasarımın Rolü"
+  ],
+  "yayın_yılları": [
+    "2010",
+    "2018"
+  ],
+  "dosya_adi": "fidan_dogan.md"
+}

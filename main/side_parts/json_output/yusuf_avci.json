@@ -1,0 +1,19 @@
+{
+  "ad": "Yusuf Avcı",
+  "dogum_yeri": "Adana, Seyhan",
+  "dogum_tarihi": "15.09.1985",
+  "ilkokul": "Seyhan İlkokulu",
+  "lise": "Adana Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Adana'daki büyük bir inşaat firması", "ulusal bir inşaat firması", "Avcı Mühendislik"],
+  "kurdugu_girisim_ve_dernekler": ["Avcı Mühendislik"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["dağ yürüyüşü", "bisiklet sürmek", "kitap okumak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["yeşil binaların enerji performansını artırmaya yönelik teknikler"],
+  "dosya_adi": "yusuf_avci.md"
+}

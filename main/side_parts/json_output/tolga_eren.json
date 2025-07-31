@@ -1,0 +1,19 @@
+{
+  "ad": "Tolga Eren",
+  "dogum_yeri": "Alanya, Antalya",
+  "dogum_tarihi": "12.01.1988",
+  "ilkokul": "Alanya İlkokulu",
+  "lise": "Alanya Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul Teknik Üniversitesi", "bir mimarlık bürosu", "kendi mimarlık ofisi"],
+  "kurdugu_girisim_ve_dernekler": ["Alanya için Mimari Düşünceler"],
+  "yasadigi_sehir": "Alanya",
+  "hobiler": ["resim yapmak", "fotoğraf çekmek", "doğa yürüyüşleri"],
+  "es": "Derya Hanım",
+  "cocuklar": ["Deniz"],
+  "akademik_yayinlar": ["Sürdürülebilir Mimarlık ve Yerel Kültür"],
+  "dosya_adi": "tolga_eren.md"
+}

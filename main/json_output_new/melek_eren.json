@@ -1,0 +1,56 @@
+{
+  "ad": "Melek Eren",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "18.07.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Necatibey İlkokulu",
+  "lise": "Bursa Ahmet Hamdi Tanpınar Anadolu Lisesi",
+  "lise_yılları": "2003-2007",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Sanat Yönetimi ve İletişim",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Sanat Danışmanı",
+  "calistigi_kurumlar": [
+    "Pera Müzesi",
+    "İstanbul Modern",
+    "Freelance Sanat Danışmanı",
+    "Sanat Köprüsü Derneği"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2013",
+    "2015-2019",
+    "2019-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Sanat Köprüsü Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "analog fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "trekking",
+    "piyano çalmak"
+  ],
+  "es": "Emre Doğan",
+  "cocuklar": [
+    "Ada",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Sanat Platformlarının Türkiye'deki Genç Sanatçılar Üzerindeki Etkileri"
+  ],
+  "yayın_yılları": [
+    "2020"
+  ],
+  "dosya_adi": "melek_eren.md"
+}

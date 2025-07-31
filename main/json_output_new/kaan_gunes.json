@@ -1,0 +1,56 @@
+{
+  "ad": "Kaan Güneş",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "05.07.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Bursa Cumhuriyet İlkokulu",
+  "lise": "Bursa Hürriyet Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yazılım Mühendisi",
+  "calistigi_kurumlar": [
+    "ASELSAN",
+    "Microsoft Türkiye",
+    "TechNova Girişim"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2014",
+    "2014-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "TechNova Girişim",
+    "Genç Girişimciler Derneği",
+    "TEV"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Drone Fotoğrafçılığı",
+    "Maket Uçak Yapımı",
+    "Doğa Yürüyüşleri",
+    "Amatör Yazılım Geliştirme Topluluklarına Katılma"
+  ],
+  "es": "Elif Güneş",
+  "cocuklar": [
+    "Defne Güneş",
+    "Can Güneş"
+  ],
+  "akademik_yayinlar": [
+    "Yapay Zeka Destekli Otonom Drone Sistemlerinde Güvenlik Protokolleri"
+  ],
+  "yayın_yılları": [
+    "2013"
+  ],
+  "dosya_adi": "kaan_gunes.md"
+}

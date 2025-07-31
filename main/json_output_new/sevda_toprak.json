@@ -1,0 +1,58 @@
+{
+  "ad": "Sevda Toprak",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1992-1997",
+  "ilkokul": "Ankara Atatürk İlkokulu",
+  "lise": "Ankara Anadolu Lisesi",
+  "lise_yılları": "1997-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Yıldız Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Ankara Büyükşehir Belediyesi",
+    "Kentsel Gelişim A.Ş.",
+    "Şehir Vizyon Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2012",
+    "2012-2017",
+    "2017-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Şehir Vizyon Danışmanlık",
+    "Sürdürülebilir Şehirler Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017",
+    "2019"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "kentsel fotoğrafçılık",
+    "eski şehir haritaları koleksiyonculuğu",
+    "doğa yürüyüşleri",
+    "piyano çalmak"
+  ],
+  "es": "Mert Yılmaz",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Şehirlerde Veri Odaklı Planlama: İstanbul Örneği",
+    "Kentsel Dönüşümde Sosyal Etki Değerlendirmesi ve Katılımcılık"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "sevda_toprak.md"
+}

@@ -1,0 +1,59 @@
+{
+  "ad": "Nazan Kaplan",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.07.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-1998",
+  "ilkokul": "Adana Çukurova İlkokulu",
+  "lise": "Adana Süleyman Demirel Anadolu Lisesi",
+  "lise_yılları": "1998-2005",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Ege Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar ve Kentsel Tasarım Uzmanı",
+  "calistigi_kurumlar": [
+    "Serbest Mimar (İstanbul)",
+    "Rönesans Holding",
+    "Arkitekt Mimarlık",
+    "İzmir Büyükşehir Belediyesi",
+    "Kentsel Dokunuşlar Mimarlık ve Danışmanlık Ofisi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2010",
+    "2012-2015",
+    "2015-2018",
+    "2018-2021",
+    "2021-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kentsel Dokunuşlar Mimarlık ve Danışmanlık Ofisi"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İzmir",
+  "hobiler": [
+    "Su altı fotoğrafçılığı",
+    "Seramik sanatı",
+    "Eski şehir dokularını keşfetmek"
+  ],
+  "es": "Yiğit Kaplan",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "İzmir Tarihi Liman Bölgesi'nin Kentsel Dönüşüm Potansiyeli ve Koruma Yaklaşımları Üzerine Bir İnceleme",
+    "Sürdürülebilir Kentsel Gelişimde Yeşil Çatılar ve Dikey Bahçeler: İzmir Örneği"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2019"
+  ],
+  "dosya_adi": "nazan_kaplan.md"
+}

@@ -1,0 +1,19 @@
+{
+  "ad": "Levent Yıldırım",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "12.04.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": null,
+  "universite": "Selçuk Üniversitesi",
+  "bolum": "Elektrik Elektronik Mühendisliği",
+  "yuksek_lisans": "Selçuk Üniversitesi",
+  "doktora": "Selçuk Üniversitesi",
+  "calistigi_kurumlar": ["Konya'daki bir enerji şirketi", "Yıldırım Enerji Danışmanlık", "Konya Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Geleceği Aydınlatanlar"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "kitap okumak"],
+  "es": "Elif Hanım",
+  "cocuklar": ["İlayda", "Arda"],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Kaynakları ve Sürdürülebilir Kalkınma"],
+  "dosya_adi": "levent_yildirim.md"
+}

@@ -1,0 +1,55 @@
+{
+  "ad": "Gökhan Tan",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.06.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2001",
+  "ilkokul": "Dr. Reşit Galip İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi (ODTÜ)",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Gıda Mühendisliği",
+  "yuksek_lisans": "Wageningen University & Research",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Gıda Mühendisi, Girişimci",
+  "calistigi_kurumlar": [
+    "Nestlé Türkiye",
+    "Unilever Türkiye"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2014",
+    "2014-2017"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Lezzet Rotası",
+    "Yerel Sofralar Girişimi"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Dünya mutfaklarını keşfetmek",
+    "Evde şarap ve fermente ürünler yapmak",
+    "Doğa yürüyüşleri (trekking)",
+    "Fotoğrafçılık"
+  ],
+  "es": "Elif Tan",
+  "cocuklar": [
+    "Defne Tan",
+    "Can Tan"
+  ],
+  "akademik_yayinlar": [
+    "Gıda Güvenliği Yönetim Sistemlerinde Blok Zinciri Teknolojisinin Potansiyeli",
+    "Sürdürülebilir Balıkçılık Pratiklerinin Gıda Tedarik Zincirine Entegrasyonu"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2016"
+  ],
+  "dosya_adi": "gokhan_tan.md"
+}

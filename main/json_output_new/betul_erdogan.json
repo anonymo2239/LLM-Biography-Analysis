@@ -1,0 +1,57 @@
+{
+  "ad": "Betül Erdoğan",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Çelebi Mehmet İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi (ODTÜ)",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi (İTÜ)",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kentsel Planlama Uzmanı",
+  "calistigi_kurumlar": [
+    "T.C. Çevre ve Şehircilik Bakanlığı",
+    "İstanbul Büyükşehir Belediyesi",
+    "Kültürel Mirasın Korunması Vakfı (KUMEK)",
+    "Miras Mimari Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2012",
+    "2012-2017",
+    "2017-2022",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Miras Mimari Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Fotoğrafçılık",
+    "Türk Sanat Müziği",
+    "Kaligrafi"
+  ],
+  "es": "Emre Güngör",
+  "cocuklar": [
+    "Selin",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Kent Kimliği ve Kentsel Bellek: İstanbul Örneği",
+    "Bursa'nın Tarihi Mahallelerinde Sürdürülebilir Dönüşüm ve Toplumsal Katılım"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2015"
+  ],
+  "dosya_adi": "betul_erdogan.md"
+}

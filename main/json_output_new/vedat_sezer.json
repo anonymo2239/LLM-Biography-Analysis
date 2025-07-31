@@ -1,0 +1,54 @@
+{
+  "ad": "Vedat Sezer",
+  "dogum_yeri": "Gaziantep",
+  "dogum_tarihi": "15.06.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1999",
+  "ilkokul": "Gaziantep Gazikent İlköğretim Okulu",
+  "lise": "İzmir Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "İç Mimar, Girişimci",
+  "calistigi_kurumlar": [
+    "Mimar Yapı ve Tasarım A.Ş.",
+    "Arçelik A.Ş.",
+    "Eczacıbaşı Yapı Ürünleri Grubu"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2010",
+    "2012-2016",
+    "2016-2021"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Mekân Artı İç Mimarlık",
+    "Sürdürülebilir Mimarlık ve Tasarım Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Gaziantep",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Fotoğraf çekmek",
+    "Doğa yürüyüşleri",
+    "Caz müziği dinlemek"
+  ],
+  "es": "Ayşe Sezer",
+  "cocuklar": [
+    "Can",
+    "Defne"
+  ],
+  "akademik_yayinlar": [
+    "Kent Mekanlarında Sürdürülebilir İç Mekan Tasarım Yaklaşımları"
+  ],
+  "yayın_yılları": [
+    "2012"
+  ],
+  "dosya_adi": "vedat_sezer.md"
+}

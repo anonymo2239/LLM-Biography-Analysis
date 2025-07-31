@@ -1,0 +1,19 @@
+{
+  "ad": "İbrahim Aslan",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "15.09.1988",
+  "ilkokul": "Bornova İlkokulu",
+  "lise": "İzmir Fen Lisesi",
+  "universite": "İzmir Yüksek Teknoloji Enstitüsü",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["bir enerji şirketi", "Aslan Enerji Çözümleri"],
+  "kurdugu_girisim_ve_dernekler": ["Aslan Enerji Çözümleri"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "bilimsel dergiler takip etmek", "koşu"],
+  "es": "Fatma Aslan",
+  "cocuklar": ["null"],
+  "akademik_yayinlar": ["Güneş Enerjisiyle Çalışan Mini Araç", "Enerji Tasarrufu İçin Akıllı Ev Sistemleri"],
+  "dosya_adi": "ibrahim_aslan.md"
+}

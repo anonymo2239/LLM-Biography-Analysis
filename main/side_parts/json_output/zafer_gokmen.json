@@ -1,0 +1,19 @@
+{
+  "ad": "Zafer Gökmen",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "15.09.1988",
+  "ilkokul": "Karşıyaka İlkokulu",
+  "lise": "Karşıyaka Anadolu Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "Stanford Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir'deki bir inşaat firması", "Gökmen Proje Danışmanlığı"],
+  "kurdugu_girisim_ve_dernekler": ["Gökmen Proje Danışmanlığı"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["resim yapmak", "doğa yürüyüşleri yapmak", "kitap okumak", "gezmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Sürdürülebilir Gelecek sempozyumu sunumu", "Güvenli Yaşam Projesi"],
+  "dosya_adi": "zafer_gokmen.md"
+}

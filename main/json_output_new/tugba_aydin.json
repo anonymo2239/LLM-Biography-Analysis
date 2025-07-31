@@ -1,0 +1,59 @@
+{
+  "ad": "Tuğba Aydın",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.08.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Bursa Hürriyet İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yapay Zeka Etik ve Sorumlu Yapay Zeka Lideri",
+  "calistigi_kurumlar": [
+    "Arçelik",
+    "Trendyol",
+    "Akbank",
+    "Etiya"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2010",
+    "2012-2016",
+    "2016-2020",
+    "2020-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yapay Zeka Etiği Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "dijital fotoğrafçılık",
+    "eski Türk filmleri koleksiyonu",
+    "seramik yapma",
+    "doğa yürüyüşleri",
+    "yeni şehirler keşfetme"
+  ],
+  "es": "Can Yılmaz",
+  "cocuklar": [
+    "Ela Yılmaz",
+    "Deniz Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Algoritma Yanlılıkları ve Toplumsal Etkileri: Türkiye'den Bir Bakış",
+    "Sorumlu Yapay Zeka Geliştirme Yaklaşımları: Bir Vaka Analizi"
+  ],
+  "yayın_yılları": [
+    "2018",
+    "2021"
+  ],
+  "dosya_adi": "tugba_aydin.md"
+}

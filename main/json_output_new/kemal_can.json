@@ -1,0 +1,55 @@
+{
+  "ad": "Kemal Can",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Kayseri, Melikgazi Atatürk İlkokulu",
+  "lise": "Kayseri Nuh Mehmet Baldöktü Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "İktisat",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimci",
+  "calistigi_kurumlar": [
+    "TEPAV",
+    "Garanti BBVA",
+    "Getir"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2013",
+    "2015-2019",
+    "2019-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Veri Gönüllüleri"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Amatör fotoğrafçılık",
+    "trekking",
+    "veri görselleştirme sanatı",
+    "drone teknolojilerini takip etmek",
+    "mentorluk yapmak"
+  ],
+  "es": "Ayşe Can",
+  "cocuklar": [
+    "Deniz",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Kentleşme ve Dijitalleşmenin Sosyal Etkileri Üzerine Bir Analiz"
+  ],
+  "yayın_yılları": [
+    "2014"
+  ],
+  "dosya_adi": "kemal_can_biyografisi.md"
+}

@@ -1,0 +1,60 @@
+{
+  "ad": "Alperen Yılmaz",
+  "dogum_yeri": "Ankara, Çankaya",
+  "dogum_tarihi": "07.03.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2002",
+  "ilkokul": "Ankara Mimar Kemal İlköğretim Okulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Bilkent Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimcisi",
+  "calistigi_kurumlar": [
+    "VeriFabrikası Teknoloji A.Ş.",
+    "Garanti BBVA",
+    "sahibinden.com"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2013-2015",
+    "2015-2019",
+    "2019-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kodlama Atölyesi",
+    "Gelecek İçin Kodlama"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021",
+    null
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "Ankara",
+  "hobiler": [
+    "doğa yürüyüşleri yapmak",
+    "amatör fotoğrafçılık",
+    "yapay zeka ile sanatın kesişim noktalarını araştırmak",
+    "dijital sanat eserleri üretmek",
+    "bilim kurgu romanı okumak",
+    "yeni teknoloji makaleleri okumak"
+  ],
+  "es": "Elif Yılmaz (Kaya)",
+  "cocuklar": [
+    "Ada",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Deep Learning for Emotion Recognition in Textual Data",
+    "Ethical Implications of AI in Financial Services"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2018"
+  ],
+  "dosya_adi": "alperen_yilmaz.md"
+}

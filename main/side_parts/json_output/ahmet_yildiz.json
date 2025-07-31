@@ -1,0 +1,19 @@
+{
+  "ad": "Ahmet Yıldız",
+  "dogum_yeri": "Konya, Selçuklu",
+  "dogum_tarihi": "12.07.1985",
+  "ilkokul": "Selçuklu İlkokulu",
+  "lise": "Konya Lisesi",
+  "universite": "Selçuk Üniversitesi",
+  "bolum": "Tarım Ekonomisi",
+  "yuksek_lisans": "Selçuk Üniversitesi",
+  "doktora": "Selçuk Üniversitesi",
+  "calistigi_kurumlar": ["Selçuk Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Tarımda Yenilikçi Çözümler", "Konya Tarım Kooperatifleri ve Çiftçiler Derneği"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["Bahçesinde sebze ve meyve yetiştirmek", "Yerel tarım fuarlarına katılmak", "Doğa yürüyüşlerine çıkmak"],
+  "es": "Şule Hanım",
+  "cocuklar": ["Ali", "Zeynep"],
+  "akademik_yayinlar": ["Konya Ovası'nda Tarımsal Üretkenlik ve Ekonomik Sürdürülebilirlik", "Türkiye'deki Tarım Kooperatiflerinin Ekonomik Etkileri", "Sürdürülebilir Tarım ve Ekonomik Refah", "Sürdürülebilir Tarım ve Çiftçi Refahı"],
+  "dosya_adi": "ahmet_yildiz.md"
+}

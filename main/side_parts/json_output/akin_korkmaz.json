@@ -1,0 +1,19 @@
+{
+  "ad": "Akın Korkmaz",
+  "dogum_yeri": "Kayseri, Develi",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": null,
+  "lise": "Kayseri Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'da tanınmış bir mimarlık firması", "Kayseri'deki bir inşaat şirketi", "Kayseri Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Gelecek"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "fotoğraf çekmek", "yerel kültürü keşfetmek"],
+  "es": "Derya Korkmaz",
+  "cocuklar": ["Elif", "Deniz"],
+  "akademik_yayinlar": ["Kayseri'nin Yerel Mimari Unsurlarının Sürdürülebilir Tasarıma Entegrasyonu", "sürdürülebilirlik üzerine bir kitap"],
+  "dosya_adi": "akin_korkmaz.md"
+}

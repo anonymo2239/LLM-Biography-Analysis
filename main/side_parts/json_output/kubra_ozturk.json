@@ -1,0 +1,19 @@
+{
+  "ad": "Kübra Öztürk",
+  "dogum_yeri": "İzmir, Karşıyaka",
+  "dogum_tarihi": "23.03.1988",
+  "ilkokul": null,
+  "lise": "İzmir Fen Lisesi",
+  "universite": "Ege Üniversitesi",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İzmir merkezli bir yazılım geliştirme şirketi", "bir teknoloji firması"],
+  "kurdugu_girisim_ve_dernekler": ["TechArt"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "resim çizmek", "seyahat etmek", "müzik dinlemek", "yeni kültürler hakkında bilgi edinmek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": [],
+  "dosya_adi": "kubra_ozturk.md"
+}

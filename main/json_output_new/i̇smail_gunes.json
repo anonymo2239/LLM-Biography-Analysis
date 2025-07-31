@@ -1,0 +1,53 @@
+{
+  "ad": "İsmail Güneş",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.08.1990",
+  "yaş": 33,
+  "ilkokul_yılları": "1996-2004",
+  "ilkokul": "Mimar Sinan İlkokulu",
+  "lise": "Ankara Atatürk Lisesi",
+  "lise_yılları": "2004-2008",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "İşletme",
+  "yuksek_lisans": "London School of Economics",
+  "yüksek_lisans_yılları": "2013-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Finans Danışmanı",
+  "calistigi_kurumlar": [
+    "PwC Türkiye",
+    "Garanti BBVA",
+    "Deutsche Bank Türkiye",
+    "Güneş Finans Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2013",
+    "2015-2020",
+    "2020-2023",
+    "2023-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Güneş Finans Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2023"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "uzun mesafe koşu",
+    "klasik gitar çalmak",
+    "dijital sanat koleksiyonculuğu",
+    "dünya haritalarını incelemek"
+  ],
+  "es": "Ayşe Güneş",
+  "cocuklar": [
+    "Zeynep"
+  ],
+  "akademik_yayinlar": [
+    "Finansal okuryazarlık üzerine yazılar"
+  ],
+  "yayın_yılları": [],
+  "dosya_adi": "ismail_gunes.md"
+}

@@ -1,0 +1,58 @@
+{
+  "ad": "Şeyma Eren",
+  "dogum_yeri": "Diyarbakır",
+  "dogum_tarihi": "12.07.1990",
+  "yaş": 33,
+  "ilkokul_yılları": "1996-2004",
+  "ilkokul": "Diyarbakır Vali Gökhan Aydın İlköğretim Okulu",
+  "lise": "Diyarbakır Süleyman Demirel Anadolu Lisesi",
+  "lise_yılları": "2004-2008",
+  "universite": "Hacettepe Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "İstatistik",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2014-2016",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimi Lideri",
+  "calistigi_kurumlar": [
+    "Optimizasyon Çözümleri A.Ş.",
+    "Global AdSense Ajansı",
+    "Türk Telekom",
+    "Trendyol",
+    "Getir"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Women in Data Science Türkiye"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Diyarbakır",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "dağ yürüyüşleri",
+    "dijital fotoğrafçılık",
+    "belgesel izlemek",
+    "modern sanat galerilerini ziyaret etmek"
+  ],
+  "es": "Kaan Demir",
+  "cocuklar": [
+    "Ayşe",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Perakende Sektöründe Tahminsel Modellemenin Gücü",
+    "Gerçek Zamanlı Veri Akışıyla Dinamik Fiyatlandırma ve Lojistik Optimizasyonu"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "seyma_eren.md"
+}

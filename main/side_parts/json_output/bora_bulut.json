@@ -1,0 +1,19 @@
+{
+  "ad": "Bora Bulut",
+  "dogum_yeri": "Şanlıurfa",
+  "dogum_tarihi": "15.03.1988",
+  "ilkokul": null,
+  "lise": "Şanlıurfa Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik Elektronik Fakültesi",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Büyük bir enerji şirketinin Ar-Ge departmanı", "İstanbul Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Enerji Geleceği"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "kitap okumak", "müzik dinlemek", "dijital oyunlar"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yenilenebilir Enerji Sistemleri"],
+  "dosya_adi": "bora_bulut.md"
+}

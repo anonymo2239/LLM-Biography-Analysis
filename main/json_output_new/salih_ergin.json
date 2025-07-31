@@ -1,0 +1,55 @@
+{
+  "ad": "Salih Ergin",
+  "dogum_yeri": "Mersin, Türkiye",
+  "dogum_tarihi": "15.06.1982",
+  "yaş": 41,
+  "ilkokul_yılları": "1988-1993",
+  "ilkokul": "Gazi İlkokulu",
+  "lise": "Mersin Anadolu Lisesi",
+  "lise_yılları": "1993-2000",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2000-2004",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2005-2007",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı, Akıllı Şehir Çözümleri Uzmanı, Danışman",
+  "calistigi_kurumlar": [
+    "Mersin Büyükşehir Belediyesi",
+    "Siemens Türkiye",
+    "UrbanTech Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2010",
+    "2010-2015",
+    "2015-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "UrbanTech Danışmanlık",
+    "Türkiye Kentsel Dönüşüm Vakfı",
+    "Kentimi Yeniden Hayal Et"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2015"
+  ],
+  "memleket": "Mersin",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Dijital fotoğrafçılık",
+    "Şehir yürüyüşleri",
+    "Maraton koşuculuğu"
+  ],
+  "es": "Zeynep Yılmaz",
+  "cocuklar": [
+    "Elif Ergin",
+    "Can Ergin"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye Kentlerinde Akıllı Şehir Uygulamalarının Sürdürülebilirliği Üzerine Bir Araştırma"
+  ],
+  "yayın_yılları": [
+    "2014"
+  ],
+  "dosya_adi": "salih_ergin.md"
+}

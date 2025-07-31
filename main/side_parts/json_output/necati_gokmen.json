@@ -1,0 +1,19 @@
+{
+  "ad": "Necati Gökmen",
+  "dogum_yeri": "Kayseri, Develi",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": "Develi Atatürk İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Çalık Enerji", "Enel Green Power", "İstanbul Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Kendi danışmanlık şirketi", "Türk Güneş Enerjisi Derneği"],
+  "yasadigi_sehir": null,
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "kitap bağışlamak"],
+  "es": "Elif Hanım",
+  "cocuklar": ["Ege", "Defne"],
+  "akademik_yayinlar": ["Güneş Enerjisi Sistemlerinin Verimliliği", "Güneş Enerjisi Sistemlerinde Yenilikçi Depolama Çözümleri", "Yeşil Enerji ve Sürdürülebilir Gelecek"],
+  "dosya_adi": "necati_gokmen.md"
+}

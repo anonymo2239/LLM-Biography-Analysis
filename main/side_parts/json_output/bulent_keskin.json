@@ -1,0 +1,19 @@
+{
+  "ad": "Bülent Keskin",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "22.09.1988",
+  "ilkokul": "Bornova İlkokulu",
+  "lise": "İzmir Bornova Anadolu Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Elektrik Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": "İstanbul Teknik Üniversitesi",
+  "calistigi_kurumlar": ["Siemens Türkiye", "EkoEnerji"],
+  "kurdugu_girisim_ve_dernekler": ["EkoEnerji"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["doğa yürüyüşleri", "bisiklete binmek", "kitap okumak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": [],
+  "dosya_adi": "bulent_keskin.md"
+}

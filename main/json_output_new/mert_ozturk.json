@@ -1,0 +1,60 @@
+{
+  "ad": "Mert Öztürk",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2000",
+  "ilkokul": "Melikgazi İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Orta Doğu Teknik Üniversitesi (ODTÜ)",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri ve Yapay Zeka Direktörü",
+  "calistigi_kurumlar": [
+    "Vadi Teknoloji",
+    "Netaş",
+    "Garanti BBVA",
+    "Yemeksepeti",
+    "Getir"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2009",
+    "2011-2014",
+    "2017-2021",
+    "2021-2022",
+    "2022-halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Veri Bilimi ve Yapay Zeka Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Dağcılık",
+    "amatör fotoğrafçılık",
+    "bilim kurgu romanları okumak",
+    "drone uçurmak"
+  ],
+  "es": "Elif Öztürk",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri Analitiğinde Derin Öğrenme Modellerinin Uygulanması",
+    "Makine Öğrenimi ile Finansal Dolandırıcılık Tespiti: Bir Vaka Çalışması"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2018"
+  ],
+  "dosya_adi": "mert_ozturk.md"
+}

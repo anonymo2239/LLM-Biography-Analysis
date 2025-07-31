@@ -1,0 +1,19 @@
+{
+  "ad": "Serkan Çelik",
+  "dogum_yeri": "Kayseri, Develi",
+  "dogum_tarihi": "15.07.1985",
+  "ilkokul": "Develi Cumhuriyet İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul'da bir inşaat firması", "Kendi mühendislik danışmanlık şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["Geleceğimiz İçin Mühendislik", "Yeşil Bina Sertifikası programı"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "kitap okumak"],
+  "es": "Elif Yıldız",
+  "cocuklar": ["Zeynep", "Efe"],
+  "akademik_yayinlar": ["Kayseri’de Kentsel Dönüşüm: Fırsatlar ve Zorluklar", "Sürdürülebilir İnşaat"],
+  "dosya_adi": "serkan_celik.md"
+}

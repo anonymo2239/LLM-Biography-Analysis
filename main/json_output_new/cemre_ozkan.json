@@ -1,0 +1,57 @@
+{
+  "ad": "Cemre Özkan",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.07.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Bursa Cumhuriyet İlkokulu",
+  "lise": "Bursa Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Sanat Tarihi",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kültürel Miras Yönetimi Uzmanı",
+  "calistigi_kurumlar": [
+    "Topkapı Sarayı Müzesi",
+    "Pera Müzesi",
+    "Koç Holding",
+    "Ege Kültür Mirası Vakfı"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2016",
+    "2016-2019",
+    "2019-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Anadolu Kültür Rotası Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022"
+  ],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İzmir",
+  "hobiler": [
+    "Kaligrafi",
+    "Doğa yürüyüşleri",
+    "Eski haritalar toplamak"
+  ],
+  "es": "Arda Yılmaz",
+  "cocuklar": [
+    "Defne Yılmaz",
+    "Kerem Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Osmanlı'da Hat Sanatının Evrimi ve Günümüzdeki Yansımaları",
+    "Dijital Müzecilikte Yeni Yaklaşımlar: Sanal Gerçeklik Uygulamalarının Müzeler Üzerindeki Etkisi"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2018"
+  ],
+  "dosya_adi": "cemre_ozkan.md"
+}

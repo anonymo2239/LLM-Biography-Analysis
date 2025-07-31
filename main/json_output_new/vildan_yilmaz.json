@@ -1,0 +1,60 @@
+{
+  "ad": "Vildan Yılmaz",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.06.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Çankaya İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": "İstanbul Teknik Üniversitesi",
+  "doktora_yılları": "2012-2016",
+  "meslegi": "Kültürel Miras Uzmanı, Akademisyen",
+  "calistigi_kurumlar": [
+    "Mimarlık Ofisi XYZ",
+    "Kültürel Varlıkları Koruma Kurulu",
+    "Mimar Sinan Güzel Sanatlar Üniversitesi",
+    "Yeditepe Üniversitesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2012",
+    "2012-2017",
+    "2017-2020",
+    "2020-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Eski İstanbul'u Yaşatma Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Antik kentleri gezmek",
+    "Tarihi patikalarda yürüyüş yapmak",
+    "Analog fotoğrafçılık",
+    "Ebru sanatı",
+    "Klasik müzik dinlemek"
+  ],
+  "es": "Emre Demir",
+  "cocuklar": [
+    "Defne"
+  ],
+  "akademik_yayinlar": [
+    "Anadolu'nun Kaybolan İzleri: Tarihi Çevre Koruma Politikalarında Yeni Yaklaşımlar",
+    "Osmanlı Dönemi Sivil Mimarisinde Detay Çözümleri: Bursa Evleri Örneği",
+    "Kent Kimliğinin Korunmasında Yerel Halkın Rolü: Dünya Miras Alanları Üzerine Karşılaştırmalı Bir Analiz"
+  ],
+  "yayın_yılları": [
+    "2018",
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "vildan_yilmaz.md"
+}

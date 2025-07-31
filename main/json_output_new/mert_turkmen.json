@@ -1,0 +1,64 @@
+{
+  "ad": "Mert Türkmen",
+  "dogum_yeri": "Eskişehir",
+  "dogum_tarihi": "15.08.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Orhangazi İlkokulu",
+  "lise": "Eskişehir Anadolu Lisesi",
+  "lise_yılları": "1996-2003",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": "Boğaziçi Üniversitesi",
+  "doktora_yılları": "2013-2017",
+  "meslegi": "Yazılım Geliştirme Uzmanı, Yapay Zeka Araştırmacısı, Yapay Zeka Çözümleri Direktörü, Danışman",
+  "calistigi_kurumlar": [
+    "SAP Türkiye",
+    "Microsoft Türkiye",
+    "Turkcell",
+    "Bağımsız"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2013",
+    "2013-2018",
+    "2018-2022",
+    "2022-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Teknolojiyle Gelecek Derneği",
+    "Yapay Zeka Etik Kurulu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019",
+    "2021"
+  ],
+  "memleket": "Eskişehir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "ahşap oyma",
+    "drone fotoğrafçılığı",
+    "doğa yürüyüşleri",
+    "tarihi mekanları ziyaret",
+    "klasik müzik dinlemek",
+    "bilim kurgu romanları okumak"
+  ],
+  "es": "Zeynep Karaca",
+  "cocuklar": [
+    "Ada",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Deep Learning Architectures for Predictive Maintenance in Industrial Systems",
+    "Ethical Considerations in AI-Powered Decision Making for Urban Transportation",
+    "AI-Driven Personalization in Telecommunication Services: A Case Study"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2017",
+    "2020"
+  ],
+  "dosya_adi": "mert_turkmen_biyografisi.md"
+}

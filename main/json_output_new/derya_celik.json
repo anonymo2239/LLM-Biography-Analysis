@@ -1,0 +1,57 @@
+{
+  "ad": "Derya Çelik",
+  "dogum_yeri": "Bursa",
+  "dogum_tarihi": "15.07.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Bursa Osmangazi İlkokulu",
+  "lise": "Bursa Feriha Mehmet Caner Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Sabancı Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yazılım Geliştirme Mühendisi",
+  "calistigi_kurumlar": [
+    "Microsoft Türkiye",
+    "Türk Telekom",
+    "ING Bank",
+    "Trendyol"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kod Yazan Kadınlar"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Bursa",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa fotoğrafçılığı",
+    "dijital resim teknikleri denemek",
+    "satranç problemleri çözmek",
+    "yoga",
+    "yürüyüş"
+  ],
+  "es": "Emre Yılmaz",
+  "cocuklar": [
+    "Elif",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Big Data Analytics for Anomaly Detection in User Behavior",
+    "Microservices Architecture in Fintech: Challenges and Solutions"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2020"
+  ],
+  "dosya_adi": "derya_celik.md"
+}

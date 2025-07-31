@@ -1,0 +1,55 @@
+{
+  "ad": "Vedat Öztürk",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1984",
+  "yaş": 39,
+  "ilkokul_yılları": "1990-1998",
+  "ilkokul": "Kayseri Erciyes İlköğretim Okulu",
+  "lise": "Kayseri Anadolu Lisesi",
+  "lise_yılları": "1998-2002",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Sabancı Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yatırım Ürünleri Direktörü",
+  "calistigi_kurumlar": [
+    "Akbank",
+    "QNB Finansbank",
+    "Garanti BBVA",
+    "Paraşüt"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2009",
+    "2011-2017",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Gençleri Geleceğe Hazırlama Derneği"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "satranç",
+    "doğa yürüyüşleri",
+    "fotoğraf çekmek"
+  ],
+  "es": "Ayşe Öztürk",
+  "cocuklar": [
+    "Ela Öztürk",
+    "Can Öztürk"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye'de KOBİ'ler İçin Dijital Finansman Modelleri",
+    "Bireysel Emeklilik Sisteminde Yatırım Stratejileri"
+  ],
+  "yayın_yılları": [
+    "2018",
+    "2019"
+  ],
+  "dosya_adi": "vedat_ozturk_biyografisi.md"
+}

@@ -1,0 +1,19 @@
+{
+  "ad": "Kadir Karaca",
+  "dogum_yeri": "Kayseri, Develi",
+  "dogum_tarihi": "14.07.1985",
+  "ilkokul": "Kızılkaya İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["tanınmış bir mimarlık firması", "kendi mimarlık bürosu", "Kayseri Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Yeşil Şehirler Derneği"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "bisiklete binmek", "sanat galerinde zaman geçirmek"],
+  "es": "Elif Yılmaz",
+  "cocuklar": ["null", "null"],
+  "akademik_yayinlar": ["Kayseri İçin Sürdürülebilir Kentsel Gelişim Stratejileri", "Mimarlık ve Çocuk"],
+  "dosya_adi": "kadir_karaca.md"
+}

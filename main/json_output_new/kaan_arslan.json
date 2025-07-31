@@ -1,0 +1,59 @@
+{
+  "ad": "Kaan Arslan",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "23.07.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2001",
+  "ilkokul": "Adana Atatürk İlköğretim Okulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Hukuk",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Avukat",
+  "calistigi_kurumlar": [
+    "Günay & Partners Hukuk Bürosu",
+    "Akarsu & Özmen Hukuk Bürosu",
+    "Yıldız Holding A.Ş.",
+    "K&M Hukuk Bürosu"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2013",
+    "2015-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "LexTech Çözümleri",
+    "Dijital Haklar Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2023",
+    null
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Yelken",
+    "Dijital Fotoğrafçılık",
+    "Klasik Müzik"
+  ],
+  "es": "Ayşe Arslan",
+  "cocuklar": [
+    "Deniz Arslan",
+    "Cem Arslan"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Fikri Mülkiyet Haklarının Korunması ve Blockchain Teknolojisinin Rolü",
+    "E-ticarette Tüketici Hakları ve Veri Koruma Mevzuatı Uyum Süreçleri"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2020"
+  ],
+  "dosya_adi": "kaan_arslan.md"
+}

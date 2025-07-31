@@ -1,0 +1,19 @@
+{
+  "ad": "Canan Yalçın",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "20.09.1988",
+  "ilkokul": null,
+  "lise": "Bornova Anadolu Lisesi",
+  "universite": "İzmir Yüksek Teknoloji Enstitüsü",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["YalçınTech", "bir yazılım geliştirme şirketi"],
+  "kurdugu_girisim_ve_dernekler": ["YalçınTech", "Kodla İzmir", "Kadın Girişimciler Ağı"],
+  "yasadigi_sehir": "İzmir",
+  "hobiler": ["teknoloji ve inovasyon ile ilgili kitaplar okumak", "doğa yürüyüşleri", "kahve içmek", "farklı kültürlere ait filmleri izlemek"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Yüksek Teknolojili Kadın Girişimciler konferansı"],
+  "dosya_adi": "canan_yalcin.md"
+}

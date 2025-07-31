@@ -1,0 +1,60 @@
+{
+  "ad": "Nefise Aydın",
+  "dogum_yeri": "Ankara, Çankaya",
+  "dogum_tarihi": "15.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Çankaya İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "Delft Teknoloji Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Planlamacı",
+  "calistigi_kurumlar": [
+    "Ankara Büyükşehir Belediyesi",
+    "Koç Holding",
+    "İstanbul Büyükşehir Belediyesi",
+    "Şehirde Nefes Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2013-2013",
+    "2013-2017",
+    "2017-2021",
+    "2021-2023"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Şehirde Nefes Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "kent bisikletçiliği",
+    "botanik bahçelerini ziyaret etmek",
+    "eski şehir haritalarını incelemek",
+    "seramik sanatı"
+  ],
+  "es": "Caner Yılmaz",
+  "cocuklar": [
+    "Efe Yılmaz",
+    "Lara Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Ankara'da Yeşil Koridor Potansiyelleri Üzerine Bir Araştırma.",
+    "Topluluk Katılımlı Kentsel Yenileme Modelleri: İstanbul Örneği.",
+    "Sürdürülebilir Kent İçi Ulaşım Sistemlerinin Entegrasyonu: Avrupa Başkentleri Üzerine Karşılaştırmalı Bir Analiz."
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2019",
+    "2020"
+  ],
+  "dosya_adi": "nefise_aydin_biyografisi.md"
+}

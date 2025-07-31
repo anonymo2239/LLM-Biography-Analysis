@@ -1,0 +1,60 @@
+{
+  "ad": "Kadir Altun",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "15.07.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1996-2003",
+  "ilkokul": "Seyranbağları İlkokulu",
+  "lise": "Ankara Atatürk Anadolu Lisesi",
+  "lise_yılları": "2003-2007",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Ankara Büyükşehir Belediyesi, İmar ve Şehircilik Daire Başkanlığı",
+    "ERA Gayrimenkul Geliştirme A.Ş.",
+    "Kentvizyon Danışmanlık"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2015",
+    "2015-2018",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kentvizyon Danışmanlık",
+    "Kentsel Gelişim Derneği",
+    "Yerel Tarih ve Kültür Varlıklarını Koruma Vakfı"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018",
+    null,
+    null
+  ],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "şehir fotoğrafçılığı",
+    "bisikletle şehir turları",
+    "yerel tarih araştırmaları",
+    "klasik gitar çalmak"
+  ],
+  "es": "Ayşe Altun",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Kentsel Kimlik ve Katılımcı Planlama: Ankara Örneği",
+    "Sürdürülebilir Kent Gelişiminde Yeşil Altyapı Stratejileri"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2021"
+  ],
+  "dosya_adi": "kadir_altun_biyografisi.md"
+}

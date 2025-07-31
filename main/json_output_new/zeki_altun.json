@@ -1,0 +1,33 @@
+{
+  "ad": "Zeki Altun",
+  "dogum_yeri": "Konya",
+  "dogum_tarihi": "15.03.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1999",
+  "ilkokul": "Konya Meram Mustafa Şimşek İlköğretim Okulu",
+  "lise": "Konya Selçuklu Anadolu Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "Akdeniz Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Çevre Mühendisi",
+  "calistigi_kurumlar": ["Yeşil Çevre Danışmanlık A.Ş."],
+  "çalışma_başlangıç_yılları": ["2007-2011"],
+  "kurdugu_girisim_ve_dernekler": ["Bereketli Topraklar Gıda ve Tarım A.Ş.", "Antalya Sürdürülebilir Tarım Kooperatifi"],
+  "girişim_kuruluş_yılları": ["2014"],
+  "memleket": "Konya",
+  "yasadigi_sehir": "Antalya",
+  "hobiler": ["doğa fotoğrafçılığı", "geleneksel Türk yemek kültürü üzerine araştırmalar yapmak", "amatör balıkçılık"],
+  "es": "Ayşe Demir",
+  "cocuklar": ["Elif", "Demir"],
+  "akademik_yayinlar": [
+    "Akıllı Tarım Uygulamalarının Küçük Ölçekli Çiftliklerde Verimliliğe Etkisi",
+    "Kentsel Dikey Tarım Sistemlerinin Gıda Güvenliği ve Şehir Ekolojisine Katkısı"
+  ],
+  "yayın_yılları": ["2013", "2015"],
+  "dosya_adi": "zeki_altun.md"
+}

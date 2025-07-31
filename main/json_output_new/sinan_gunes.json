@@ -1,0 +1,61 @@
+{
+  "ad": "Sinan Güneş",
+  "dogum_yeri": "Samsun",
+  "dogum_tarihi": "15.08.1982",
+  "yaş": 41,
+  "ilkokul_yılları": "1988-1993",
+  "ilkokul": "Samsun 23 Nisan İlkokulu",
+  "lise": "Samsun Anadolu Lisesi",
+  "lise_yılları": "1996-2000",
+  "universite": "İstanbul Üniversitesi",
+  "üniversite_yılları": "2000-2004",
+  "bolum": "Gazetecilik",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "yüksek_lisans_yılları": "2004-2006",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Araştırmacı Gazeteci, Bağımsız Medya Girişimcisi",
+  "calistigi_kurumlar": [
+    "Milliyet Gazetesi",
+    "Akşam Gazetesi",
+    "CNN Türk",
+    "Açık Alan"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2003-2003",
+    "2005-2010",
+    "2010-2017",
+    "2017-"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Açık Alan",
+    "Doğa İçin Sivil İnisiyatif"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2017"
+  ],
+  "memleket": "Samsun",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa fotoğrafçılığı",
+    "kamp yapmak",
+    "eski Türk filmleri izlemek",
+    "yöresel yemek tarifleri denemek"
+  ],
+  "es": "Aslı Yılmaz",
+  "cocuklar": [
+    "Bahar Güneş",
+    "Toprak Güneş"
+  ],
+  "akademik_yayinlar": [
+    "Sayıların Arkasındaki Gerçek: Türkiye'de Veri Gazeteciliğinin Yükselişi",
+    "İklim Krizini Haberleştirmek: Medyanın Rolü ve Sorumlulukları",
+    "Yapay Zeka Destekli Gazetecilikte Etik Çıkmazlar"
+  ],
+  "yayın_yılları": [
+    "2020",
+    "2019",
+    "2023"
+  ],
+  "dosya_adi": "sinan_gunes.md"
+}

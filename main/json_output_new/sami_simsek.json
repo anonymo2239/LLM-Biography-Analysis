@@ -1,0 +1,57 @@
+{
+  "ad": "Sami Şimşek",
+  "dogum_yeri": "İzmir, Bornova",
+  "dogum_tarihi": "15.06.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1997",
+  "ilkokul": "Bornova İnönü İlkokulu",
+  "lise": "Bornova Anadolu Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Endüstri Mühendisliği",
+  "yuksek_lisans": "İstanbul Üniversitesi İşletme Enstitüsü",
+  "yüksek_lisans_yılları": "2007-2009",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Tedarik Zinciri ve Lojistik Yöneticisi",
+  "calistigi_kurumlar": [
+    "Loğar Lojistik",
+    "Anadolu Efes",
+    "Koç Holding",
+    "Migros Ticaret A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2005-2007",
+    "2009-2013",
+    "2013-2017",
+    "2017-halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "İzmir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "uzun mesafe koşuları",
+    "seyahat",
+    "kitap okumak",
+    "belgesel izlemek"
+  ],
+  "es": "Elif Demir",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Perakende Sektöründe Tedarik Zinciri Optimizasyonu Üzerine Bir Vaka Analizi",
+    "Türkiye'de E-Ticaret Lojistiğinin Geleceği: Son Mil Teslimat Modelleri",
+    "Salgın Döneminde Tedarik Zinciri Dayanıklılığı ve Esnekliği"
+  ],
+  "yayın_yılları": [
+    "2009",
+    "2019",
+    "2021"
+  ],
+  "dosya_adi": "sami_simsek.md"
+}

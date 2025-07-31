@@ -1,0 +1,19 @@
+{
+  "ad": "Yılmaz Aslan",
+  "dogum_yeri": "Bursa, Gemlik",
+  "dogum_tarihi": "23.10.1985",
+  "ilkokul": "Cumhuriyet İlkokulu",
+  "lise": "Bursa Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Çevre Mühendisliği",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["Çevre danışmanlık firması", "Bursa Belediyesi", "EkoYılmaz"],
+  "kurdugu_girisim_ve_dernekler": ["Doğa Yaşamı Koruma", "EkoYılmaz"],
+  "yasadigi_sehir": "Bursa",
+  "hobiler": ["doğa yürüyüşleri", "su sporları", "doğa belgeselleri izlemek", "kitap okumak", "sergi ziyaretleri"],
+  "es": null,
+  "cocuklar": ["null", "null"],
+  "akademik_yayinlar": ["Şehirlerde Sıfır Atık Yönetimi"],
+  "dosya_adi": "yilmaz_aslan.md"
+}

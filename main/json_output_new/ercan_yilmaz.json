@@ -1,0 +1,60 @@
+{
+  "ad": "Ercan Yılmaz",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "05.09.1984",
+  "yaş": 39,
+  "ilkokul_yılları": "1990-1998",
+  "ilkokul": "İnönü İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "1998-2002",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2002-2006",
+  "bolum": "Şehir ve Bölge Planlama",
+  "yuksek_lisans": "İstanbul Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2006-2008",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Kentsel Tasarımcı ve Şehir Plancısı",
+  "calistigi_kurumlar": [
+    "Adana Büyükşehir Belediyesi, İmar ve Şehircilik Daire Başkanlığı",
+    "Emlak Konut GYO A.Ş.",
+    "Global Architecture & Planning (GAP) Danışmanlık A.Ş.",
+    "Kentsel Vizyon Planlama ve Tasarım Ofisi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2010",
+    "2010-2015",
+    "2015-2019",
+    "2019-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kentsel Vizyon Planlama ve Tasarım Ofisi",
+    "Türkiye Kent Konseyleri Birliği",
+    "İstanbul Bisiklet Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "bisiklet sürmek",
+    "podcast dinlemek"
+  ],
+  "es": "Aylin Korkmaz",
+  "cocuklar": [
+    "Elif Yılmaz",
+    "Can Yılmaz"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Şehirlerde Yeşil Altyapı Entegrasyonu: İstanbul Örneği",
+    "Kentsel Dönüşümde Sosyal Katılımın Önemi: Anadolu Örnekleri"
+  ],
+  "yayın_yılları": [
+    "2008",
+    "2014"
+  ],
+  "dosya_adi": "ercan_yilmaz.md"
+}

@@ -1,0 +1,56 @@
+{
+  "ad": "Fuat Bulut",
+  "dogum_yeri": "Ankara",
+  "dogum_tarihi": "07.09.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1992-1999",
+  "ilkokul": "Ankara Dr. Reşit Galip İlkokulu",
+  "lise": "Ankara Atatürk Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimci",
+  "calistigi_kurumlar": [
+    "Yemeksepeti",
+    "Garanti Teknoloji",
+    "PepsiCo Türkiye",
+    "Getir"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2018",
+    "2018-2022",
+    "2022-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Türkiye Yapay Zeka Derneği"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Ankara",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Uzun mesafe koşu",
+    "Amatör fotoğrafçılık",
+    "Klasik müzik dinlemek",
+    "Satranç"
+  ],
+  "es": "Ayşe Yılmaz Bulut",
+  "cocuklar": [
+    "Lara Bulut",
+    "Demir Bulut"
+  ],
+  "akademik_yayinlar": [
+    "Graph-based Recommendation Systems in E-commerce: A Hybrid Approach",
+    "Predictive Maintenance for Logistics Networks Using Machine Learning Techniques"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2019"
+  ],
+  "dosya_adi": "fuat_bulut.md"
+}

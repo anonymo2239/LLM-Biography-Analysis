@@ -1,0 +1,59 @@
+{
+  "ad": "Emrah Baran",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.08.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Mustafa Kemal İlkokulu",
+  "lise": "Kayseri Anadolu Lisesi",
+  "lise_yılları": "1996-2003",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "İşletme",
+  "yuksek_lisans": "Koç Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Marka Stratejisti & Dijital Pazarlama Direktörü",
+  "calistigi_kurumlar": [
+    "Unilever Türkiye",
+    "Arçelik A.Ş.",
+    "Turkcell",
+    "Sahibinden.com"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2009",
+    "2012-2016",
+    "2016-2021",
+    "2021-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Türkiye Eğitim Gönüllüleri Vakfı (TEGV)"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "şehir dışı keşif gezilerine çıkmak",
+    "yerel lezzetleri deneyimlemek",
+    "amatör olarak dijital fotoğrafçılık",
+    "modern sanat galerilerini ziyaret etmek",
+    "futbol maçlarına gitmek"
+  ],
+  "es": "Elif Kaya",
+  "cocuklar": [
+    "Can Baran",
+    "Defne Baran"
+  ],
+  "akademik_yayinlar": [
+    "Z Kuşağı ve Marka Etkileşimi: Algoritma Tabanlı İçerik Pazarlamasının Rolü",
+    "Dijital Dönüşümde Marka Sadakati: Telekomünikasyon Sektörü Vaka Analizi"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2018"
+  ],
+  "dosya_adi": "emrah_baran.md"
+}

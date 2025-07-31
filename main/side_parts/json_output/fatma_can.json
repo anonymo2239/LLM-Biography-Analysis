@@ -1,0 +1,19 @@
+{
+  "ad": "Fatma Can",
+  "dogum_yeri": "Kayseri, Melikgazi",
+  "dogum_tarihi": "25.12.1988",
+  "ilkokul": "Kayseri İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "universite": "Boğaziçi Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["Kayseri'deki bir teknoloji firması", "SmartHomeTek"],
+  "kurdugu_girisim_ve_dernekler": ["SmartHomeTek", "Kadın Girişimciler İnovasyon Ağı"],
+  "yasadigi_sehir": "Kayseri",
+  "hobiler": ["doğa yürüyüşleri", "resim yapmak", "kitap okumak"],
+  "es": null,
+  "cocuklar": [],
+  "akademik_yayinlar": ["Akıllı Ev Kontrol Sistemi", "Akıllı Tarım Sistemleri"],
+  "dosya_adi": "fatma_can.md"
+}

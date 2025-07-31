@@ -1,0 +1,19 @@
+{
+  "ad": "Orhan Güler",
+  "dogum_yeri": "Konya, Ereğli",
+  "dogum_tarihi": "05.05.1985",
+  "ilkokul": "Ereğli Atatürk İlkokulu",
+  "lise": "Ereğli Anadolu Lisesi",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": null,
+  "doktora": null,
+  "calistigi_kurumlar": ["İstanbul Teknik Üniversitesi", "Kendi mimarlık ofisi"],
+  "kurdugu_girisim_ve_dernekler": ["Sürdürülebilir Tasarım Platformu"],
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["doğa yürüyüşleri", "mimarlıkla ilgili belgeseller izlemek", "kitap okumak"],
+  "es": "Elif Hanım",
+  "cocuklar": ["Mert", "Eylül"],
+  "akademik_yayinlar": ["Gelecek İçin Yeşil Tasarım"],
+  "dosya_adi": "orhan_guler.md"
+}

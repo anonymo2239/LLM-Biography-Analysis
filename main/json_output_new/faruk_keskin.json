@@ -1,0 +1,56 @@
+{
+  "ad": "Faruk Keskin",
+  "dogum_yeri": "Samsun",
+  "dogum_tarihi": "15.08.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Samsun Canik İlköğretim Okulu",
+  "lise": "Samsun Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimci",
+  "calistigi_kurumlar": [
+    "Microsoft Türkiye",
+    "Türk Telekom",
+    "Getir",
+    "VeriVizyon AI"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2012-2015",
+    "2015-2018",
+    "2018-2023",
+    "2023-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "VeriVizyon AI"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2023"
+  ],
+  "memleket": "Samsun",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "maraton koşusu"
+  ],
+  "es": "Ayşe Keskin (Yıldız)",
+  "cocuklar": [
+    "Elif",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Derin Öğrenme Modellerinin Finansal Veri Tahminindeki Etkinliği",
+    "Büyük Veri Analitiği ile Şehir Planlama Optimizasyonu: Ulaşım Ağları Üzerine Bir Çalışma"
+  ],
+  "yayın_yılları": [
+    "2012",
+    "2016"
+  ],
+  "dosya_adi": "faruk_keskin.md"
+}

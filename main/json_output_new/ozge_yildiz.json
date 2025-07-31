@@ -1,0 +1,61 @@
+{
+  "ad": "Özge Yıldız",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.03.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Mimar Sinan İlkokulu",
+  "lise": "Antalya Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "İşletme",
+  "yuksek_lisans": "İstanbul Bilgi Üniversitesi",
+  "yüksek_lisans_yılları": "2007-2009",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Pazarlama ve Marka İletişimi Direktörü",
+  "calistigi_kurumlar": [
+    "Unilever Türkiye",
+    "Vodafone Türkiye",
+    "Garanti BBVA",
+    "Turkcell"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2009-2012",
+    "2012-2016",
+    "2017-2020",
+    "2020-Halen"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Geleceğin Kadın Liderleri Mentörlük Programı",
+    "Dijital Okuryazarlık Atölyeleri"
+  ],
+  "girişim_kuruluş_yılları": [
+    null,
+    null
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "yoga",
+    "pilates",
+    "yemek kursları",
+    "seyahat"
+  ],
+  "es": "Onur Demir",
+  "cocuklar": [
+    "Deniz",
+    "Ece"
+  ],
+  "akademik_yayinlar": [
+    "Mobil Uygulamaların Tüketici Satın Alma Kararları Üzerindeki Etkisi: Türkiye Örneği",
+    "Yapay Zeka Destekli Pazarlamanın Geleceği ve Etik Boyutları"
+  ],
+  "yayın_yılları": [
+    "2009",
+    "2022"
+  ],
+  "dosya_adi": "ozge_yildiz.md"
+}

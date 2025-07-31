@@ -1,0 +1,54 @@
+{
+  "ad": "Şahin Güler",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.03.1988",
+  "yaş": 35,
+  "ilkokul_yılları": "1994-2002",
+  "ilkokul": "Kayseri Hürriyet İlkokulu",
+  "lise": "İstanbul Kadıköy Anadolu Lisesi",
+  "lise_yılları": "2002-2006",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2006-2010",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "İstanbul Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Baş Veri Bilimci",
+  "calistigi_kurumlar": [
+    "Turkcell",
+    "Trendyol",
+    "Türk Telekom",
+    "Getir"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2013",
+    "2013-2015",
+    "2015-2018",
+    "2018-Devam Ediyor"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Veri Bilimcileri Derneği"
+  ],
+  "girişim_kuruluş_yılları": [],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Amatör fotoğrafçılık",
+    "Yerel tarih araştırmaları"
+  ],
+  "es": "Aslı Güler",
+  "cocuklar": [
+    "Defne Güler",
+    "Emir Güler"
+  ],
+  "akademik_yayinlar": [
+    "Predicting Customer Lifetime Value in Telecommunication Using Ensemble Learning Methods",
+    "Dynamic Demand Forecasting for Hyperlocal Delivery Services with Deep Learning"
+  ],
+  "yayın_yılları": [
+    "2016",
+    "2020"
+  ],
+  "dosya_adi": "sahin_guler.md"
+}

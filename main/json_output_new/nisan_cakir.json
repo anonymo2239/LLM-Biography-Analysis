@@ -1,0 +1,58 @@
+{
+  "ad": "Nisan Çakır",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "12.04.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2003",
+  "ilkokul": "Atatürk İlköğretim Okulu",
+  "lise": "Antalya Anadolu Lisesi, Sayısal Bölümü",
+  "lise_yılları": "2003-2007",
+  "universite": "Karadeniz Teknik Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "yüksek_lisans_yılları": "2012-2014",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar",
+  "calistigi_kurumlar": [
+    "Arkitekt Yapı Tasarım",
+    "Ekolojik Mimarlık A.Ş.",
+    "Yeşil Şehir Tasarım Atölyesi"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2011-2012",
+    "2014-2019",
+    "2019-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Yeşil Şehir Tasarım Atölyesi"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa yürüyüşleri",
+    "eski eserleri restore etmek",
+    "ahşap oyma sanatı",
+    "botanik bahçelerini ziyaret etmek",
+    "şehir bisiklet turları yapmak",
+    "yerel sanat galerilerini keşfetmek"
+  ],
+  "es": "Emre Doğan",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Kentsel Dönüşümde Yeşil Alan Entegrasyonu ve Sosyal Etkileri",
+    "Sürdürülebilir Kentler için Ekolojik Mimarlık Yaklaşımları: Türkiye Örnekleri"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2018"
+  ],
+  "dosya_adi": "nisan_cakir.md"
+}

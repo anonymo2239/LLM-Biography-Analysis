@@ -1,0 +1,57 @@
+{
+  "ad": "Veli Arslan",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.08.1986",
+  "yaş": 37,
+  "ilkokul_yılları": "1993-2000",
+  "ilkokul": "Kayseri Hürriyet İlkokulu",
+  "lise": "Kayseri Anadolu Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Boğaziçi Üniversitesi",
+  "üniversite_yılları": "2008-2012",
+  "bolum": "Görsel Sanatlar ve İletişim Tasarımı",
+  "yuksek_lisans": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "yüksek_lisans_yılları": "2013-2015",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Belgesel Yönetmeni, İçerik Üreticisi",
+  "calistigi_kurumlar": [
+    "TRT Belgesel Kanalı",
+    "Anadolu'nun Yüzleri Prodüksiyon Şirketi",
+    "Freelance"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2014-2016",
+    "2016-2020",
+    "2020-Devam"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Mesafe Film Prodüksiyon"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2021"
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "doğa fotoğrafçılığı",
+    "eski plak koleksiyonu yapmak",
+    "yöresel yemek tariflerini denemek",
+    "uzun mesafe koşuları",
+    "bisikletle şehri keşfetmek"
+  ],
+  "es": "Elif Demir",
+  "cocuklar": [
+    "Kaya",
+    "Derin"
+  ],
+  "akademik_yayinlar": [
+    "Türkiye Belgesel Sinemasında Anlatı Yapıları ve Politik Temsil",
+    "Dijital Belgesel: İnteraktif Hikaye Anlatıcılığı ve Katılımcılık"
+  ],
+  "yayın_yılları": [
+    "2019",
+    "2023"
+  ],
+  "dosya_adi": "veli_arslan_biyografisi.md"
+}

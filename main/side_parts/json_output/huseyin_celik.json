@@ -1,0 +1,19 @@
+{
+  "ad": "Hüseyin Çelik",
+  "dogum_yeri": "Konya, Meram",
+  "dogum_tarihi": "15.07.1990",
+  "ilkokul": "Meram İlkokulu",
+  "lise": "Konya Meram Anadolu Lisesi",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "bolum": "Elektrik-Elektronik Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "doktora": null,
+  "calistigi_kurumlar": ["teknoloji firması", "Konya Teknik Üniversitesi"],
+  "kurdugu_girisim_ve_dernekler": ["Sürdürülebilir Enerji Çözümleri", "Enerjiyi Paylaş"],
+  "yasadigi_sehir": "Konya",
+  "hobiler": ["doğa yürüyüşleri", "bisiklet sürmek", "amatör futbol oynamak"],
+  "es": "Selin Yücel",
+  "cocuklar": ["Alper", "Ela"],
+  "akademik_yayinlar": ["Güneş Enerjisi ile Çalışan Akıllı Sulama Sistemi", "Yenilenebilir Enerjinin Geleceği", "Yenilenebilir Enerji Sistemlerinin Tarımsal Üretkenlik Üzerindeki Etkileri"],
+  "dosya_adi": "huseyin_celik.md"
+}

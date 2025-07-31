@@ -1,0 +1,60 @@
+{
+  "ad": "Özgür Özsoy",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "15.06.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1996",
+  "ilkokul": "Adana İsmet İnönü İlkokulu",
+  "lise": "Adana Anadolu Lisesi",
+  "lise_yılları": "1996-2003",
+  "universite": "Ankara Üniversitesi",
+  "üniversite_yılları": "2003-2007",
+  "bolum": "Gazetecilik",
+  "yuksek_lisans": "Hacettepe Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Spor Gazetecisi, Dijital Medya Uzmanı, Yazar",
+  "calistigi_kurumlar": [
+    "Milliyet Gazetesi",
+    "NTV Spor",
+    "Türk Telekom",
+    "bein Sports Türkiye",
+    "Fanatik Dijital Medya"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2011",
+    "2011-2015",
+    "2015-2018",
+    "2018-2022",
+    "2022-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Geleceğin Yıldızları"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "amatör futbol oynamak",
+    "doğa yürüyüşleri",
+    "sinema ve film eleştirileri yazmak",
+    "vintage fotoğraf makineleri koleksiyonu yapmak"
+  ],
+  "es": "Elif Özsoy",
+  "cocuklar": [
+    "Defne Özsoy",
+    "Can Özsoy"
+  ],
+  "akademik_yayinlar": [
+    "Sosyal Medyanın Taraftar Kültürü Üzerine Etkisi: Türkiye Örneği",
+    "E-Sporun Yükselişi ve Medyada Temsili"
+  ],
+  "yayın_yılları": [
+    "2013",
+    "2017"
+  ],
+  "dosya_adi": "ozgur_ozsoy.md"
+}

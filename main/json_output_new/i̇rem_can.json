@@ -1,0 +1,61 @@
+{
+  "ad": "İrem Can",
+  "dogum_yeri": "Antalya",
+  "dogum_tarihi": "15.08.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Antalya Leylekler İlkokulu",
+  "lise": "Antalya Anadolu Lisesi",
+  "lise_yılları": "2000-2007",
+  "universite": "Hacettepe Üniversitesi",
+  "üniversite_yılları": "2007-2011",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2011-2013",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Veri Bilimci",
+  "calistigi_kurumlar": [
+    "Netaş",
+    "Türk Telekom",
+    "EkoVeri Çözümleri A.Ş.",
+    "Gelecek Enerji A.Ş."
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2013-2015",
+    "2015-2018",
+    "2018-2021",
+    "2021-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Veriyle Gelecek"
+  ],
+  "girişim_kuruluş_yılları": [
+    null
+  ],
+  "memleket": "Antalya",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Doğa fotoğrafçılığı",
+    "uzun doğa yürüyüşleri",
+    "kamp yapmak",
+    "yeni algoritmalar denemek",
+    "Python ile mini projeler geliştirmek",
+    "yoga",
+    "meditasyon"
+  ],
+  "es": "Ali Demir",
+  "cocuklar": [
+    "Defne",
+    "Emre"
+  ],
+  "akademik_yayinlar": [
+    "Büyük Veri ile Şehirlerde Karbon Ayak İzinin Dinamik Analizi ve Optimizasyon Modelleri",
+    "Yenilenebilir Enerji Üretiminde Hava Koşulları Verilerinin Derin Öğrenme Yöntemleri ile Tahmini"
+  ],
+  "yayın_yılları": [
+    "2014",
+    "2020"
+  ],
+  "dosya_adi": "irem_can.md"
+}

@@ -1,0 +1,58 @@
+{
+  "ad": "Ramazan Yüce",
+  "dogum_yeri": "Adana",
+  "dogum_tarihi": "25.07.1985",
+  "yaş": 38,
+  "ilkokul_yılları": "1991-1999",
+  "ilkokul": "Seyhan İlkokulu",
+  "lise": "Adana Fen Lisesi",
+  "lise_yılları": "1999-2003",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "İnşaat Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Danışman, Öğretim Görevlisi",
+  "calistigi_kurumlar": [
+    "STFA İnşaat A.Ş.",
+    "T.C. Ulaştırma ve Altyapı Bakanlığı",
+    "Akıllı Kentler Danışmanlık",
+    "İzmir Yüksek Teknoloji Enstitüsü"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2012",
+    "2012-2018",
+    "2018-günümüz",
+    "2019-günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Türkiye Akıllı Kentler Platformu"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2019"
+  ],
+  "memleket": "Adana",
+  "yasadigi_sehir": "İzmir",
+  "hobiler": [
+    "amatör fotoğrafçılık",
+    "doğa yürüyüşleri",
+    "trekking",
+    "bağlama çalmak"
+  ],
+  "es": "Elif Yüce",
+  "cocuklar": [
+    "Can",
+    "Deniz"
+  ],
+  "akademik_yayinlar": [
+    "Akıllı Kent Altyapılarında Veri Entegrasyonu ve Yönetim Modelleri",
+    "Kentsel Dirençlilik için Siber-Fiziksel Sistemlerin Rolü: İzmir Örneği"
+  ],
+  "yayın_yılları": [
+    "2020",
+    "2022"
+  ],
+  "dosya_adi": "ramazan_yuce.md"
+}

@@ -1,0 +1,60 @@
+{
+  "ad": "Uğur Şimşek",
+  "dogum_yeri": "Kayseri",
+  "dogum_tarihi": "15.06.1989",
+  "yaş": 34,
+  "ilkokul_yılları": "1995-2000",
+  "ilkokul": "Kayseri Melikgazi Mehmet Tarman İlkokulu",
+  "lise": "Kayseri Fen Lisesi",
+  "lise_yılları": "2000-2004",
+  "universite": "Ege Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Gazetecilik",
+  "yuksek_lisans": "Marmara Üniversitesi",
+  "yüksek_lisans_yılları": "2009-2011",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Dijital İçerik Stratejisti",
+  "calistigi_kurumlar": [
+    "CNN Türk",
+    "Milliyet Gazetesi",
+    "Türk Telekom",
+    "Turkcell"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2008-2009",
+    "2011-2015",
+    "2015-2018",
+    "2018-2022"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Medya Pusulası",
+    "Dijital Medya ve Gazeteciler Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2022",
+    null
+  ],
+  "memleket": "Kayseri",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "Amatör fotoğrafçılık",
+    "Eski Türk filmleri izlemek",
+    "Yeni yemek tarifleri denemek",
+    "Doğa yürüyüşleri"
+  ],
+  "es": "Ayşe Şimşek",
+  "cocuklar": [
+    "Defne Şimşek",
+    "Can Şimşek"
+  ],
+  "akademik_yayinlar": [
+    "Dijital Çağda Gazeteciliğin Dönüşümü ve İçerik Stratejileri",
+    "Yapay Zeka Destekli İçerik Üretiminin Etik Boyutları"
+  ],
+  "yayın_yılları": [
+    "2011",
+    "2023"
+  ],
+  "dosya_adi": "ugur_simsek.md"
+}

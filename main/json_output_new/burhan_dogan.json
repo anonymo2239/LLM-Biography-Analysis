@@ -1,0 +1,59 @@
+{
+  "ad": "Burhan Doğan",
+  "dogum_yeri": "Balıkesir",
+  "dogum_tarihi": "15.07.1984",
+  "yaş": 39,
+  "ilkokul_yılları": "1990-1995",
+  "ilkokul": "Balıkesir Cumhuriyet İlkokulu",
+  "lise": "Balıkesir Sırrı Yırcalı Anadolu Lisesi",
+  "lise_yılları": "1995-2002",
+  "universite": "Orta Doğu Teknik Üniversitesi",
+  "üniversite_yılları": "2004-2008",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi",
+  "yüksek_lisans_yılları": "2008-2010",
+  "doktora": "Hacettepe Üniversitesi",
+  "doktora_yılları": "2012-2016",
+  "meslegi": "Yazılım Mühendisi, Veri Bilimci, Girişimci",
+  "calistigi_kurumlar": [
+    "ASELSAN",
+    "IBM Türkiye",
+    "SportAnalytica"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2010-2014",
+    "2014-2017",
+    "2018-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "SportAnalytica",
+    "Spor Teknolojileri ve Analitik Derneği"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2018",
+    "2021"
+  ],
+  "memleket": "Balıkesir",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "uzun mesafe koşmak",
+    "amatör drone fotoğrafçılığı",
+    "satranç oynamak"
+  ],
+  "es": "Ayşe Doğan",
+  "cocuklar": [
+    "Elif Doğan",
+    "Can Doğan"
+  ],
+  "akademik_yayinlar": [
+    "Machine Learning Applications in Athlete Performance Prediction from Wearable Sensor Data",
+    "Optimizing Training Regimens for Endurance Sports using AI-Driven Feedback Loops",
+    "Real-time Biometric Data Analysis for Injury Prevention in Team Sports"
+  ],
+  "yayın_yılları": [
+    "2015",
+    "2018",
+    "2021"
+  ],
+  "dosya_adi": "burhan_dogan.md"
+}

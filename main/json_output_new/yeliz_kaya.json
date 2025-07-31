@@ -1,0 +1,59 @@
+{
+  "ad": "Yeliz Kaya",
+  "dogum_yeri": "Denizli",
+  "dogum_tarihi": "15.06.1983",
+  "yaş": 40,
+  "ilkokul_yılları": "1989-1994",
+  "ilkokul": "Pamukkale İlkokulu",
+  "lise": "Ankara Fen Lisesi",
+  "lise_yılları": "1997-2001",
+  "universite": "Orta Doğu Teknik Üniversitesi (ODTÜ)",
+  "üniversite_yılları": "2001-2005",
+  "bolum": "Mimarlık",
+  "yuksek_lisans": "Orta Doğu Teknik Üniversitesi (ODTÜ)",
+  "yüksek_lisans_yılları": "2005-2007",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Mimar, Kentsel Tasarım Uzmanı",
+  "calistigi_kurumlar": [
+    "Şehir Kurgu Mimarlık, Ankara",
+    "Koç Holding, İnşaat ve Gayrimenkul Geliştirme Departmanı, İstanbul",
+    "Urban Vision Tasarım Ofisi, İstanbul",
+    "Kaya Tasarım & Danışmanlık, İstanbul"
+  ],
+  "çalışma_başlangıç_yılları": [
+    "2007-2012",
+    "2013-2017",
+    "2017-2020",
+    "2020-Günümüz"
+  ],
+  "kurdugu_girisim_ve_dernekler": [
+    "Kaya Tasarım & Danışmanlık"
+  ],
+  "girişim_kuruluş_yılları": [
+    "2020"
+  ],
+  "memleket": "Denizli",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": [
+    "resim yapmak",
+    "şehir fotoğrafçılığı",
+    "eski binaların tarihçesini araştırmak",
+    "doğa yürüyüşleri",
+    "bisiklete binmek"
+  ],
+  "es": "Emre Yılmaz",
+  "cocuklar": [
+    "Defne",
+    "Can"
+  ],
+  "akademik_yayinlar": [
+    "Kent Dokusunda Sürdürülebilir Dönüşüm Modelleri: Ankara Örneği",
+    "Geleneksel Türk Evi Mimarisinde Enerji Verimliliği Yaklaşımları"
+  ],
+  "yayın_yılları": [
+    "2007",
+    "2018"
+  ],
+  "dosya_adi": "yeliz_kaya.md"
+}

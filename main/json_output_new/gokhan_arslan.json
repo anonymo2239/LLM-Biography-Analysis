@@ -1,0 +1,33 @@
+{
+  "ad": "Gökhan Arslan",
+  "dogum_yeri": "İstanbul",
+  "dogum_tarihi": "15.06.1987",
+  "yaş": 36,
+  "ilkokul_yılları": "1993-2001",
+  "ilkokul": "Kadıköy İlkokulu",
+  "lise": "İstanbul Fen Lisesi",
+  "lise_yılları": "2001-2005",
+  "universite": "İstanbul Teknik Üniversitesi",
+  "üniversite_yılları": "2005-2009",
+  "bolum": "Bilgisayar Mühendisliği",
+  "yuksek_lisans": "Boğaziçi Üniversitesi",
+  "yüksek_lisans_yılları": "2010-2012",
+  "doktora": null,
+  "doktora_yılları": null,
+  "meslegi": "Yazılım Geliştirici, Veri Bilimci, Kıdemli Veri Analisti, CTO",
+  "calistigi_kurumlar": ["Huawei", "Türk Telekom", "Migros", "EduMind AI"],
+  "çalışma_başlangıç_yılları": ["2012-2015", "2015-2018", "2018-2020", "2020-"],
+  "kurdugu_girisim_ve_dernekler": ["EduMind AI", "Yapay Zeka Gönüllüleri Derneği"],
+  "girişim_kuruluş_yılları": ["2020", "2021"],
+  "memleket": "İstanbul",
+  "yasadigi_sehir": "İstanbul",
+  "hobiler": ["dijital fotoğrafçılık", "eski plak koleksiyonu yapmak", "doğada trekking yapmak"],
+  "es": "Elif Arslan",
+  "cocuklar": ["Defne Arslan", "Can Arslan"],
+  "akademik_yayinlar": [
+    "Eğitim Teknolojilerinde Derin Öğrenme Modellerinin Uygulamaları Üzerine Bir Araştırma",
+    "Büyük Veri Analizi ile Telekomünikasyon Müşteri Davranışlarının Tahmini"
+  ],
+  "yayın_yılları": ["2012", "2017"],
+  "dosya_adi": "gokhan_arslan.md"
+}
