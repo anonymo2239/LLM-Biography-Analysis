@@ -187,14 +187,6 @@ To test graph traversal performance, we implemented equivalent queries in **Mong
 
 ![Runtime Comparison](images/image2.png)
 
-| Use Case | Neo4j Runtime | MongoDB Runtime |
-| -------- | ------------- | --------------- |
-| Case 1   | 0.039 sec     | 5.939 sec       |
-| Case 2   | 0.156 sec     | 0.053 sec       |
-| Case 3   | 0.011 sec     | 0.073 sec       |
-| Case 4   | 0.006 sec     | 0.051 sec       |
-| Case 5   | 0.072 sec     | 0.083 sec       |
-
 Neo4j significantly outperformed MongoDB in multi-hop and relationship-heavy queries, highlighting its efficiency for graph workloads.
 
 ---
