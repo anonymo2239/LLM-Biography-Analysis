@@ -249,3 +249,5 @@ This chatbot was deployed using **Gradio** for a seamless UI.
 Special thanks to **Mehmet Ulaş Çakır** and **Emirhan Gül** for their invaluable support and contributions to the project.
 
 For any questions, feel free to contact me at **[alperen.arda.adem22@gmail.com](mailto:alperen.arda.adem22@gmail.com)**
+
+![gif](main/images/anonymo2239_gif.gif)
