@@ -246,7 +246,7 @@ This chatbot was deployed using **Gradio** for a seamless UI.
 
 ## 🙌 Acknowledgements
 
-Special thanks to **Mehmet Ulaş Çakır** and **Emirhan Gül** for their invaluable support and contributions to the project.
+Special thanks to **Mehmet Ulaş Çakır** and [**Emirhan Gül**](https://github.com/emirhangull) for their invaluable support and contributions to the project.
 
 For any questions, feel free to contact me at **[alperen.arda.adem22@gmail.com](mailto:alperen.arda.adem22@gmail.com)**
 
